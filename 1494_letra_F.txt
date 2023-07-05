@@ -1,0 +1,414 @@
+Fabian nombre de varon. fabianus.i.
+Fabricar hazer por artificio. fabrico
+Fabricador assi. fabricator.oris
+Fabrica la mesma hechura. fabrica.e.
+Fabricacion el mesmo hazer. fabricatio
+Fabricada cosa por arte. faber.a.um
+Fabricada cosa assi. fabrefactus.a.um
+Fabricadamente. fabre.adfabre
+Facultad por la hazienda. facultas.bona.orum.
+Facultad possibilidad. facultas.atis.uires
+Facile cosa hazedera. facilis.e.
+Facilidad ligereza de hazer. facilitas
+Facilemente assi. facile.faciliter
+Faisan ave preciosa. phasianus.i.
+Faisan pequeño pollo. pullus phasianinus
+Faisa por la faxa. fascia.ae.strophium.ii.
+Faisa pequeña. fasciola.ae.strophiolum.i.
+Faisar por faxar. fascio.as.aui.
+Falsar contrahazer. falso.as.adultero.as.
+Falsada cosa assi. adulterinus.a.um
+Falsario el que assi falsa. falsarius.ii.
+Falsa cosa que engaña. falsus.a.um.fallax
+Falsedad este engaño. falsitas.fallacia
+Falso dezidor. falsidicus.a.um
+Falsamente. falso.perperam
+Falso trazador. pseudographus.i.
+Falsa trazadura. pseudo graphia.ae.
+Falso profeta. pseudo propheta.ae.
+Falsa profecia. pseudo prophetia
+Falsa abeja. pseudospece.es.
+Falso nardo. pseudo nardus.i.
+Falta por culpa. culpa.ae.
+Falta por mengua. defectus.us.
+Faltar. desum.dees.deficio.is.
+Faltosa cosa que falta. defectus.a.um
+Falta de peso o medida. requiere merma
+Fallar por faltar. desum.deficio
+Falla por falta. defectus.us.
+Fama de nuevas. rumor.oris.fama.ae.
+Fama pequeña de nuevas. rumusculus.i.
+Fama con mucha onra. gloria.celebritas
+Famoso en esta manera. gloriosus.celebris
+Famosamente assi. gloriose celebriter
+Fama mala. infamia.ae.ignominia.ae.
+Famoso en mala parte. famosus.a.um
+Famoso assi. infamis.e.ignominiosus.a.um.
+Famosamente assi. famose.ignominiose
+Fama buena en griego. endoxia.ae.
+Fama buena en griego. cenodoxia
+Fama mala tener. audio male
+Familia. familia.ae.domus.us.
+Familiar cosa. familiaris.e.domesticus
+Familiaridad. familiaritas.consuetudo
+Familiarmente. familiariter
+Fantasia. imaginatio.phantasia
+Fantastica cosa. imaginarius.phantasticus
+Fantasiar. imaginor.aris.
+Fantasma que parece de noche. larua.e.lemures
+Fantasma esta en grie. idolum.i.phantasma.atis
+Farro o escandia. far.ador.adoreum
+Faraute de lenguas. interpres.etis
+Faraute este mesmo en griego. hermes.ae.
+Faron para las naves. pharus.i.
+Fasolo legumbre. phasellus.i.
+Fatiga del anima. angor.anxietas
+Fatiga dal cuerpo. lassitudo.defatigation
+Fatigado o cansado. lassus.defatigatus
+Fatigar. fatigo.as.delasso.as.uexo.as.
+Favorecer con grita. plaudo.is.applaudo
+Favor en esta manera. plausus.us.
+Favorecer con voto. suffragor.aris
+Favor en esta manera. suffragatio.onis
+Favorecedor en esta manera. suffragator
+Favorecer con gestos y manos. plaudo.is.
+Favorecedor assi. plausor.oris
+Favorecer assi a menudo. plausito
+Favorable cosa assi. plausibilis.e.
+Favorecer como quiera. faueo.es.studeo.es.
+Favor en esta manera. fauor.studium
+Favorecedor assi. fautor.studiosus.a.um
+Favorable cosa. fauorabilis.e.
+Favorablemente. fauorabiliter
+Favor del pueblo. aura popularis
+Favorecedor del pueblo. aurarius.ii.
+Favor alcanzar de otro. propicio.as.
+Favor alcanzado assi. propiciatio
+Faxa o faisa como en toledo. fascia.ae.
+Faxar o faisar como alli. fascio.as.
+Faxa de pechos. fascia pectoralis
+Faxa de muger. mammillare.is.
+Fea cosa. turpis.e.deformis.e.informis.e.
+Fea cosa desonesta. inhonestus.indecorus
+Fealdad. turpitudo.deformitas.foeditas
+Fealdad desonestidad. dedecus.inhonestas
+Fea cosa un poquillo. subturpis.e.turpiculus.
+Fe o creencia. fides fidei
+Fe religion. religio.onis
+Feble cosa flaca. debilis.e.exilis.e.
+Feblemente. debiliter.exiliter
+Febledad flaqueza. debilitas.exilitas
+Fenecer acabarse. desino.is.
+Fenecer a otra cosa. finio.is.termino.as.
+Fenecimiento. finis.is.terminus.i.
+Feria o fiesta. feriae.arum
+Feria. impropriamente la toman los clerigos
+Feria mercado como medina. emporium.ii.
+Feria lugar de mercado. mercatus.i.
+Feriar una cosa a otra. commercor.aris
+Ferias en esta manera. commercium.ii.
+Ferias de nueve en nueve dias. nundinae
+Feriar assi. nundinor.aris.
+Feroce cosa o brava. ferox.ocis.
+Feroce cosa un poco. feroculus.a.um
+Ferocemente. ferociter
+Ferocidad fiereza. ferocitas.atis
+Feroce hazerse. ferocio.is.
+Fertile cosa. foecundus.a.um.opimus.a.um
+Fertile cosa. fertilis.e.ferax.acis
+Fertile cosa. huber.eris.foelix.icis
+Fertilemente. foecunde.opime.fertiliter
+Fertilemente. feraciter. hubertim
+Fertilidad. foecunditas.fertilitas
+Fertilidad. feracitas.hubertas
+Fertile hazer algo. opimo.as.
+Fez reino de africa. mauritania.ae.
+Fiar la haz o persona. uador.aris
+Fiador de la persona. uas.uadis
+Fianza de la persona. uadimonium.ii.
+Fiar en la hazienda. do praedes
+Fianza desta manera. praedium exhibitio
+Fiador desta manera. praedium exhibitor
+Fiar como quiera. spondeo.fideiubeo
+Fianza desta manera. sponsor.fideiussor
+Fianza desta manera. sponsio.fideiussio
+Fiadora cosa assi. fideiussorius.a.um
+Fiar confiando de otro. fido.is.confido.is.
+Fiar prestando a otro. credo.is.
+Ficion fingimiento. fictio.figmentum.i.
+Ficion desta manera. commentatio.commentum
+Ficion de persona en griego. prosopopoeia
+Fiel de la balanza. examen.inis.
+Fiel cosa de quien confiamos. fidelis.e.
+Fielmente en esta manera. fideliter
+Fieldad en esta manera. fidelitas.atis
+Fiel que cree en la fe. religiosus.pius.a.um
+Fielmente assi. pie.religiose
+Fiel de los pesos y medidas. aedilis.is.
+Fieldad oficio deste. aedilitas.atis
+Fiel de las medidas del pan. abatis
+Fiebre o calentura. requiere alli
+Fiera cosa. ferus.a.um.agrestis.e.ferox.cis.
+Fiera cosa un poco. subagresiis.e.
+Fiereza. feritas.atis.ferocitas.atis
+Fiera bestia. fera.ae.bestia.ae.
+Fiesta de guardar. festum.i.feriae.arum
+Fiestas de flora. floralia.ium.orum
+Fiestas de saturno. saturnalia.ium.orum
+Fiestas de vulcano. uulcanalia.ium.orum
+Fiestas de bacco. orgia.orum.dionysia.orum
+Fiestas deste mesmo. bacchanalia.ium.orum
+Fiestas deste mesmo. liberalia.ium.orum
+Fiestas deste mesmo. trietrica.orum
+Fiestas de la diosa ceres. initia.orum
+Fiestas del vino. uinalia.orum.ium
+Fiestas de minerva. quinquatria.ium.orum
+Fiestas del dios. termino.terminalia.ium
+Fiestas del dios de los añublos. robigalia.ium
+Fiestas de rhea muger de saturno. opalia.ium
+Fiestas de los dioses lares. compitalia.ium
+Figura de trazos. figura.ae.
+Figura en griego. schema.atis
+Figura de tres angulos. trygon.onis
+Figurada cosa assi. tryogonus.a.um
+Figurada cosa assi. trygonalis.e.
+Figura de cuatro angulos. tetragonus.i.
+Figura de cinco angulos. pentagonus.i.
+Figura de seis angulos. hexagonus.i.
+Figura de siete angulos. heptagonus.i.
+Figura de ocho angulos. octogonus.i.
+Figura de nueve angulos. eneagonus.i.
+Figura de diez angulos. decagonus.i.
+Figura sin angulos o redonda. agonus
+Figura ahusada. pyramis.idis
+Figurar. figuro.as.configuro.as.
+Figurada cosa. figuratus.typicus.a.um
+Figuradamente. figurate.typice
+Filipe nombre de varon. philippus.i.
+Filo de cuchillo. acies ferri.acumen
+Filosofia amor de saber. philosophia.ae.
+Filosofar dar obra a esta. philosophor.aris
+Filosofo el que da obra a ella. philosophus.i.
+Filosofo fingido. sophistes.ae.sophista.ae.
+Filosofia fingida. sophistica.ae.
+Filosofo desnudo. gymnosophista.ae.
+Fin de cada cosa. finis.is.terminus.i.
+Final cosa. finalis.e.terminalis.e.
+Finalmente. tandem.demum.denique
+Finar fallecer morir. defungor.eris
+Finado assi. defunctus.uel uita functus
+Finamiento de aqueste. defunctio.onis
+Fina cosa. exactus.a.um.perfectus.a.um
+Fin del libro. escatocolicon
+Fingir. fingo.is.comminiscor.eris
+Fingira menudo. commentor.aris
+Fingida cosa. commentaticius.a.um.ficticius
+Fingimiento. fictio.onis.figmentum.i.
+Firme cosa. firmus.a.um.stabilis.e.
+Firmemente. firmiter.stabiliter
+Firmeza. firmitas.firmitudo.stabilitas
+Furmeza. firmamen.firmamentum.i.
+Firmar. firmo.as.fundo.as.stabilio.is.
+Firmar scriptura. subscribo.is.signo.as.
+Firma de escriptura. subscriptio.signatio
+Fiscal del rei. fiscalis.is.
+Fiscal de esparto. fiscus.i.
+Fisco hazienda del rei. fiscus.i.
+Fisonomia ciencia. physionymia.ae.
+Fisononomo sabidor della. physionymus.i.
+Fistola dolencia. phystula.ae.
+Fistola de ojos dolencia. aegylopa.ae.
+Flaca cosa magra. macer.a.um.exilis.e.
+Flaca cosa doliente. debilis.e.languidus.
+Flaca cosa doliente. infirmus.a.um
+Flaca cosa quebradera. fragilis.e.friabilis.e.
+Flaca cosa sin fuerzas. eneruis.eneruatus
+Flaca cosa assi. effoeminatus.euiratus
+Flaco por no poder pelear. imbellis.e.
+Flaco que no se puede tener. imbecillis.e.
+Flandes region de alemaña baxa. morini.orun
+Flaqueza o magreza. macies.exilitas
+Flaqueza dolencia. debiliter.infirmiter
+Flaqueza para quebrarse. fragilitas.atis
+Flaqueza para no pelear. imbellia.ae.
+Flaqueza del que no se tiene. imbecillitas
+Flauta. phystula.ae.tibia.ae.calamus.i.
+Flautador. phystulator.tibiicen.inis.
+Flandes o flandria. cimbri.orum
+Flandesco cosa de alli. cimbricus.a.um
+Flocadura. uillorum flocci
+Flor de arbol o ierva. flos.oris
+Flor en la color. flos fioris
+Flor de la muger. menstruum.ii.
+Flor la lapa del vino. flos uini
+Flor pequeña. flosculus.i.
+Florencia ciudad de italia. florentia
+Florentina cosa de alli. florentinus.a.um
+Florin de florencia. aureus florentinus
+Florin de aragon. aureus tarraconensis
+Florin de ren. aureus rhenanus
+Floresta. uiretum.i.nemus.oris
+Floretada. talitrum in frontem
+Flota de naves. iuntas.classis.is.
+Florida cosa. floridus.a.um.floreus.a.um
+Florida cosa un poco. floridulus.a.um
+Floxa cosa en el cuerpo. laxus.a.um.fluxus.a.um.
+Floxedad en el cuerpo. laxitudo.inis
+Floxo en el animo. lentus.a.um.deses.idis.iners
+Floxedad assi. desidia.ae.inertia.ae.
+Floxo por negligencia. negligens.tis.ignanus
+Floxedad assi. negligentia.ae.ignauia.ae.
+Flueco de la lana. floccus.i.
+Fofo cosa ueca. turgidus.a.um.mollis.e.
+Fontanal lugar de fuentes. fontinalis
+Forastero o estrangero. uide estrangero
+Foraña cosa casi fiera o zahareña
+Forzosa cosa que fuerza. uiolentus.a.um.uiolens
+Forzosamente assi. uiolenter
+Forzado es. necessarium est.necesse est
+Forzar. uim infero.cogo.impello
+Forzar virgen o muger. stupro.as.
+Forzador de aquestas. stuprator.oris.
+Forcejar. tento aut experior uires
+Forera cosa de fuero. forensis.e.
+Forjar. fabrico.as.fabricor.aris
+Forja. fabrica.ae.fabricatio.onis
+Forlivio ciudad de italia. forum liuii
+Forma o manera. forma.ae.modus.i.
+Formage o queso. formago.caseus.i.
+Formar reduzir a cierta forma. formo.as.
+Forma de materia. forma.species
+Forma esta mesma en griego. entelechia.ae.
+Formal cosa de forma. formalis.e.
+Formalmente assi. formaliter
+Formado en dos maneras. biformis.e.
+Formado en tres maneras. triformis.e.
+Formado en cuatro mañras. quadriformis.e.
+Formado en cinco maneras. qunque formis.e.
+Formado en seis maneras. sexiformis.e.
+Formado en siete maneras. septiformis.e.
+Formado en ocho maneras. octiformis.e.
+Formulario de notas. formularium.ii.
+Fornecer. munio.is.instruo.is.
+Fornecido. munitus.a.um.instructus.a.um
+Fornecimiento. instrumentum.munitio
+Fornicar. fornicor.aris
+Fornicador. fornicator.oris
+Fornicacion. fornicatio.onis
+Fornicaria cosa. fornicarius.a.um
+Fortaleza de varon. fortitudo.uirtus
+Fortaleza edificio. arx arcis
+Fortalecer. munio.is.solido.as.firmo.as.
+Fortalecerse. irroboro.as.nigeo.es.
+Fortalecimiento. munitio.firmatio
+Fraile religioso. frater.tris.
+Fraile pequeño assi. fraterculus.i.
+Fraila o freila. soror sororis
+Fraila pequeña. sororcula.ae.
+Frailezillo ave. atricapilla.ae.
+Francisco nombre de varon. franciscus.s.
+Francolin ave. attagen.enis.attagena.ae.
+Franco liberal. liberalis.munificus
+Franco privilegiado. inmunis.e.
+Franqueza liberalidad. liberalitas.munificentia
+Franqueza por privilegio. imunitas.atis
+Francamente. liberaliter.munifice
+Francia region de europa. gallia.ae.
+Francia la de narbona. gallia narbonen.
+Francia la aquitania. gallia aquitanica
+Francia la de leon. gallia lugdonensis
+Francia la picardia. celto gallia.ae.
+Francesa cosa de francia. gallicanus.a.um
+Frances ombre de francia. gallus.i.
+Frecha. sagitta.ae.spiculum.i.
+Frechero. sagittator.sagittarius.ii.
+Frechero. arcitenens.arquites.is.
+Frechar el arco. flecto.is.adduco.is.
+Fregar. frico.as.aui.infrico.as.cui.
+Fregar mucho. defrico.as.perfrico.as.
+Fregar uno con otro. confrico.as.
+Fregar una cosa a otra. affrico.as.
+Fregar por debaxo. suffrico.as.
+Fregadura. frictus.frictio.fricatio
+Fregadura. perfrictio.affrictus.us.
+Fregar lavar vasos. tergo.is.tergeo.es.
+Fregadura desta manera. tersio.onis
+Fregar estregando. distringo.is.xi.
+Fregadero desta manera. strigilis.is.
+Freile o fraile. frater in christo
+Freila o fraila. soror in christo
+Freir en sarten. frigo.is.xi.
+Freidura de lo frito. frixura.ae.
+Frenesia. phrenesis.is.phrenetis.is.
+Frenetico. phreneticus.a.um
+Frente parte de la cabeza. frons.tis.
+Frente de cualquier cosa. facies.frons
+Freno para cavallo o mula. frenum.i.
+Freno este mesmo antiguamente. orea.ae.
+Freno rezio. lupatum.i.lupus.i.
+Fresar una cosa con otro. infrico.as.
+Fresar como havas. frendeo.es.
+Fresada cosa. fresus.a.um
+Fresadas de cevada. ptisanum ordeaceum
+Fresco o reziente. recens.tis.musteus.a.um
+Frescamente. recens.recenter
+Fresco por frio. algidus.a.um.gelidus.a.um
+Frescor o frescura. algor.oris.frigus.oris
+Fretar nave. conduco nauem
+Frete que paga el passagero. naulum.i.
+Fria cosa. frigidus.a.um.gelidus.algidus
+Fria cosa un poco. frigidulus.a.um.subfrigious
+Fria cosa un poco mas. frigidiusculus.a.um
+Friamente. frigide
+Friera de pies. pernio.pernionis
+Friamente un poco. subfrigide
+Frigia region de asia. phrygia.ae.
+Frio. frigus.oris.algor.oris
+Frisar como paño. refrico.as.aui.
+Frito cosa freida. frictus.a.um.frixus.a.um
+Frontal de frente. frontale.is.
+Fruta de sarten. bellaria.orum
+Fruta de sarten en griego. tragema.atis
+Fruta de corteza dura. nux.nucis
+Fruta como quiera. pomum.i.
+Fruta de cualquier arbol. foetus.us.
+Frutal arbol de fruta. arbor pomifera
+Fruto de cada cosa. fructus.us.
+Fruto de la tierra. fruges.is.frux.gis.
+Frutuoso lo que da fruto. fructifer.a.um
+Frutuoso assi. fructuosus.a.um
+Frutificar. frutifico.as.aui
+Fuelle para soplar. follis.is.
+Fuelle pequeña para soplar. folliculus.i.
+Fuente manantial. fons fontis
+Fuente pequeña. fonticulus.i.
+Fuente del pie. uola.ae.
+Fuente de la palma de la mano. hir.
+Fuentes para lavar manos. malluuiae.arum
+Fuera a lugar adverbio. foras
+Fuera en lugar adverbio. foris
+Fuerza hecha a otro. uiolentia.ae.
+Fuerza reziura. uis uis.robur.oris
+Fuerza biva. nigor.oris
+Fuerza hecha a muger. stuprum.i.
+Fuerte cosa. fortis.e.acer.acris.acre
+Fuerte cosa un poco. forticulus.a.um
+Fuertemente. acriter.fortiter
+Fuero por juzgado. forum.i.
+Fulano nombre proprio en comun. punicum est
+Funda de almohada o colchon. fascia.ae.
+Fundar poner fundamento. fundo.as.
+Fundamento. fundamentum.i.fundamen
+Fundador. fundator.oris
+Fundir metales. conflo.as.aui
+Fusorio en que funden. fusorium.ii.
+Furia o furor. furia.ae.furor.oris
+Furia del infierno. erynnis.is.
+Furias del infierno. eumenides.dum
+Furioso. furiosus.a.um.furibundus.a.um
+Furioso por spiritu divino. entheatus.a.um
+Fuslera. aes fusile. uel coronarium
+Fusta genero de nave. nauis fusa
+Fusta esta mesma en griego. epibatum.i.
+Fustan. pannus gussipinus
+Fuzia o confianza. fiducia.ae.

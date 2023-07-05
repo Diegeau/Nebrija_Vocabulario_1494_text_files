@@ -1,0 +1,133 @@
+Jaca ciudad fue de aragon. iacca.ae.
+Jaques cosa desta ciudad. iaccetanus.a.um
+Jacinto piedra preciosa. hyacithus.i.
+Jacinto flor. hyacinthus.i.
+Jaen ciudad de castilla. mentesa.e.
+Jaenesa cosa de alli. mentesanus.a.um
+Jafa ciudad de palestina. ioppe.es.
+Jafes varon de alli. ioppites.ae.
+Jafesa muger de alli. iopitis.idis
+Jafesa cosa de alli. ioppiticus.a.um
+Jalde color. lo mesmo que oropimente
+Jaola o jaula para aves. cauea.ae.
+Jardin. horti.orum.xystus.i.
+Jardinero el que lo cura. topiarius.ii.
+Jardineria arte de aqueste. topiaria
+Jarro de vino. oenophorum.i.
+Jarro cualquiera. urceus.i.
+Jarro pequeño. urceolus.i.
+Jarrero el que los trae. urcearius.ii.
+Jassar sangrar jassando. scarifico.as.
+Jassadura en esta manera. scarificatio
+Jassador desta manera. scarificator
+Jaspe piedra preciosa. iaspis.idis
+Javali puerco silvestre. aper apri
+Jeronimo nombre de varon. hieronymus.i.
+Jerusale ciudad de judea. hierosolyma.e.
+Jesu de ebraico interpretase salvador
+Jesuato dedicado a este. iesuites.ae.
+Joia generalmente. supellex
+Joiel firmalle. emblemma.atis
+Joiero que vende joias. nugiuendus.i.
+Joias de muger proprias. mundus muliebris
+Jorge nombre de varon. georgius.ii.
+Jornada camino de un dia. dieta.mansio
+Jornal precio del trabajo de un dia. merces
+Jornal pequeño desta manera. mercedula.ae.
+Jornalero el que lo gana. mercenarius
+Juan nombre de varon. ioannes.is.
+Juana nombre de muger. ioanna.ae.
+Juanico nombre de niño. ioanniscus.i.
+Juanica nombre de niña. ioannisca.ae.
+Jubileo año de remission. iubilaeus.i.
+Jubilado suelto de trabajo. emeritus.a.um
+Jubilar suelto ser assi. emereor.eris
+Jubon vestido nuevo. thorax.acis
+Jubetero sastre que los haze. thoracarius sartor
+Judas nombre de varon. iudas.e.
+Judaizar. iudaizo.as.aui.
+Judea region de asia. iudaea.ae.
+Judea esta mesma. palestina.ae.
+Juderia aiuntamieuto de judios. iudaismus
+Judio o judia. iudeus.i.indaea.ae.
+Judio o judia. hebraeus.hebraea
+Judio retajado. uerpus.i.apella.ae.
+Judiega cosa. hebraicus.a.um.iudeus.a.um
+Judicial cosa. iudicialis.e.
+Juego de palabras. iocus.i.ioci.ioca.orum
+Juego de veras. ludus ludi
+Juego de plazer. lusus lusus.lusio.onis
+Juego de fortuna. alea aleae
+Juego del axedrez. calculorum ludus
+Juego del axedrez. latronum ludus
+Juego de passa passa. praestigie.arum
+Juegos de mirar. spectacula.orum
+Juegos de pelea. agon agonalia
+Juegos a cavallo. equiria.orum
+Juego de cañas. troia.troianum agmen
+Juego de cañas. pugnae simulachrum
+Juego para desenojarse. diludium.ii.
+Jueves. dies iouis.feria quinta.no.
+Juez ordinario. iudex.icis.praetor.oris
+Juez de los edificios. aedilis.is.
+Juez de costumbres extraordinario. censor
+Juez de los ladrones. latrunculator.oris
+Juez de las alzadas. recuperator.oris
+Juez que la una parte elige. editicius inder
+Juez de compromisso. compromissarius
+Juez de cosas baxas. index pedaneus
+Juez de los libros. creticus.i.
+Juez arbitro. arbiter.arbitrarius iudex
+Jugar juego de fortuna. ludo.is.lusi
+Jugar con otro. colludo.is.si.
+Jugador en esta manera. collusor.oris
+Juglar. ioculator.oris.ludio.onis
+Juizio. indicium.ii.indicatus.us.
+Juizio del censor. censura.ae.
+Juizio de la apelacion. recuperatio.onis
+Juizio en griego. crisis crisis
+Julepe o xarope. potio.potionis
+Julio mes. quintilis.is.iulius.ii.
+Julio cesar. c.iulius caesar
+Julian nombre de varon. iulianus.i.
+Junco. iuncus.i.papyrus.i.scirpus.i.biblos
+Junco marino. iuncus marinus
+Junco marino en griego. oxyschoenos
+Juncia. iuncus odoratus.cyperus.i.
+Juncoso lleno de juncos. iuncosus.a.um.
+Juncoso en esta manera. papyrifer.a.um
+Junio mes. iunius iunii.
+Juntar o aiuntar. iungo.is.xi.
+Juntar uno con otro. coniungo.is.xi.
+Juntar uno a otro. adiungo.is.xi.
+Juntar apretando. committo.is.coagmento.as
+Juntura assi. coagmentuin.i.coagmentatio
+Junta de dos rios. confluens.tis
+Juntera de carpintero. amussis.is.
+Juntamente. iunctim.
+Juntamente en tiempo. una.simul.pariter
+Junto con otra cosa tocandola. contiguo.a.um.
+Juntura assi. contiguitas.atis
+Jurado en la ciudad. tribunus plebis
+Jurado en griego. ephorus.i.
+Juraderia en esta manera. tribunatus.us.
+Juraderia en griego. ephoria.ae.
+Jurado el que juro. iuratus.a.um.
+Juramentar. obiuro.as.
+Juramento. iuramentum.iusiurandum.i.
+Juramento. deiurium.ii.sacramentum.i.
+Jurar. iuro.as.deum testor
+Jurar mucho. eiuro.as.deiuro.exiuro
+Jurar falso. peiero.as.peieraui
+Juridicion. ditio.onis.iurisditio
+Justar. iustis et aequatis armis certo
+Justa. equatis armis certamen
+Justa cosa. iustus.a.um.aequus.a.um
+Justamente. iuste.aeque.
+Justicia. institia.ae.aequitas.atis
+Justiciero. seuerus.a.um
+Justiciar. iudicium facio.
+Juzgar. iudico.as.censeo.es.censui
+Juzgar entre diversas cosas. diiudico.as.
+Juzgar antiguamente. iudicasso.is.
+Juzgado. iudicatio.onis.iudicatus.us.

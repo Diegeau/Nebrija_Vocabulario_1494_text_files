@@ -1,0 +1,561 @@
+Hablar naturalmente. loquor.eris
+Hablar. for faris.sermocinor.aris
+Habla. locutio.onis.loquella.ae.
+Habla. sermo.onis.sermocinatio.onis
+Hablar con otro. colloquor.eris.affor.aris
+Habla con otro. collocutio.onis.colloquium
+Hablar a otro. alloquor.eris.affor.aris
+Habla a otro. allocutio.onis.alloquium.ii.
+Hablar elegantemente. eloquor.eris
+Habla assi. eloquium.ii.elegantia.ae.
+Habla ante otra habla. proloquium.ii.
+Hablador vano. uaniloquus.a.um
+Habla en esta manera. uaniloquentia.ae.
+Hablador de cosas altas. altiloquus.a.um
+Habla desta manera. altiloquentia.ae.
+Hablador de cosas grandes. magniloquus
+Habla desta manera. grandiloquentia.ae.
+Hablador de cosas grandes. grandiloquus
+Habla desta manera. magniloquentia.ae.
+Hablador de sobervias. superbiloquus
+Habla desta manera. superbiloquentia.ae.
+Hablador. loquax.acis.locutuleius.a.um
+Hablar consejas o novelas. fabulor.aris.
+Hablador de novelas. fabulator.oris
+Habla desta manera. fabula.ae.
+Hablilla desta manera. fabella.ae.
+Hablilla assi en griego. apologus.i.apologatio
+Hablar entre dientes. musso.as.mutio.is.
+Hablar assi a menudo. mussito.as.
+Hablar contra otro. obloquor.eris
+Habla en esta manera. oblocutio.onis
+Haca pequeño cavallo. inannus.i.
+Hacanea. equus britannicus
+Hace de cosas menudas atado. fascis.is.
+Hacecillo pequeño haze. fasciculus.i.
+Hacina aiuntamiento de hazes. archonium.ii.
+Hacina de leña. strues lignorum
+Hacha de armas. securis amazonia
+Hacha que corta de dos partes. bipennis.es.
+Hacha para cortar leña. securis.is.
+Hacha pequeña. securicula.ae.
+Hacha antorcha de cera. cereus.i.funale.is.
+Hachon de la frontera. pharus.i.
+Hada diosa del hado. parca.ae.
+Hado lo que se hada. fatum.i.
+Hadar lo venidero. fata cano
+Hadador. fatidicus.a.um.fatiloquus.a.um
+Hadador. faticanus.a.um.fatifer.a.um
+Haia arbol conocido. phagus.i.
+Haial lugar de haias. phagutal.alis
+Haieña cosa de haia. phagineus.a.um
+Halagar. blandior.iris.eblandior.iris
+Halagar. lenio.is.mulceo.es.de.per
+Halagueño. blandus.a.um
+Halaguero. blandiloquus.a.um
+Halago. blandiciae.arum.mulcedo.inis
+Halago. delinimentum.i.illecebre.arum
+Halagando atraer. illicio.is.allicio.is.
+Halagando atraer assi. pellicio.is.
+Halagadora cosa assi. pellax.acis
+Halcon generalmente. accipiter sublimita
+Halcon tagarote. accipiter tabracensis
+Halcon borni. accipiter laburnicus
+Halcon nebli. accipiter columbarius
+Halcon sacre. hierax hieracis
+Halcon girifalte. accipiter gyrifalco
+Halcon alfaneque. accipiter alfanecus.no
+Halcon babari. accipiter baharius.no
+Halconero que los cria. accipitrarius.ii.
+Haldas de vestidura. sinus.us.lacinia.ae.
+Halduda cosa con haldas. sinuosus.a.um
+Haldas poner en cinta. accingo.is.
+Hamapola. rhya.ae.papauer erraticum
+Hambre. fames.is.inedia.ae.
+Hambre. esuritio.onis.esurigo.inis
+Hambriento. famelicus.a.um.esuritor.oris
+Hambrear a ver hambre. esurio.is.
+Haragan. ignauus.a.um.iners inertis
+Haragania. ignauia.inertia.socordia.ae.
+Harda animal como liron. scyurus.i.
+Hardalear. raresco.is.rarui.
+Harija de molino o aceña. pollen.inis
+Harina. farina farinae.
+Harina de havas. lomentum.i.
+Harnero. uannus.i.cribrum.i.
+Harona bestia. ignauus.a.um
+Harre para aguijar asnos. age.eia.
+Harrear asnos. ago.is.agito.as.
+Harriero que los aguija. agaso.onis
+Harpa instrumento musico. cythara.ae.
+Harpador que la tañe. cythroedus.i.
+Hartar. saturo.as.farcio.is.si.
+Harto. sature.a.um.fartus.a.um
+Hartura o hartadga. saturitas.atis
+Hartar con hastio. satio.as.aui
+Harto y enhastiado. satiatus.a.um
+Hartura con hastio. satietas.atis
+Hasta preposicion. usque.tenus
+Hasta aqui. hactenus.hucusque
+Hasta aqui. antehac.adhuc.usquev.adhuc
+Hasta cuando. quousque.usquequo
+Hasta ai do tu estas. istbucusque
+Hasta alli do esta alguno. illucusque
+Hasta aqui do esto io. hucusque
+Hasta alli adverbio. illatenus
+Hasta alli adverbio. eousque
+Hasta el cuello. collotenus
+Hasta el pendejo. pubetenus
+Hasta las piernas. crurumtenus
+Hasta la empuñadura. capulotenus
+Hastio. fastidium.satietas.atis.sacies
+Hastioso cosa que a hastio. fastidiosus.a.um
+Hastio aver. fastidio.is.fastidiui
+Hataca para mecer. rudicula.ae.
+Hato de ganado. pecuaria.ae.pecuare.is.
+Hato en griego. caula.ae.epolium.ii.
+Hato de vacas. armentaria.ae.
+Hato de ovejas: ouiaria.ae.
+Hato de cabras. capraria.ae.
+Hato de ieguas. equaria.ae.
+Hato de puercos. porcaria.ae.
+Hava legumbre. faba.ae.fabulus.i.
+Hava en griego. cyamos.i.
+Havar. fabarium.ii.fabale.is.
+Havacera. institrix olearia
+Hava de bestias. rana.ae.
+Haz por batalla. acies aciei
+Haz por la cara. facies faciei
+Hazalejas. mantile mantilis
+Haz de otra cualquier cosa. superficies
+Hazaña. facinus facinoris
+Hazaña en mal. pessimum facinus
+Hazaña en bien. preclarum facinus
+Hazañoso en mal. facinorosus.a.um
+Hazer obra de fuera de si. facio.is.
+Hazer assi a menudo. factito.as.
+Hazer hasta el cabo. perficio.is.efficio.is.
+Hazedor o hazedora. auctor.oris
+Hazedor hasta el cabo. effector.oris
+Hazedora hasta el cabo. effectrix.icis.
+Hazer algo dentro de si. ago.is.egi.
+Hazer del ojo. nuo.is.annuo.is.innuo.is.
+Hazer en mala parte. perpetro.as.
+Hazer en vano. actum ago
+Hazerte plazer. afficio te uoluptate
+Hazerte pesar. afficio te molestia
+Hazerte bien. afficio te beneficio
+Hazerte mal. afficio te incommodo
+Hazer frio. hibernat.hyemat.bat.
+Hazer calor. aestuat.calet.bat.
+Hazer claro o sereno. serenat.bat.
+Hazer niebla o neblina. nebulo.as.
+Hazer nieve. ningo.is.ninxi.
+Hazer granizo. grandino.as.aui.
+Hazer agua. pluo.is.pluui.
+Hazerlo el ombre a la muger. futuo.is.
+Hazedor en esta manera. fututor.oris
+Hazerlo el ombre a otro. paedico.as.
+Hazedor en esta mañra. paedicator.pedico.ois
+Hazerlo a muger con la lengua. cunnum lingo
+Hazedor en esta manera. cunnilingus.i.
+Hazerlo en las mesmas manos. masturbor.aris
+Hazedor assi. masturbator.oris
+Hazer de barro. plasmo.as.aui.fingo.is.
+Hazedor assi. plastes.ae.figulus.i.
+Hazia preposicion. uersus
+Hazia dentro adverbio. introrsum
+Hazia fuera adverbio. extrorsum
+Hazia abaxo adverbio. deorsum
+Hazia arriba adverbio. sursum uersum
+Hazia la mano derecha. dextrorsum
+Hazia la mano izquierda. sinistrorsum
+Hazian do:adverbio. quorsum
+Hazia do quiera. quoquo uersus
+Hazia ambas partes. utroque uersus
+Hazia tras adverbio. retrorsum
+Hazia algun lugar. orsum
+Hazienda o riqueza. facultas.atis.
+Hazimiento. operatio.onis.actio.onis
+Hazino o mezquino. misellus.a.um
+Hebra raiz delgada. fibra.ae.
+Hebrero mes. februarius.ii.
+He.adverbio para demostrar. en.ecce
+He aqui adverbio. en.ecce.eccum
+He los alli he las alli. ellos.ellas
+Helos aqui he las aqui. eccos.eccas
+Helo alli hela alli. ellum.ellam
+Helo aqui he la aqui. eccum.eccam
+Hechizero. ueneficus uenefici
+Hechizera. uenefica ueneficae
+Hechizero en griego. pharmacurgos.i.
+Hechizera en griego. pharmaceutria.ae.
+Hechizos. ueneficium.ii.deuotio.onis
+Hechizos en griego. pharmacia.ae.
+Hechizos para amores. amatorium.ii.
+Hechizos para esto en griego. philtrum.i.
+Hechizar como quiera. deuoueo.es.
+Hechiza cosa hecha. facticius.a.um
+Hecho cosa hecha. factus.a.um
+Hecho nombre substantivo. factum.i.
+Hechos publicos. gesta.orum
+Hechos privados. acta.orum.actus.uum
+Hecho ser. fio.fis.factus sum
+Hecho de barro. fictilis.e.ficticius.a.um
+Hechura de barro. plasma.atis
+Hechura de obra. factio.onis.factura.ae.
+Hechura hasta el cabo. effectio.perfectio
+Heder. feteo.es.puteo.es.putui.oleo.es.
+Hedionda cosa. putidus.a.um.olidus.a.um
+Hedionda cosa. fetudinus.a.um.uirosus.a.um
+Hedionda cosa. putulentus.a.um.oblenticus
+Hedor. fetor.oris.putor.oris.uirus.i.
+Hedor de narizes. ozena.ae.
+Hedor de la boca. oze.es.
+Hedor de cabron o sabaquina. tragus.i.
+Hedor de piedra sufre. mephitis.is.
+Helecho ierva conocida. filix.icis.
+Helgadura de dientes. discrimina dentium
+Helgado. discrimina dentium habens
+Hembra en cualquier genero. foemina.ae.
+Hembra pequeña. foemella.ae.
+Hemencia. uehementia.ae.efficatia.ae.
+Hemencioso. uehemens.tis.efficax.acis.
+Hemenciar. efficio.is.laboro.as.
+Hemencia en el pan. artocopos.i.
+Henchir o hinchir. impleo.es.eui.et c.
+Henchimiento o hinchimiento. require
+Hender como quiera. findo.is.fidi.
+Hendedura assi. fissura.ae.rima.ae.
+Hender con cuñas. discuneo.as.aui.
+Hendimiento con cuñas. discuneatio.onis
+Hender en diversas partes. diffindo.is.
+Hendedura assi. diffisio.onis.
+Hendiendo buscar. rimor.aris.
+Henderse por si mesmo. bisco.is.hiasco.is.
+Henderse desta manera. fatisco.is.dehisco.is
+Hendido. hiulcus.a.um.rimosus.a.um
+Hendible que se puede hender. fissilis.e.
+Hendido en dos partes. bifidus.a.um
+Hendido en tres partes. trifidus.a.um.
+Hendido en cuatro partes. quadrifidus.a.um
+Hendido en muchas partes. multifidus.a.um.
+Hendido en dos partes. bisulcus.a.um
+Hendido en tres partes. trisulcus.a.um
+Hendido en cuatro partes. quadrisulcus.a.um.
+Hermoso. pulcher.a.um.formosus.a.um
+Hermoso. speciosus.a.um.decorus.a.um
+Hermoso un poco. pulchellus.a.um.bellus.a.um
+Hermosamente. pulchre.decenter.belle.
+Hermosura. pulchritudo.inis.forma.ae.
+Hermosura. species.ei.decor.oris
+Hermosear. decoro.as.aui.orno.as.aui.
+Herir. ico.is.ferio.is.percutio.is.
+Herida. ictus.us.percussio.percussus.us.
+Herir con la mano. pulso.as.aui
+Herida en esta manera. pulsatio.onis
+Herir con vara. uerbero.as.aui
+Herida en esta manera. uerber.eris
+Herir una cosa con otra. collido.is.
+Herida assi. collisio.onis.collisus.us.
+Herir una cosa en otra. illido.is.allido.is.
+Herida assi. illisus.us.allisus.us.
+Herir con hierro. uuluero.as.caedo.is.
+Herida con hierro. uulnus.eris.plaga.ae.
+Herir de estocada. confodio.is.di.
+Herida assi. confossio.onis.puncta.ae.
+Herida de cuchillada. cesa.ae.
+Herida con el dedo. talurum.i.
+Herir en la iunque. cudo.is.cussi
+Herido ser de otro. uapulo.as.aui
+Herir livianamente. perstringo.is.xi.
+Herida desta manera. perstrictio.onis
+Herir con raio. diffulmino.as.aui
+Hernando nombre de varon. ferdinandus.i.
+Herrada para sacar agua. situla.ae.
+Herrada o tarro para ordeñar. mulctra.ae.
+Herrada esta mesma. mulgar.mulctrare.is.
+Herradura de bestia. solea ferrea
+Herrar bestias. calceo ueterinas
+Herrador de bestias. calceator ueterinarius
+Herrar ganado con huego. inuro.is.
+Herrar otra cosa. ferro munio.is.
+Herrada cosa assi. ferratus.a.um
+Herramienta. ferramentum.i.
+Herramental. ferramentarium.ii.
+Herren. farrago.inis.ocymum.i.
+Herrero. faber ferrarius
+Herreria. ferraria.ae.
+Herrumbre. rubigo.inis.ferrugo.inis
+Herver. ferueo.es.feruo.is.ferui.efferueo
+Herver. ferbeo.es.conferbeo.es.
+Herviente cosa. feruidus.a.um
+Herver la mar. estuo.as.exestuo.as.
+Hervor de la mar. a estus estus
+Hervor como quiera. feruor.oris.feruentia
+Hevilla o hevilleta. fibula.ae.
+Hevillada cosa con hevillas. fibulo.as.
+Hez o borras de vino. floces.um
+Hez o borras de azeite. fraces.um
+Hez de unguento. magma.atis
+Hez como quiera. faex faecis
+Hezienta cosa con hezes. faeculentus.a.um
+Hezes pequeñas. faecula.ae.
+Hezes quitar. defaeco.as.aui.
+Hidalgo. generosus.a.um.ingenuus.a.um
+Hidalgo hijo de senador. patricius.ii.
+Hidalguia deste tal. patriciatus.us.
+Hidalguia. generositas.ingenuitas.genus
+Hidalgo en griego. engenius.ii.
+Hidalguia en griego. cugenia.ae.
+Hidiondo. lo mesmo que hediondo
+Hiel assiento de la melancolia. fel fellis
+Hienda o estiercol. fimus.i.stercus.oris
+Hieltro. cilicium.ii.textum cilicium
+Hierro el metal. ferrum.i.
+Hierro instrumento de cirugiano. ferramentun
+Hierro para herrar. cauterium.ii.cauteris.is
+Higa. medius digitus.infamis digitus
+Higa. medius unguis.uerpus.i.
+Higas dar. ostendo medium digitum
+Higas dar. porrigo uel ostendo uerpum
+Higas dar. ostendo medium unguem
+Higado parte del assadura. iecur.oris
+Higado este mesmo. iocinus.oris
+Higado en griego. hepat.hepatos
+Higuera arbol conocido. ficus.i.
+Higuera bre val. ficus bifera
+Higueral lugar de higueras. ficetum.i.
+Higuera del infierno. pentadactylum.i.
+Higuera esta mesma. helioscopium.ii.
+Higuera moral arbol. sycomorus.i.
+Higuera moral esta mesma. sycaminos.i.
+Higo fruta de higuera. ficus.i.uel ficus
+Higo temprano. ficus praecox.
+Higo passado. caryca.ae.ficus passa
+Higo en la flor. grossus.i.
+Higo dolencia del rabo. ficus.i.
+Higo dolencia de la cabeza. sycosis
+Higo que nace a los putos. marisca.ae.
+Higo de comer menudo. coctonum.i.
+Higos enserados. ficus palata
+Hijo generalmente. filius.ii.natus.i.
+Hijo pequeño. filiolus.filioli
+Hija. filia filiae.nata nate
+Hija pequeña. filiola filiole
+Hijos hijas y nietos. liberi.orum
+Hijo de animal manso. pullus.i.
+Hijo de animal fiero. catullus.i.
+Hijo de senador. patricius.a.um
+Hijo pequeño de senador. patriciolus
+Hijo uno solo. unicus.i.unigenitus.i.
+Hijastro casi hijo. filiaster.tri.
+Hijastra casi hija. filiastra.ae.
+Hilar. neo.nes. neui.netus
+Hilazas que parecen en el urina. trumbus.i.
+Hilazas para herida. linamentum.i.
+Hilo. filum.i.fili.orum.fila.orum
+Hincar. figo.is.fixi.fixus.con.suf.
+Hincar una cosa a otra. affigo.is.
+Hincar traspassando. transfigo.is.
+Hinchar soplando. inflo.as.sufflo.as.
+Hinchamiento assi. inflatio.sufflatio
+Hincharse. turgeo.es.turgesco.is.
+Hincharse. tumeo.es.tumesco.is.
+Hinchar a otra cosa. tumefatio.is.
+Hinchado. turgidus.a.um.tumidus.a.um
+Hinchado un poco. turgidulus.a.um
+Hinchazon. tumor tumoris
+Hinchazon de podre. struma.ae.
+Hinchado en esta manera. strumosus.a.um
+Hinchado a torondones.tuber.eris
+Hinchado en esta manera. tuberosus.a.um
+Hincharse en esta manera. extubero.as.
+Hinchazon desta manera. extuberatio.onis.
+Hinchir. impleo.es.compleo.es.expleo.es.
+Hinchir assi. repleo.es.oppleo.es.
+Hinchimiento. complementum.i.repletio
+Hinchir lo que falta. suppleo.es.
+Hinchimiento assi. supplementum.i.
+Hinchir de vianda. ingurgito.as.aui.
+Hinchimiento assi. ingurgitatio.onis
+Hinchir recalcando. farcio.is.infercio
+Hinchimiento assi. faccimen.inis
+Hiniestra. fenestra fenestrae
+Hiniestra pequeña. fenestella.ae.
+Hinojo ierva conocida. feniculum.i.
+Hinojo en griego. marathrum.i.
+Hinojo sil vestre. hippomarathrum.i.
+Hipar el estomago. stomachus redundat
+Hipo del estomago. stomachi redundantia
+Hobero color de cavallo. giluus.a.um
+Hobacho en griego. cacochylos
+Hoce podadera. falx putatoria
+Hoce para segar. falx messoria
+Hoce para feno. falx foenaria
+Hocino para segar. falcula.ae.
+Hocico como de puerco. rostrum.i.
+Hocico pequeño. rostellum.i.
+Hogar lugar del fuego. focus.i.
+Hogar pequeño. foculus.i.
+Hoguera llamas de huego. incendium
+Hoguera en griego. pyra.ae.
+Hoguera para que mar muerto. rogus.i.
+Hoio o hoia. scrobs.bis.fossa.ae.
+Hoiuelo hoio pequeño. scrobiculus.i.
+Hoja de libro. pagma.ae.charta.ae.
+Hoja de pergamino. charta pergamena
+Hoja de papel. charta papyracea
+Hoja de papel. charta pannucea
+Hoja pequeña assi. pagella.ae.chartula.ae.
+Hoja de metal delgada. bractea.ae.
+Hoja de metal pequeña. bracteola.ae.
+Hoja de milan. bractea mediolanensis.
+Hoja de corazas o espada. lamina.ae.
+Hoja de arbol. frons.dis.frondis.is.
+Hoja de arbol o ierva. folium.ii.
+Hojosa cosa con hojas. frondosus.a.um
+Hojosa cosa. foliaceus.a.um.foliosus.a.um
+Hogecer los arboles. frondeo.es.frondesco
+Hojalde. placenta placentae
+Hojuela de massa tendida. laganum.i.
+Holgar. quiesco.is.requiesco.is.
+Holganza. quies.etis.requies.etis
+Holgura. quietudo quietudinis.quies.etis
+Hollar. calco.as.exculco.as.proculco.as.
+Hollar. tero.is.obtero.is.protero.is.
+Holladura. proculcatio.onis.obtritio.onis
+Hollejo de legumbre. siliqua.ae.ualuula.ae.
+Hollejo de culebra. senectus anguis
+Hollejo de culebra. uernatio anguis
+Hollejo de culebra. exuuiae anguis
+Hollejo de cualquier cosa. folliculus.i.
+Hollin del fuego. fuligo.fuliginis
+Hollin en griego. zophos.i.
+Holliniento lleno de hollin. fuliginosus.a.um.
+Hollin de hornaza de metal. cadmia.ae.
+Hollin de la boca deste horno. capnitis.idis.
+Hollin de la campana deste horno. botrysontes
+Hollin de los lados deste horno. placitis.idis
+Homarrache. personatus.a.um
+Honda para tirar. funda.ae.
+Hondero. funditor.oris.fundibularius
+Honda cosa. profundus.a.um
+Hondura. profunditas.atis
+Hondon. fundus fundi
+Hongo de prado. fungus pratensis
+Hongo sospechoso. fungus suillus
+Hongo de arbol. boletus.i.
+Hongo sin raiz y pie. pezica.ae.
+Hongo para iesca. fungus aridus
+Hongosa cosa. fungosus.a.um
+Honsario. lo mesmo es que fossario
+Hontanales. fontanalia.fontinalia
+Horca para aborcar. patibulum.i.palus.i.
+Horca de dos gajos. furca.ae.
+Horca pequeña assi. furcula.ae.
+Horca para rebolver las miesses. furcilla.ae.
+Horcajo palo de dos brazos. furca.ae.
+Horadar. foro.as.perforo.as.aui.
+Horadar y passar a la otra parte. transfero
+Horadable. forabilis.e.perforabilis.e.
+Horadado en dos partes. biforis.e.
+Horadado en muchas partes. multiforis.e.
+Horma de zapatero. forma.ae.
+Hormiga animal ceñido. formica.ae.
+Hormiga en griego. mirmix.cos.
+Hormiguero. formicarum cauus
+Hormiguear bullir. formico.as.aui.
+Hormigueamiento assi. formicatio.onis.
+Hormigon de pared. crusta calcaria
+Hormigos de massa. laganum.i.
+Hornachos en el maestrado. furnacis.is.
+Hornaza. fornax.acis.caminus.i.
+Hornaza pequeña. fornacula.ae.
+Hornada una cozedura. fornacula.ae.
+Hornazo de uevos. artooum.i.no.
+Hornaguera tierra. carbunculus.i.
+Hornaguear la tierra. carbunculor.aris
+Horno de cozer pan. furnus.i.fornax.acis
+Horno de pan en griego. clibanus.i.caminus
+Hornero. fornacarius.ii.furnarius.ii.
+Hornera. fornacaria.ae.furnaria.ae.
+Hornera en griego. artopta.ae.
+Horneria officio de hornero. furnaria.ae.
+Hornear usar este oficio. furnariam exerceo
+Hornezino hijo de puta. fornicarius.a.um
+Hornija para horno. furnaria ligna
+Horro o horra de esclavo. libertinus.a.um
+Horro libre como quiera. liber.a.um
+Hosco bazo en color. fuscus.a.um
+Hossario enterramiento. fossarium.ii.
+Hossario este mesmo. xerolophum.i.
+Hostigar. fustigo.as.instigo.as.
+Hostigamiento. fustigatio.instigatio
+Huego el elemento. ignis ignis.
+Huego pequeño. igniculus.i.
+Huego como hoguera. incendium.pyra.ae.
+Huego de alquitran. naphtba.ae.
+Huego de santanton. ignis sacer
+Huego de sant anton en griego. hieramiosos.i.
+Huego de sant marzal. lo mesmo es
+Huelgo por aliento. spiritus.us.anima.ae.
+Huelgo este mesmo. halitus.us.anhelitus.us
+Huir como quiera. fugio.is.fugi.
+Huida en esta manera. fuga.ae.
+Huir a menudo assi. fugito.as.aui.
+Huidora cosa. fugax fugacis
+Huidizo lo que huio. fugitiuus.a.um
+Huir hazer a otro. fugo.as.aui
+Huir de lugar. effugio.is.aufugio.defugio
+Huida desta manera. effugium.ii.
+Huira lexos. profugio.is.profugi
+Huida a lexos. profugium.ii.
+Huir atras. refugio.is.refugi
+Huida assi para se salvar. refugium.ii.
+Huir a los contrarios. transfugio.is.perfugio
+Huida en esta manera. transfugium.perfugium
+Huidor desta manera. perfuga.transfuga.ae.
+Huida para salvarse. profugium.confugium
+Huir para salvarse. confugio.profugio
+Huidizo con animo de tornar.erro.onis
+Huidizo con animo de no tornar. fugitiuus.a.um.
+Huir por deuda. uerto solum
+Huida por deuda. uersura.ae.
+Humo. fumus fumi
+Humo en griego. capnos.i.
+Humoso cosa de humo llena. fumosus.a.um.
+Humoso cosa de humo. fumeus.a.um
+Humoso lo que trae humo. fumifer.a.um
+Humoso lo que haze humo. fumificus.a.um
+Humear. fumo.as.essumo.as.fumigo.as.
+Humero. fumarium.ii.tubus fumarius
+Hundir metal. fundo.is.conflo.as.
+Hundicion assi. fusio.onis.fusura.ae.
+Hundicion assi. conflatio.conflatura
+Hundible lo que se hundir puede. fusilis.e.
+Hundible cosa assi. conflatilis.e.
+Hundirse la tierra. subsido.is.insido.is.
+Hundimiento assi. subsessio.onis
+Hundir echar a lo hondo. deiicio.is.
+Hura de cabeza. furunculus.i.
+Hurgar. uello.is.uellico.as.aui
+Hurgonero de horno. rutabulum.i.
+Huron para cazar conejos. uiuerra.ae.
+Huron en griego. ictis.idis
+Hurta agua o escarnidor vaso. clepsydra
+Hurtar. furor.aris.surripio.is.clepo.is.
+Hurtar. lego.is.legi.sublego.is.egi
+Hurtible cosa. furtiuus.a.um.surrepticius
+Hurtiblemente. furtim
+Hurtar ganado. abigo pecus
+Hurtador de ganado. abactor.abigeus
+Hurto de ganado. abigeatus.us.
+Hurtar lo publico o real. peculor.aris
+Hurtador de aquesto. peculator.oris
+Hurto desta manera. peculatus.us.
+Hurtar lo sagrado. sublego sacrum
+Hurto de lo sagrado. sacrilegium.ii.
+Huso para hilar. fusus.i.
+Husada o mazorca. pensum.i.
+Husillo de lagar. torcular.torcularium

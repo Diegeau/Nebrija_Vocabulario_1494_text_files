@@ -1,0 +1,2861 @@
+Cabal lo que cabe a cada uno. rata portio
+Cabaña. gurgustium. tugurium.
+Cabañuela. gurgustiolum.i.tuguriolum.i
+Cabañuelas de judios. scenophagia.orum.
+Cabañuelas estas mesmas. festum tabernaclor
+Cabeza de cualquier cosa. caput.itis.
+Cabeza pequeña assi. capitulum.i.
+Cabezudo ombre. capito.onis.
+Cabezuda cosa con cabeza. capitatus.a.um.
+Cabecera de cama. caput lecti.
+Cabecera de mesa. caput mensae.
+Cabezal o al mohada de cabeza. ceruical.
+Cabeza abaxo. praeceps. praecipitis.
+Cabezcaido. obstippus.a.ui.cernuus.a.um
+Cabezon de camisa. limbus ad collum.no.
+Cabecear mover la cabeza. nuto.as.nuo.is.
+Cabeceamiento assi. nutamen.nutatio.onis.
+Cabecear otorgando. annuo.is
+Cabecear negando. renuo.is.abnuo.is.
+Cabezo o cerro. collis.tumulus.uerruca.ae.
+Cabello de la cabeza. capillus.i.crinis.is.
+Cabellos sobre la frente. capronae.arum.
+Cabelladura. coma.ae.cesaries.ei.cirrus.
+Cabelladura. capillatura.capillamentum.i.
+Cabellera. coma suppositicia.
+Cabellado de luengos cabellos. crinitus.a.um.
+Cabellado assi. comatus. capillatus.cirratus.
+Caber en lugar algo. locus capit aliquid.
+Cabera cosa. ultimus.a.um.extremus.a.um
+Cabera cosa assi. suppremus.a.um.
+Cabestro para atar bestia. capistrum.i.
+Cabestrar bestia. capistro.as.
+Cabestrage de bestia. capistratio.onis.
+Cabestrero que haze cabestros. capistrarius.
+Cabestro animal para guia. sectarius.ii.
+Cabida. receptus.us.receptio.onis.
+Cabildo de regidores. senatus.us.
+Cabildo de iglesia. capitulum.i.no.
+Cabo por fin o termino. finis.terminus.
+Cabo de cuchillo o casi. manubrium.ii.
+Cabo desta manera. capulus.i.
+Cabo de tierra en la mar. promontorium.ii.
+Cabo de cruz en catalueña. templum ueneris.
+Cabo de lobo en cartagena. scombrasia.ae.
+Cabo de gato cerca de almeria. caridemi.pro.
+Cabo de gibraltar al estrecho. calpe.es.
+Cabo de tresfalgar a conil. mnesthei pro.
+Cabo de san viceinte en portogal. sacrum pro.
+Cabo de spichel en portogal. barbarium pro.
+Cabo de roca en portogal. mons lunae.
+Cabo de finisterre en galizia. nerium pr.
+Cabo este mesmo. artabra.ae.ierna.ae.
+Cabra montesina. caprea.ae.
+Cabrito de aquesta. capreolus.i.
+Cabra domestica y mansa. capra.ae.
+Cabra pequeña domestica. capella.ae.
+Cabrito de aquesta. hedus.i.
+Cabrito pequeño assi. hedulus.i.
+Cabrahigo arbol. caprificus.i.
+Cabrahigar con este arbol. caprifico.as.
+Cabrahigadura. caprificatio.onis.
+Cabrero o cabrerizo. caprarius.ii.
+Cabrillas constelacion. uergiliae.arum.
+Cabrillas estas en griego. pleiades.um.
+Cabrio o cabrial. tignus.i.tigillus.i.
+Cabron para casta. hircus admissarius.
+Cabron castrado. caper capri.
+Cabruno cosa deste linage. caprinus.a.um.
+Cabruno assi. caprilis.e.caprillus.a.um.
+Cabruno cosa deste cabron. hircinus.a.um.
+Cabrituno cosa de cabrito. hedinus.a.um.
+Caza de aves. aucupium.ii.
+Cazar aves. aucupor.aris.
+Cazador de aves. auceps.aucupis.
+Cazadora cosa para cazar. aucupatorius.a.um.
+Caza de fieras o monteria. uenatio.onis.
+Cazar fieras o montear. uenor.aris.
+Cazador de fieras o montero. uenator.oris.
+Cazadora desta forma. uenatrix.icis.
+Cazadora cosa de caza. uenaticus.a.um.
+Cazadora cosa para caza. uenatorius.a.um.
+Caceres villa de españa. castra caecilia.
+Cazo de hierro. fuscina.ae.creagra.ae.
+Cazon pescado conocido. ichthiocolla.ae.
+Cazorla villa de españa. castaon.onis.
+Cazorles cosa de alli. castaonensis.e.
+Cazurro. auarus.a.um.auidus.a.um.
+Cazurro un poco. parcus.a.um.
+Cazurria. auaricia.ae. parsimonia.ae.
+Cachorro can pequeño. catulus.i.
+Cachonda perra que se para. catuliens.tis.
+Cachonda estar la perra. catulio.is.
+Cacho por pedazo. frustum.i.
+Cachar en pedazos. diffindo.is.di.
+Cachuelas como de conejo. clunis.is.
+Cadaño. quot annis.singulis annis.
+Cadaño adverbio. anuuatim.
+Cadañera cosa. anniuersarius.a.um.
+Cadañera cosa. annuus.a.um.solemnis.e.
+Cadañal cosa. lo mesmo que cadañera.
+Cada dos años. secundus quisque annus.
+Cada tres años. tertius quisque annus.
+Cada cuatro años. quartus quisque annus.
+Cada cinco años. quinto quisque annus.
+Cada seis años. sexto quisque annus.
+Cada siete años. septimo quisque annus.
+Cada ocho años. octauo quisque annus.
+Cada nueve años. nono quisque annus.
+Cada diez años. decimo quisque annus.et c.
+Cada dia. singulis diebus.
+Cada dia adverbio. quotidie.
+Cada dos dias. secundus quisque dies.
+Cada tres dias. tertio quisque dies.et c.
+Cada mes. singuli menses.
+Cada dos meses. secundus quisque mensis.
+Cada tres meses. tertius quisque mensis.
+Cada uno sendos. singuli.ae.a.
+Cada uno dos. bini.ae.a.
+Cada uno tres. terni.ae.a.
+Cada uno cuatro. quaterni.e.a.
+Cada uno cinco. quinqueni.ae.a.
+Cada uno seis. seni.ae.a.
+Cada uno siete. septeni.ae.a.
+Cada uno ocho. octeni.ae.a.
+Cada uno nueve. noueni.ae.a.
+Cada uno diez. deni.ae.a.et c.
+Cada cual. quilibet.quaelibet.quidlibet.quidlibet.
+Cada cual. quiuis.quaeuis.quoduis.quiduis.
+Cada cual. quicumque.quaecumque quodcumque
+Cada uno. unusquisque unaquaeque ununquodquod
+Cada bueno. optimus quisque.
+Cada buena. optima quaeque.
+Cada buena cosa. optimum quidque.
+Cada bueno neutro. optimum quodque.
+Cada ruin. pessimus quisque.
+Cada sabio. sapientissimus quisque.
+Cada necio. insipientissimus quisque.et c.
+Cadahalso. suggestum.i.suggestus.us.
+Cadena de oro o collar. monile.is.
+Cadena desta manera. torquis aureus.
+Cadena para encadenar. catena.ae.
+Cadena pequeña assi. catella.ae.
+Cadera o quadril. coxendix.icis.
+Cadillo pequeño cardo. carduus pusillus.no.
+Cadira por catedra. cathedra.ae.
+Caer como quiera. cado.is.cecidi.
+Caer a menudo. casito.as.aui.
+Caerjuntamente. concido.is.concidi.
+Caer otra vez. recido.is.recidi.
+Caer de arriha. decido.is.decidi.
+Caer abaxo. succido.is.succidi.
+Caer en alguna cosa. incido.is.incidi.
+Caer muriendo. occido.is.occidi.
+Caediza cosa. caducus.a.um.cadiuus.a.um
+Caediza cosa otra vez. reciduus.a.um.
+Caediza cosa de arriba. deciduus.a.um.
+Caediza cosa abaxo. succiduus.a.um.
+Caediza cosa que muere. occiduus.a.um.
+Caer resbalando o dessizandose. labor.eris.
+Caer assi de arriba. delabor.eris.
+Caer assi abaxo. sublabor.eris.
+Caer assi en otra cosa. illabor.eris.
+Caer assi hazia otra cosa. allabor.eris
+Caer assi juntamente. collabor.eris.
+Caer assi en diversas partes. dilabor.eris.
+Caer assi otra vez. relabor.eris.
+Caer subitamente. ruo.is.labo.as.
+Caediza cosa. ruinosus.a.um.labilis.e.
+Caerse de la memoria. excido.is.
+Caer en tierra muriendo. oppeto.is.
+Caer en esta manera. procubo.as.procumbo.is
+Caer en esta manera. occubo.as.occumbo.is.
+Cagar. caco.as.uentrem exonero.
+Cagada o cagajon. excrementum alui.
+Cagada assi. sordes uentris uel alui.
+Cagarruta. stercus ouillum.caprinum.et c.
+Cagon o cagona. caco.onis.cacona.ae.no.
+Caiado o caiada. baculus.i.baculum.i.
+Caiado o caiada. scipio scipionis.
+Caiado pequeño. bacillus.i.bacillum.i.
+Caiado de pastor con gancho. pedum.i.
+Caida o caimiento. casus casus.occasus.us.
+Caida y lo mesmo que cae. ruina.ae.
+Caida como dessizandose. lapsus.us.
+Caida assi de arriba. delapsus.us.
+Caida assi abaxo. sublapsus.us.
+Caida assi en otra cosa. illapsus.us.
+Caida assi hazia otra cosa. allapsus.us.
+Caida assi en diversas partes. dilapsus.us.
+Caida assi otra vez. relapsus.us.
+Cal de piedras cozidas. calx.cis.
+Cala para purgar. pessarium.ii.
+Calabaza ierva y fruto. cucurbita.ae.
+Calabaza pequeña. cucurbitula.ae.
+Calabaza silvestre. colocyntis.idis.
+Calabozo carcel. scalae gemonie.
+Calabozo de hierro. runcina lignatoria.no.
+Calar lo cerrado. penetro.as.
+Cala de lo cerrado. penetratio.onis.
+Calable cosa que se cala. penetrabilis.e.
+Caladora cosa que cala. penetrabilis.e.
+Calador de cirugiano. specillum.i.
+Calaborra. calaguris.is.calagurina.ae.
+Calaborrano cosa de alli. calaguritanus.a.um.
+Calamar pescado. lolligo.lolliginis.
+Calamar pequeño. lolliguncula.ae.
+Calamar grande en su linage. lollius.ii.
+Calambre. tetanus.i.neruorum rigor.
+Calatauid ciudad de aragon. bilbilis.is.
+Calataiudano cosa de alli. bilbilitanus.a.um
+Cala verna de cabeza. calvaria.ae.
+Calcañar. calx.calcis. calcanauo.
+Calcar o recalcar. conculco.as.inculco.as.
+Calcar recalcando. farcio.is.refercio.is.
+Calzar. calceo.as.aui.calcio.as.aui.
+Calzado. calceatus.us.calciatus.us.
+Calzado. calcearium.ii.calciarium.ii.
+Calzado. calceamentum.i.calciamentum.i.
+Calzado. calceamen.inis.calciamen.inis.
+Calzada cosa de botas. ocrcatus.a.um.
+Calzada cosa de borzeguies. cothurnatus.a.um
+Calzada cosa de calzas. caligatus.a.um.no.
+Calzada cosa de alcorques. crepidatus.a.um
+Calzada cosa de chinelas. soleatus.a.um.
+Calzada cosa con guantes. manicatus.a.um.
+Calzado con zapatos. calceatus.a.um.
+Calzas de piernas. caligae.caligarum.no.
+Calzas hasta las rodillas. tibialia.ium.
+Calzada camino empedrado. uia strata.
+Calzada hazer de nuevo. uiam sterno.
+Calzada renovar. uiam restituo.uel reficio.
+Calcetero que haze calzas. sartor caligarius.
+Calcina. fex calcaria..
+Calcinar. calcario.is.
+Calzon. udo udonis.pedulis.is.
+Caldera de cobre. abenum.ii.
+Caldera pequeña de cobre. abenulum.i.
+Caldera de baño. solium.ii.
+Caldera de tinte. cortina.ae.
+Caldera para calentar agua. caldarium.ii.
+Calderon para cozinar. cacabus.i.
+Calderon desta manera. lebes.etis.
+Calderero. faber aerarius.
+Caldereria lugar. officina aeraria.
+Cale por conviene. expedit. conuenit.imp.
+Calendas primero dia de cadames. calendae.arum
+Calendario de los meses. calendarium.ii.
+Calendario de los santos. catalogus sanctorum
+Calendario de los martires. martyrologium.ii.
+Calentarse. caleo.es.calesco.is.
+Calentarse otra vez. recaleo.recalesco.
+Calentarse juntamente. concaleo.concalesco
+Calentamiento. calfactus.calfactio.onis.
+Calentar otra cosa. calefacio.calfacio.is.
+Calentar otra cosa. calfacto.as.aui.
+Calentador para cama. calfactorium.ii.
+Calentura por calor. calor.oris.
+Calentura con fiebre. febris.is.
+Calentura fiebre pequeña. febricula.ae.
+Calentura cuando crece. accessio.onis.
+Calentura cuando afloxa. remissio.onis.
+Calentura rezia. causode.es.
+Calentura continua. febris perpetua.
+Calentura cotidiana. febris quotidiana.
+Calentura terciana. febris tertiana.
+Calentura terciana doble. hemitriteus.i.
+Calentura cuartana. febris quartana.
+Calentura de solo un dia. ephemeris.idis.
+Calenturoso el que las tiene. febriculosus.a.um
+Calenturoso ser. febrio.is.febricito.as.
+Calera dose haze la cal. calcaria.ae.
+Calero el que la haze. calcarius.ii.
+Calez isla de españa. gades gadium.
+Calez esta mesma isla. erythrea.ae.
+Calezano cosa de calez. gaditanus.a.um.
+Calez ciudad desta isla. gaddir.iris.
+Calidad o acidente. qualitas.atis.
+Caliente cosa. calidus.a.um.caldus.a.um.
+Caliente lo que haze calor. calorificus.a.um.
+Calma de viento. tranquillitas.atis.
+Calma en la mar. malachia.ae.
+Calostro leche nueva. colostrum.i.
+Calongia dignidad eclesiastica. canonicatus.us.
+Calor natural. calor caloris.
+Calor o calura del sol. solis aestus.
+Calurosa cosa assi. aestuosus.a.um.
+Caluroso lo que lo haze. aestifer.a.rum.
+Calunia o caloña. calumnia.ae.
+Caluniador acusador assi. calumniator.
+Caluniar acusar assi. calumnior.aris.
+Calva de la cabeza. calua.ae.
+Calvez de cabellos. caluicium.caluicies.ei.
+Calvez assi en griego. ophiasis.
+Calvo de cabellos. caluus.a.um.
+Calvo un poco. caluaster.tri.
+Calvo atras o hazia tras. recaluus.a.um.
+Calvo hazia tras un poco. recaluaster.tri.
+Callar. taceo.es.sileo.es.silesco.is.
+Callar juntamente. conticeo.conticesco.is.
+Callar en esta manera. consileo.consilesco.
+Callar mucho. reticeo.es.reticui.
+Callar un poco. subticeo.es.subticui.
+Callada cosa que se calla. tacitus.a.um.
+Callada cosa que calla. tacitus.a.um.
+Callado que mucho calla. taciturnus.a.um.
+Calamiento assi. taciturnitas.atis.
+Callamiento como quiera. reticentia.silentium.
+Callar ciudad de cerdeña. caralis.is.
+Callares cosa desta ciudad. caralitanus.a.um
+Calle en lugar poblado. uia.ae.
+Calle sin salida. fundula.ae.
+Calle angosta o calleja. angiportus.i.
+Callo de la mano o de tal manera. callum.i.
+Calloso cosa con callos. callosus.a.um.
+Callecer hazer callos. calleo.es.caliesco.is.
+Callecer desta manera. obcalleo.obcallesco.
+Callo de herradura. callum soleae ferreae.
+Cama lecho donde dormimos. lectus.i.torus.i.
+Cama pequeña. lectulus.i.torulus.i.
+Cama de madera. fulcrum.i.
+Cama rica. sponda. spondae.
+Cama de pobres. grabattum.i.
+Camara donde dormimos. cubiculum.i.
+Camara como quiera. cella.ae.
+Camara pequeña assi. cellula.ae.
+Camarero de gran señor. cubicularius.ii.
+Camarera desta forma. cubicularia.ae.
+Camaras con llagas de tripas. dissenteria.ae.
+Camaras con gomito. choleres.rum.
+Camaras livianas. tenasmus.i.
+Camaras como quiera. uentris profluuium.
+Camara sin dolencia. alui citatio.
+Camara lo que assi se haze. alui excrementum
+Camafeo. calcitis bicolor.
+Camaron pescado. gammarus.i.
+Cambiar. commuto.as.permuto.as.
+Cambio. commutatio.permutatio.onis.
+Cambiador. mensarius.ii.argentarius.ii.
+Cambiador en griego. trapezita.ae.
+Cambiador pequeño. mensusarius.ii.
+Cambiador assi. nummularius.ii.
+Cambio de lugar a lugar. uectura.ae.
+Camello de una corcoba. camellus bactrianus
+Camello de dos corcobas. camellus arabicus
+Camellero que los cura. camellarius.ii.
+Camelleria oficio de aqueste. camellasia.ae.
+Cameleon animal como lagarto. chamelro.tis
+Camez punto o apice en las letras ebraicas.
+Caminar andar camino. facio.iter.
+Caminar querer. habeo.iter.
+Caminador o caminante. uiator.oris.
+Camino real. uia consularis.uel regia.
+Camino publico. uia publica.
+Camino para servidumbre. actus.us.
+Camino tal para ir a pie. iter itineris.
+Camino como vereda. semita.ae.trames.itis.
+Camino estrecho y hondo. callis.is.
+Camino pordo algo llevan. ueba.ae.
+Camino de santiago en el cielo. uia lactea.
+Camino de santiago este. circulus lactens.
+Camino de santiago este mesmo. galaxias.ae
+Camisa de muger. supparus.i.
+Camisa de varon. subucula.ae.
+Camodar. praestigior.aris.
+Campania region de italia. campania.ae.
+Campano cosa de alli. campanus.a.um.
+Campana. cimbalum.i.tintinabulum.i.
+Campanario. turris cymbalaria.
+Campanero que las tañe. cimbalarius.ii.
+Campanero que las haze. cimbalarius.ii.
+Campanilla de la garganta. epiglottis.idis.
+Campo raso como vega. campus.i.
+Campesino cosa deste campo. campestris.e.
+Campo que se labra. ager.i.rus.ruris.
+Campo pequeño assi. agellus.i.rusculum.i.
+Campo mas pequeño aun. agellulus.i.
+Campesino cosa de tal campo. agrestis.e.
+Campesino assi. rusticus.a.um.
+Campesino ombre. rusticanus.a.um.
+Campero el que lo guarda. camparius.ii.
+Campo marzo en roma. campus martius.
+Can perro o perra. canis canis.
+Can perra pequeña. canicula.ae.
+Canal de madera cavada. canalis.is.
+Canal pequeña assi. canalicula.ae.
+Canal pequeña assi. canaliculus.i.
+Canal de tejado. imbrex.imbricis.
+Canal maestra. imbrex deliciaris.
+Canal de la res que se come. imbrex.icis.
+Canal de molino. incile incilis.
+Canalado hecho a canales. canaliculatus.
+Cana cosa con canas. canus.a.um.
+Canas los mesmos cabellos. cani.orum.
+Canarias islas ocidentales. canariae.arum.
+Canarias estas mesmas. insulae fortunatae.
+Canasta grande. canistrum.i.qualus.i.
+Canasta desta manera. calatus.i.qualum.i.
+Canasta como cuevano. cophinus.i.
+Canastillo. quasillum.i.calatiscus.i.
+Cancer constelacion. cancer cancri.
+Cancer constelacion en griego. carcinos.i.
+Cancer dolencia. carcinoma.atis.
+Cancer esta mesma dolencia. erisipila.ae.
+Cancion. cantus.us.cantio.onis.
+Cancion. cantilena.ae.carmen.inis.
+Cancionero. odarum uel carminum liber.
+Candado cerradura. sera fibularis.
+Candado echar a bragas. infibulo.as.
+Candado quitar a bragas. refibulo.as.
+Candado pequeño. fibula.ae.
+Candela. candela.ae.lucerna.ae.no.
+Candela de cera. cercolus.i.
+Candela en griego. lichnus.i.
+Candelero en que las ponen. candelabrun.i.no.
+Candelero el que las haze. candelarius.no.
+Candia isla del arzapielago. creta.ae.
+Candiauo cosa de alli. cretensis.e.creticus.a.um
+Candiota vasija de alli. cadus cretensis.
+Candil de azeite. lucerna.ae.candela.ae.
+Candil en griego. lichnus.i.
+Candil de una mecha. lucerna monomyxos.
+Candil de muchas mechas. polymixos.
+Candilejos de judios. lucerna eneamixos.
+Canela especia conocida. cinnamum.i.
+Cangilon vaso de barro. congius.ii.
+Cangrejo pescado. cancer cancri.
+Cangrejo pequeño. cancellus.i.
+Canoa nave de un madero. monoxylum.i.
+Canon en griego. canon canonis.
+Canon en latin. regula regulae.
+Canonista que estudia canones. canonistes.ae.
+Canonista en latin. pontificii iuris studiosus.
+Canonigo de iglesia. canonicus.i.
+Canonizar. in numerum diuorum refero.
+Canonizado. in numerum diuorum relatuso.
+Canonizacion. apotheosis.is.
+Cansar a otra cosa. lasso.as.fatigo.as.
+Cansado. lassus.a.um.defessus.a.um.
+Cansancio. lassitudo.defatigatio.onis.
+Cansado un poco. lassulus.a.um.
+Cansarse. lassesco.is.defetiscor.eris.
+Cantaro. urna fictilis.
+Cantaro pequeño. urnula fictilis.
+Cantar el tordo o zorzal. trutilo.as.aui.
+Cantar el estornino. piscito.as.aui.
+Cantar la perdiz. cacabo.as.aui.
+Cantar la tortola o paloma. grino.is.
+Cantar la paloma torcaza. plausito.as.
+Cantar la grulla. gruo.is.grui.
+Cantar el cisne. drenso.as.aui.
+Cantaro piar el halcon o azor. pipio.is.
+Cantar el gorrion. pipillo.as.aui.
+Cantar el buho. bubulo.as.aui.
+Cantar el milano. lipio.is.lipiui.
+Cantar el bueitre. pulpo.as.aui.
+Cantar el cuervo. crocito.as.aui.
+Cantar la cigueña. glotoro.as.aui.
+Cantar el aguila. clango.is.
+Cantar la lechuza. cucubo.as.aui.
+Cantar el autillo. ululo.as.aui.
+Cantar el alondra. mitilo.as.aui.
+Cantar el abejuruco. zinzulo.as.aui.
+Cantar la golondrina. trinso.as.aui.
+Cantar la graja. frigulo.as.aui.
+Cantar la gallina. gracillo.as.aui.
+Cantar el gallo. cucurrio.is.iui.
+Cantar el pavon. pupillo.as.aui.
+Cantar el ansar o graznar. gracito.as.
+Cantar o graznar el anade. tetrino.as.
+Cantar todas las aves. garrio.is.
+Cantar o chillar el morcielago. strido.is.
+Cantar la cigarra. fritinio.is.iui.
+Cantar el grillo. gryllo.as.aui.
+Cantar el abeja o zumbar. bombilo.as.
+Cantar la rana. coaxo.as.aui.
+Cantar el ombre. cano.is.canto.as.aui.
+Cantar a menudo. cantito.as.aui.
+Cantar con otros. concino.is.concinui.
+Cantar a lo que otro canta. accino.is.
+Cantar debaxo. succino.is.succinui.
+Cantar en lo que otro canta. incino.is.
+Cantar suavemente. modulor.aris.
+Cantar en esta manera. meditor.aris.
+Cantar nombre. lo mesmo es que canto.
+Canteria minero de piedras. lapicidina.
+Canteria en griego. latomia.ae.
+Cantero que labra piedras. lapicida.ae.
+Cantero que las saca de minero. latomus.i.
+Canteria de aguzaderas. cotoria.ae.
+Cantidad grandeza. quantitas.atis.
+Canto piedra grande. cautes.is.
+Canto grossura o hondura. profunditas.
+Canton de calle. angulus exterior.
+Canto de aves como quiera. garritus.us.
+Canto de aguila. clangor.oris.
+Canto de autillo. ululatus.us.
+Canto de ombre. cantus.us.cantio.onis.
+Canto desta munera. cantilena.carmen.
+Canto en griego. oda.ae.psalmus.i.
+Canto de bodas. carmen nuptiale.
+Canto este en griego. epithalamium.ii.
+Canto de nacimiento. genethliacon.
+Canto este en latin. carmen natalicium.
+Canto de muertos. nenia.ae.
+Canto de muertos. epicedium.ii.
+Canto de amores. elegeia.ae.
+Canto de caida de principe. tragoedia.
+Canto de cosas baxas. comoedia.ae.
+Canto de reprehensiones. satyra.ae.
+Canto de loor de dios. bymnus.i.
+Canto de loor de los ombres. heroicuz carmen
+Canto de vaqueros. bucolicum.i.
+Canto de cabreros. aegloga.ae.
+Canto contra el primero canto. palinodia
+Canto de muchos. concentus.us.
+Canto suave. modulatio.modulamentum
+Canto en esta manera. modulamen.inis.
+Canto este mesmo.melos. melodia.ae.
+Cantor. cantor.oris.cantator.oris.
+Cantador en griego. psaltes.ae.
+Cantora. cantatrix cantatricis.
+Cantora en griego. psaltria.ae.
+Cantuesso mata conocida. casia sterilis.
+Caña pequeña. calamus.i.
+Caña vera. arundo.inis.
+Caña como quiera. canna.ae.
+Caña el meollo del uesso. medula.ae.
+Cañafistola. casiaphystula.ae.no.
+Cañahexa ierva conocida. ferula.ae.
+Cañaberra desta especie. narthecium.ii.
+Cañarroia ierva. perdicium.ii.helxine.es.
+Cañal de pescado. canalis.is.
+Cañamo ierva. cannabis.is.
+Cañamon simiente della. semen cannabinum
+Cañamazo. linteum canabinum.
+Cañada de ganado. actus pecudum.
+Cañama orden de pecheros. classis.is.
+Cañama esta mesma orden. census.us.
+Caña veral de cañas. arundinetum.i.
+Caña veral desta manera. cannetum.i.
+Cañilla del brazo. cercis.cercidis.
+Cañilla de cuba o tinaja. canalicula.ae.
+Cañilla esta mesma. canaliculus.i.
+Caño a albañar. canalis.is.
+Cañon de ala. caulis pennae.
+Cañuto. internodium.ii.cicuta.ae.
+Capa vestidura comun. penula.ae.
+Capacho ave o zumaia. cicuma.ae.
+Capacho de molino de azeite. fiscus.i.
+Capacho desta mañera pequeño. fiscina.ae.
+Capacete armadura de cabeza. galea.ae.
+Capar o castrar. castro.as.execo.as.
+Capado cosa castrada. exectus.a.um.
+Capadura. exectio.onis.castratura.ae.
+Capado varon. eunuchus.spado.onis.
+Caparrosa. atramentum sutorium.
+Caparrosa en griego. chalcanthum.i.
+Capelo de cardenal. umbella.ae.no.
+Capelo este mesmo. petasus.i.no.
+Capellan. sacerdos. minister sacrorum.
+Capilla de iglesia. sacellum.i.
+Capilla de capa. cucullus.i.
+Capillejo de muger. reticulum.i.
+Capirote vestidura. capitium.ii.
+Capirote de halcon. capitium.ii.
+Capirotada de ajos y queso. moretum.i.
+Capiscol o chantre de iglesia. mesochorus
+Capitan de gente. dux.cis.ductor.oris.
+Capitania desta manera. ductus.us.
+Capitanear gente. duco exercitum.
+Capitanear gente a menudo. ducto.as.
+Capitan que vencio batalla. imperator.
+Capitania deste tal. imperium.ii.
+Capitanear desta manera. impero.as.
+Capitan de guarnicion. praeses.idis.
+Capitania de guarnicion. presidium.ii.
+Capitel de coluna. capitellum.i.
+Capitel de coluna en griego. epistylium.ii.
+Capitulo de libro. capitulum.i.
+Capitulo lugar de consejo. capitulum.i.no.
+Capitolio monte de roma. capitolium.ii.
+Capitolino cosa de alli. capitolinus.a.um.
+Capon ave castrada. capo.onis.capus.i.
+Capon golpe del dedo. talitrum.i.
+Capon de fruta. pomum flacciolum.
+Capote vestido rustico. capitium.ii.
+Capua ciudad de italia. capua.ae.
+Capuano cosa de alli. campanus.a.um.
+Capullo de la seda. bombylis.is.
+Capullo del miembro viril. praepucium.ii.
+Capullo vestidura. capitium.ii.
+Cara que se muda. uultus.us.
+Cara la natural. facies.ei.os.oris.
+Cara sin verguenza. os durum.
+Caracol. cochlea.ae.limax.acis.
+Caracol escalera. cochlea.ae.
+Carambano. crusta ex gelu.
+Caratula o carantoña. persona.ae.
+Caratula en griego. hypocrita.ae.
+Caratulado cosa con caratula. personatus.a.um
+Caramillo de pastor. calamus.i.
+Caravo ave de la noche. alluco.onis.
+Cara vela especie de navio. celox.ocis.no.
+Carabo especie de navio. carabus.i.no.
+Carboncol piedra preciosa. carbunculus.i.
+Carboncol en griego este. pyropus.i.
+Carboncol apostema. carbunculus.i.
+Carboncol en griego este. anthrax.acis.
+Carcax. coritus.i.pharetra.ae.
+Carcajada de risa. cachinnus.i.
+Carcajadas de risa dar. cachinnor.aris.
+Carcavo del vientre. barathrum.i.
+Carcava de muertos. xerolophum.i.
+Carca vera puta. bustuaria meretrix.
+Carcoma de madera. caries.ei.
+Carcomido assi. cariosus.a.um.
+Carcel publica. carcer.eris.
+Carcel de los condenados. scalae gemoniae.
+Carcelero destas carceles. custos reorum.
+Carcel de presos en el campo. ergastulum.i.
+Carcel esta mesma. ergasterium.ii.
+Carcelero desta carcel. ergastulus.i.
+Carcelero aqueste mesmo. ergastularius.ii.
+Carda para cardar. carptorium.ii.
+Cardar. carpo.is.carmino.as.
+Cardador. carptor.oris.carminator.oris.
+Cardadura. carptura.ae.carminatio.onis.
+Cardenillo color verde. aerugo.inis.
+Cardeno. luridus.a.um.liuidus.a.um.
+Cardeno un poco. subliuidus.a.um.
+Cardenal de golpe. liuor liuoris.uibex.icis.
+Cardenal de roma. cardinalis.is.no.
+Cardenaladgo dignidad deste. cardinalatus.no
+Cardo generalmente. carduus.i.
+Cardo en griego. acanthus.i.
+Cardo arracife. acanthus leucos.
+Carduzar. aquello mesmo es que cardar.
+Carena de nave. carina.ae.
+Crecer no tener lo desseado. careo.es.
+Careza de precio. caritas.atis.
+Carga de bestia. uebes.is.
+Cargo cualquier peso. onus.eris.pondus
+Cargada cosa assi. onerosus.ponderosus.
+Cargada cosa en esta manera. grauis.e.
+Cargar desta manera. onero.as.premo.is.
+Carga de sarcia. sarcina.ae.
+Cargar de sarcia. sarcino.as.aui.
+Caria region de asia. caria.ae.
+Caridad amor onesto. charitas.atis.
+Caridad misericordia. misericordia.ae.
+Caritativo misericordioso. misericors.dis.
+Caridad lo que assi se da. elemosina.ae.
+Carixa ciudad fue cerca de arcos. carissa.ae.
+Carlos nombre de varon. carolus.i.
+Carmenar lana olino. carmino.as.
+Carmenador. carminator.oris.
+Carmenadura. carminatio.onis.
+Carmesi. purpura.ae.murex.icis.
+Carmona villa del andaluzia. carmonia.
+Carmones cosa de alli. carmoniensis.e.
+Carnaval o carnes tollendas. carnis priuium.no
+Carnaval en griego este mesmo. apocreos.i.
+Carnal cosa de carne. carneus.a.um.
+Carnal cosa no espiritual. carnalis.e.
+Carnalidad desta manera. carnalitas.atis.
+Carne de animal muerto. caro.carnis.
+Carne en el animal que bive. corpus.oris.
+Carne de animal fiero. ferina.ae.
+Carne de bueio vaca. bouina.ae.
+Carne de cordero. agnina.ae.
+Carne de oveja. ouilla.ae.
+Carne de carnero. arietina.ae.
+Carne de cabron. hircina.ae.
+Carne de puerco. suilla.ae.
+Carne de javali. aprugna.ae.
+Carne sin uesso. pulpa.ae.offa.ae.
+Carne en esta manera. pulpamentum.i.
+Carne poca o pequeña. caruncula.ae.
+Carnero para casta. aries admissarius.
+Carnero cojudo. aries coleatus.
+Carnero para comer. ueruex.ecis.aries.etis.
+Carnero la mesma carne. arietina.ae.
+Carnero donde se guarda la carne. carnarium
+Carnero donde echan los uessos. xerolophun.i.
+Carne de membrillo. cydonites.ae.
+Carnicero que vende la carne. lanius.ii.
+Carnicero aqueste mesmo. lanio.onis.
+Carniceria lugar dose vende. macellum.i.
+Carniceria este lugar. forum boarium.
+Carniceria este mesma. carnarium.ii.
+Curnicero cosa cruel. carnifex.icis.
+Carnicera cosa cruel. carnificus.a.um.
+Carniceria lugar do atormentan. carnificina.ae.
+Carnicol de animal grande. talus.i.
+Carnicol de animal pequeño. taxillus.i.
+Carnicol en griego. astragalus.i.
+Carnoso o carnudo. corpulentus.a.um.
+Carpe arbol y madera peregrina. carpinus.i.
+Carpintero. faber tignarius. faber lignarius.
+Carpintero de carros. carpentarius.ii.
+Carpintero de carretas. carrucarius.ii.
+Carpintero de arcas. arcarius.ii.
+Carpintero de madera preciosa. abietarius.ii.
+Carpintero de edificios. architectus.i.
+Carpinteria de aqueste. architectonica.ae.
+Carpinteria de buena madera. abictaria.ae.
+Carpiteria como quiera. ars lignaria.tignaria
+Carpinteria assi. ars materiaria.
+Carpintear. dolo.as.dedolo.as.
+Carrasco arbol de bellotas.ilex.icis.
+Carrascal lugar destos arboles. ilicetum.i.
+Carranza. hamus milli.murex milli.
+Carrera o corrida. cursus.us.fugaae.
+Carrera pequeña. curriculum.i.
+Carrera do corren cavallos. hippodromus.i.
+Carreta. carrus.i.carruca.ae.plaustrum.i.
+Carreton pequeña carreta. plostellum.i.
+Carretero. carrucarius.plaustrarius.ii.
+Carril de carreta. orbita.ae.
+Carrillo como rodaja. uertebra.ae.
+Carrillo de cara hinchado. bucca.ae.
+Carrilludo hinchado assi. bucco.onis.
+Carrizo especie de caña. carex.icis.
+Carrizal lugar de carrizos. carectum.i.
+Carro para llevar cargos. carrus.i.carrum.i.
+Carro desta manera. uebiculum.uectabulum
+Carro desta manera. plaustrum.carruca.
+Carro para pelear o correr. currus.us.
+Carro pequeño assi. curriculum.i.
+Carro con boces para pelear. currus falcatus
+Carro de dos cavallos. bigae.arum.
+Carro de cuatro cavallos. quadrigae.arum.
+Carro de los dioses. thensa.ae.
+Carro como andas. rheda.ae.epirhedium.ii.
+Carro desta manera. carpentum.i.comuum.
+Carro desta manera. essedum.i.petoritum.i.
+Carta poruna hoja. charta.ae.pagina.ae.
+Carta mensagera. litterae.arum.
+Carta mensagera en griego. epistola.ae.
+Carta pequeña assi. epistolicium.epistolium.
+Carta de pago. apocha.ae.
+Cartapacio. albiolus.i.
+Cartama villa cerca de malaga. cartima.ae.
+Cartel de desafio. litterae prouocatorie.
+Cartabon de carpintero. umbilicus.i.
+Cartabon en griego. gnomon.onis.
+Cartagena en españa. carthago sparraria.
+Cartago en africa. cartago inis.
+Cartagines cosa destas ciudades. carthaginen
+Carvon. carbo.carbonis.
+Carvon en griego. anthrax.acis.
+Carvonero el que lo haze. carbonarius.ii.
+Casa por la morada. domus.i.aedes.ium
+Casa por el edificio. domus.us.aedes.ium.
+Casa por la familia. domus.us.familia.ae.
+Casa real. regia.ae.pretorium.ii.
+Casa real en griego. basilica.ae.
+Casa do mora el corregidor. praetorium.ii.
+Casa que no dessinda con otra. insula.ae.
+Casa pagiza o pobre. casa.ae.
+Casa pagiza pequeña. casula.ae.
+Casa sobre ageno suelo. superficies.ei.
+Casa en la eredad. uilla.ae.praetorium.ii.
+Casa pequeña assi. uillula.ae.praetoriolum.i.
+Casa mudar a otra parte. migro.as.aui.
+Casa mudar otra vez. remigro.as.aui.
+Casa mudar juntamente. commigro.as.aui.
+Casa mudar allende. transmigro.as.aui.
+Casa mudar de con otro. semigro.as.aui.
+Casa mudar a otro lugar. immigro.as.aui
+Casar donde estuvo casa. cadauer domus.
+Casarse el varon. duco uxorem.
+Casarse la muger. nubo.is.marito.
+Casar el padre la hija. loco filiam.
+Casado varon. uir.maritus.i.
+Casadera moza. puella nubilis.
+Casada muger. nupta.ae.marita.ae.
+Casado o casada. coniunx.coniugis.
+Casado o casada una vez. monogamus.a.
+Casamiento en esta manera. monogamia.ae.
+Casado o casada dos vezes. digamus.a.
+Casamiento desta manera. digamia.ae.
+Casado o casada tres vezes. trigamus.a.
+Casamiento desta manera. trigamia.ae.
+Casado o casada cuatro vezes. tetragamus.a.
+Casamiento assi. tetragamia.ae.et c.
+Casamiento de marido y muger. coniugium.ii.
+Casamiento assi. connubium. matrimonium.ii.
+Casamiento la dote que se da. dos dotis.
+Casamiento que da el padre. dos profecticia.
+Casamentero. conciliator matrimonii.
+Casamentera. conciliatrix matrimonii.
+Cascajo arena con pedrezicas. glarea.ae.
+Cascajal lugar de cascajo. locus glareosus.
+Cascar. quatio.is.quasso.as.
+Cascatreguas. foedifragus.a.um.
+Cascavel. sonaluim.ii.nola.ae.
+Cascara como de uevo. crusta.ae.
+Cascaras mondaduras. putamen.inis.
+Cascara de granada. malocorium.ii.
+Casco de vaso de barro. testa.ae.
+Casera cosa de casa. domesticus.a.um.
+Casero que mora en casa agena. inquilinus.i.
+Casi ad verbio. quasi.prope.propemodum.
+Casi preposicion. circiter.
+Casia arbol y ierva olorosa. casia odorata.
+Casia fistula medicinal. casiafistula.no.
+Casilla pagiza. casula.ae.tugurium.ii.
+Caso. casus.us.fortuna.ae.fors.forte.
+Caso de letra. ductus littere.
+Caspa de cabeza. furfures capitis.
+Casposo lleno de caspa. furfurosus.a.um.
+Casquete de cuero. cudo.onis.
+Casquete de hierro. cassidicula.ae.
+Casquillo de saeta. aculeus.i.
+Cassar la cuenta. dispungo.is.expungo.is.
+Cassacion de cuenta. dispunctio.expunctio.
+Cassar la scriptura. cancello.as.aui.
+Cassador de escriptura. cancellarius.ii.
+Casta buen linage. genus.eris.
+Casta cosa. castus.a.um.pudicus.a.um.
+Castamente. pudice.caste.
+Castaño arbol. castanea.ae.
+Castaña fruta deste arbol. castanea.ae.
+Castaña pilada. castanca flaccida.
+Castaña enxerta. castanea insitiua.
+Castaña regoldana. castanea siluestris.
+Castañal lugar de castaños. castanetum.i.
+Castañuelas entre dedos. digitorum crepitue
+Castellano cosa de castilla. hispanus.a.um.
+Castellano moneda. aureus bispanus.
+Castidad. pudicicia.ae.castitas.atis.
+Castigar. castigo.as.corrigo.is.
+Castigo assi. castigatio.correctio.
+Castigador assi. castigator.corrector.
+Castigar riñiendo. obiurgo.as.aui.
+Castigo con reñilla. iurgium.ii.
+Castigador assi. iurgator.obiurgator.
+Castigar con pena. punio.is.aiaduerto.is.
+Castigo assi. punitio.animaduersio.
+Castigador assi. punitor.animaduersor.
+Castilla. hispania.ae.hesperia.ae.iberia.ae.
+Castilla la vieja. hispania tarraconensis.
+Castilla la nueva. hispania ulterior.
+Castillo villeta cercada. castrum.i.
+Castillo pequeño. castellum.i.
+Castor animal. fiber fihri.
+Castor en el griego. castor.oris.
+Castrar. castro.as.execo.as.
+Castrador. castrator.exector.
+Castradura. castratio.exectio.
+Castrazon tiempo de castrar. castratio.
+Casirar colmenas. castro.as.aui.
+Castrazon de colmenas. castratio.onis.
+Castrazon de colmenas. mellatio.onis.
+Castradera para castrar. castratorium.ii.
+Castrado ombre. spado.onis.eunuchus.i.
+Catalueña hazia lerida. ilergetes.um.
+Catalueña hazia barcelona. acetani.orum
+Catalueña hazia empuries. indigetae.arum.
+Catalina nombre de muger. caterina.ae.
+Cataraña ave. cataracta.ae.
+Cataracta de ojos. nubecula oculorum.
+Catedra o silla. cathedra.ae.sedes.is.
+Catedral cosa de catedra. cathedralicius.a.um.
+Catedratico que lee alli. cathedrarius.ii.
+Cativar a otro. capio.is.captiuo.as.
+Cativar ser cativo. capior.eris.captiuor.
+Cativo. captiuus.a.um.captus.a.um.
+Catividad. captiuitas.atis.captio.onis.
+Cativo con otro. concaptiuus.a.um.
+Catorze numero. numerus quattuordenarius
+Catorze en numero. quattuordecim.
+Catorze mil en numero. quattuordecim mille
+Catorze millares. quattuordecim milia.
+Catorze cuentos. centies quadragies.c.m.
+Catorze mil cuentos. centum quadragies.c.m.
+Catorzeno en orden. quartus decimus.a.um
+Catorzena parte. quartadecima.ae.
+Catorze mil en orden. quater decies millesimus
+Catorze cada uno. quattuordeni.ae.a.
+Catorze mil cada uno. quattuordeni.m.
+Catorze mil cuentos cada uno.c.q.c.m.
+Catorze vezes adverbio. quaterdecies.
+Catorze mil vezes. quaterdecies milies.
+Catorze tanto. quattuordecuplus.a.um.
+Caucaso monte de tartaria. caucasus.i.
+Caudal en el logo. sors.tis.caput.itis.
+Caudal cosa. capitalis.e.
+Caudillo. busca en capitan et c.
+Causa generalmente. causa.ae.
+Causar dar causa. affero causam.
+Causador. causa efficiens.
+Causon fiebre encendida. causode.es.
+Cautela o astucia. cautio.onis.cautela.ae.
+Cautelosa cosa. cautus.a.ui.astutus.a.um.
+Cautelosamente. caute.astute.
+Cava de fortaleza. fossa.ae.
+Cavador. fossor.oris.
+Cavalgar en cavallo. equito.as.adequito.
+Cavallero a cavallo. eques equitis.
+Cavalgar en cualquier bestia. sedeo.es.
+Cavallero en esta manera. sessor.oris.
+Cavallera en esta manera. sestrix.icis.
+Cavalleria en esta manera. sessio.onis.
+Cavalgar subir en cavallo. conscendo equum
+Cavalgar el varon a la muger. futuo.is.
+Cavalgador assi. fututor.oris.
+Cavalgadura assi. futuitio.onis.
+Cavalgar macho a hembra. inio.is.salio.is.
+Cavalgadura assi. initus.us.coitus.us.
+Cavallo bien proporcionado. equus.i.
+Cavallo pequeño. equulus.i.equuleus.i.
+Cavallo enano. inannus.i.
+Cavallo mas enano. inannulus.i.
+Cavallo arrocinado. caballus.i.
+Cavallo morisco. asturco.onis.
+Cavallo ligero. ueredus.i.
+Cavallo albardon. caballus clitellarius.
+Cavallo ceciliano. equus agrigentinus.
+Cavallo de la brida. equus desultorius.
+Cavallo emparamentado. equus ephippiatus
+Cavallo encobertado. equus cataphractus.
+Cavallo amblador. gradarius.ii
+Cavallo castrado. cantherius.ii.
+Cavallo uñido con otro. biugis.is.
+Cavallo unido con otros tres. quadriingis.is.
+Cavallo de rio pescado. hippopotamus.i.
+Cavallar cosa de buen cavallo. equinus.a.um
+Cavallar cosa de rocin. caballinus.a.um.
+Cavallerizo. praefectus equorum.
+Cavallerizo en griego. hippodamia.ae.
+Cavalleriza. equile.is.
+Cavallero de espuelas doradas. eques auratus
+Cavallillo entre sulco y sulco. porca.ae.
+Cavallillo entre era y era. forus.i.
+Cavar viñas. pastino.as.aui.
+Cavar como quiera. fodio.is.di.
+Cavar sacando lo cavado. effodio.is.di.
+Cavar por debaxo. suffodio.is.di.
+Cavar por medio. perfodio.is.di.
+Cavar otra vez. refodio.is.di.
+Cavar otra vez la viña. repastino.as.
+Cavazon como quiera. fossio fossura.
+Cavazon de viña. pastinatio.onis.
+Cavazon de viña otra vez. repastinatior.
+Cavar dolando. cauo.as.aui.
+Cavadura desta forma. cauatura.ae.
+Cavadiza cosa desta forma. cauaticus.a.um.
+Caverna de tierra o piedra. cauerna.ae.
+Cavernoso lleno de cavernas. cauernosus.
+Caxa o arca. capsa.ae.arca.ae.
+Caxa pequeña. capsula.ae.
+Caxa de libros o escripturas. scrinium.ii.
+Caxa pequeña desta manera. scriniolum.i.
+Caxa de escrivanias. theca calamaria.
+Caxa de anillos. dactylotheca.ae.
+Caxa de cuchillos. theca cultellaria.
+Caxon de arca. loculus.i.
+Caxoncillo de arca. locellus.i.
+Cazcarrias. quisquiliae.arum.tricae.arum.
+Cazcorvo. loripes.dis.uarus.a.um.
+Cazlona lugar cerca de baeza. castulo.onis.
+Clamor grande boz. clamor.oris.
+Clamoroso lo que da bozes. clamosus.a.um.
+Clara nombre de muger. clara.ae.
+Clara de uevo. album oui.albugo.inis.
+Clara cosa con luz. clarus.a.um.lucidus.a.um.
+Claramente assi. clare.lucide.
+Claridad assi. claritas.claritudo.
+Clarificar assi. claro.as.clarifico.as.
+Clarecerse. clareo.es.claresco.is.
+Clarecerse el dia. lucesco.is.
+Clara cosa sin hez. liquidus.a.um.defecatus.
+Claramente assi. liquide.defecate.
+Claridad assi. liquiditas.atis.defecatio.onis.
+Claro lo que se vee. euidens.conspicuus.
+Claramente assi. euidenter.conspicue.
+Claridad assi. euidentia.ae.conspicuitas.
+Claro lo que se trasluze. perspicuns.a.um.
+Claramente assi. perspicue.
+Claridad assi. perspicuitas.atis.
+Claro assi en griego. diaphanus.a.um.
+Clarea de miel y vino. mulsum.i.
+Clarea de especias y vino. murrbina.ae.
+Clara cosa en sonido. clarisonus.a.um.
+Claror dixo juan de mena por claridad.
+Clavar o enclavar. clauo.as.figo clauo.
+Clavadura o enclavadura. clauifixura.
+Clavazon de clavos. clauamentum.i.
+Clavero de orden. clauiger. ri.
+Clavo de hierro. clauus.i.
+Clavo del pie. clauus pedis.
+Clavo del ojo. clauus oculi.
+Clavo de girofe. gariophyllum.i.
+Clavellina flor. gariophyllatus flos.
+Clemeinte nombre de varon. clemens.tis.
+Clemencia. clementia.ae.benignitas.atis.
+Clemente. clemens.tis.benignus.a.um.
+Clementemente. clementer.benigne.
+Clerigo orden eclesiastica. clericus.i.
+Clerigo de epistola. initiatus ad sacra.
+Clerigo de missa. sacerdos.otis.
+Clerigo en griego. praesbiter.eri.
+Clerezia aiuntamiento destos. clerus.i.
+Clerezia orden de clerigo. clericatus.
+Clima de la tierra. clima.atis.
+Cloque garfio de nave. harpago.onis.
+Cloquear la gallina. glocio.is.
+Clueca gallina. gallina glociens.
+Clueca otra ave cualquiera. incubans.
+Cobarde. ignauns.a.um.iners.tis.
+Cobardia. ignauia.ae.inertia.ae.
+Cobertor de cama. stragulum lecti.
+Cobertor como quiera. opertorium.
+Cobertura. tegmen.inis.tegmentum.i.
+Cobertura. tegumentum.integumentum.
+Cobertura. operimentum.opertorium.
+Cobertura. uelamen.inis.uelamentum.i.
+Cobijar o cobijadura. requiere cobrir.
+Cobrar lo perdido. recipio.recupero.
+Cobre metal. aes cyprium.
+Cobre de bestias. mandra.ae.
+Cobre de ajos o cebollas. restis.is.
+Cobrir. operio.is.adoperio.cooperio.
+Cobrir. uelo.as.abdo.is.condo.is.
+Cobriren derredor. obduco.is.obtego.is.
+Cobrir a menudo. operto.as.aui.
+Cobrir la cabeza. obnubo caput.
+Cobrir con sombra. obumbro.as.
+Cobro por recaudo. receptus.us.recupatio.
+Cobro lugardo algo se salva. receptaculum.i.
+Coce herida con el calcañar. calx.calcis.
+Cocear tirar coces. calcitro.as.
+Cocear hollar. calco.as.proculco.as.
+Cacear uno sobre otro. inculco.as.
+Cocear uno con otro. conculco.as.
+Cocear tirar coces atras. recalcitro.as.
+Coceamiento de coces. calcitratus.us.
+Coceador el que tira coces. calcitro.onis.
+Coceadora cosa que tira coces. calcitrosus.a.um
+Cochino lechon. porcellus lactens.
+Cochino destetado. nefrens nefrendis.
+Cochino de un año. maialis.is.
+Cochio cosa al var. coctiuus.a.um.
+Cochizo que se cueze. coctilis.e.
+Codal cosa de un codo. cubitalis.e.
+Codal armadura de codo. cubitale.is.
+Codera sarna de codo. cubiti psora.
+Codada golpe de codo. cubiti ictus.
+Codear herir con el codo. cubito tango.
+Codiciar. cupio.is.concupisco.is.
+Codiciar. aueo.es.fert animus.
+Codiciar onra. ambio.is.ambiui.
+Codiciar reino. affecto.as.affectaui.
+Codiciarlo onesto. expeto.is.expetiui.
+Codiciar bueno o malo. appeto.is.
+Codicia. cupiditas.atis.cupido.inis.
+Codicia. concupiscentia.auiditas.atis.
+Codicia de reino. affectatio regni.
+Codicioso de reino. affectator regni.
+Codicia de onra. ambitio.onis.
+Codicioso de onras. ambitiosus.a.um.
+Codicia de lo bueno y onesto. expetitio.
+Codicioso en esta manera. expetitor.oris.
+Codicia assi. appetentia.ae.appetitio.onis.
+Codicia de bueno o no tal. appetitio.onis.
+Codicioso assi. appetitor.oris.
+Codicioso un poco. auidiusculus.a.um.
+Codicia de golosinas. cupedia.ae.
+Codicilo de testamento. codicilli.orum.
+Codigo libro. codex codicis.
+Codo del brazo. cubitus cubiti.
+Codo medida. cubitum cubiti.
+Codorniz ave conocida. coturnix.icis.
+Codorniz en griego. ortyx.gos.
+Codorniz guiadora de las otras. ortygometra
+Cofia de muger. mitra.ae.
+Cofia pequeña de muger. mitella.ae.
+Cofin. cophinus.i.fiscus.i.
+Cofrade ermano con otros. confrater.
+Cofradia ermandad assi. confraternitas.
+Cofrade en comer. sodalis.comessator.
+Cofradia assi. sodalitas.sodalicium.
+Cofradia assi. comessatio.philicia.orum.
+Cofre. scrinium.ii.scriniolum.i.
+Coger. lego.is.colligo.is.cogo.is.
+Coger rompiendo. decerpo.is.carpo.is.
+Coger pecho. exigo.is.exegi.
+Cogedor de azeitunas. legulus.i.
+Cogedor de pecho. exactor.oris.coactor.
+Cogedura de pechos. exactio.onis.
+Cogedor como quiera. collector.oris.
+Cogedura como quiera. collectio.onis.
+Cogollo de arbol. germen germinis.
+Cogote de cabeza. occiput.occipitium.ii.
+Cohechar alzar barvecho. proscindo.is.
+Cohechazon de barvecho. proscissio.onis.
+Cohechar. decido.is.cogo.is.
+Cohechador. decisor.oris.coactor.oris.
+Cohecho. decisio.onis.coactio.onis.
+Cohecho de juez. repetunde.arum.
+Cohombro. cucumis.cucumer.eris.
+Cohombrillo amargo. cucumis agrestis.
+Cohombral. cucumerarium.ii.
+Cohonder. corrumpo.is.confundo.is.
+Cohondimiento. corruptio.confusio.
+Coimbra ciudad de portogal. conimbrica.ae.
+Coiunda de iugo. lorum iugi.
+Coiundado iugo. loratum iugum.
+Coiuntura. iunctura.ae.coniunctio.onis.
+Coiuntura de dedos. condylus.i.
+Cojon. coleus.i.testis.is.
+Cojon pequeño. testiculus.i.
+Cojudo carnero. aries colleatus.
+Cojudo toro. taurus colleatus.
+Cojudo macho para casta. colleatus.a.um
+Cola de animal. cauda.ae.penis.is.
+Cola de animal pequeña. peniculus.i.
+Cola para encolar. gluten.inis.glutiuum.
+Cola esta mesma en griego. colla.ae.
+Cola pex. icthiocolla.ae
+Col o berza. caulis.is.colis.is.brassica.ae.
+Colacion de bever. symposium.ii.
+Colacion en latin. compotatio.onis.
+Colacion de beneficio. collatio.onis.
+Colar beneficios. confero beneficium.
+Colar por coladero. colo.as.aui.
+Coladero por donde cuelan. colum.i.
+Coladura. colatura.ae.
+Colar paños. candifico linthea.
+Colada de paños. lintheorum candificatio.
+Colador de paños. fullo.onis.
+Coladora de paños. fullona.ae.
+Colcha de cama. stragulum linthenm.
+Colchon de cama. culcitra.ae.
+Colear mover la cola. motito caudam.
+Colear el perro. adulor.aris.
+Coleadura desta manera. adulatio.onis.
+Colera umor del cuerpo. bilis.is.
+Colera esta mesma en griego. cholera.ae.
+Colera negra o quemada. atra bilis.
+Colera esta mesma en griego. melancholia.
+Colerica cosa de colera. cholericus.a.um.
+Colerica cosa en latin. biliosus.a.um.
+Colegio aiuntamiento. collegim.ii.
+Colegio en esta manera. corpus.oris.
+Colegial cosa de colegio. collegialis.e.
+Colegial varon de colegio. collega.ae.
+Coleta. coma.ae.cesaries.ei.
+Coleta. capillatura.ae.capillamentum.i.
+Colgajo de uvas. uuae pensiles.
+Colgajo algo que cuelga. appendix.icis.
+Colgadizo lo que cuelga. pendulus.a.um
+Colgadizo que se quiso colgar. suspendiosus.
+Colgar al mal hechor. suspendo.is.
+Colgadura assi. suspendium.ii.suspensio.
+Colgado estar. pendeo.es.pependi.
+Colgar una cosa a otra. appendo.is.
+Colgado estar de otra cosa. dependeo.es.
+Colgado estar para caer. impendeo.es.
+Colino para berzas. coliculi.orum.
+Colica passion. chordapson colica.
+Colico el que tiene colica. colicus.a.um.
+Colmar la medida. cumulo.as.aui.
+Colmadura de medida. auctarium.ii.
+Colmo de medida. cumulus.i.
+Colmena. alueus.i.aluear.aris.
+Colmenar. aluearium.ii.apiarium.ii.
+Colmenar. mellarium.ii.melissiton.onis.
+Colmenero. apiarius.ii.mellarius.ii.
+Colmillo. dens.columellaris.
+Colmillo de javali. fulmen.inis.
+Colodrillo. occiput.itis.occipitium.i.
+Colonia ciudad de alemaña. calonia agrippine
+Colones cosa desta ciudad. agrippinensis.e.
+Color cualquiera. color.colos.oris.
+Color en griego. chroma.atis.
+Colorado cosa de color. colorius.a.um.
+Colorado bermejo. rubeus.a.um.ruber.a.um
+Columpio para columpiar. oscillum.i.
+Coluna. columna.ae.
+Coluna pequeña. columnella.ae.
+Colusion. collusio.onis.
+Colusion hazer. colludo.is.
+Collar de vestido. collarium.collare.
+Collar que se echa al cuello. torquis.
+Collar con carrancas. millus.i.
+Collacion de ciudad. regio.tribus.
+Collear. surrigo cristas.
+Coma en la musica. comma.atis.
+Comma punto en la escriptura. comma.atis.
+Coma sentencia suspensa. comma.atis.
+Comadre madre con otra. commater.tris.
+Comadreja. mustela.ae.ictis.ictidis.
+Comadreja. gales.is.feles felis.
+Comarca. confinium.ii.affinitas.atis.
+Comarcano. confinis.e.assinis.e.
+Combatir. oppugno.as.impugno.as.
+Combate. oppugnatio.impugnatio.
+Combatiendo tomar. expugno.as.
+Combatible cosa. expugnabilis.e.
+Combidar. inuito.as.inuitaui.
+Combidado ser. conuiuor.aris.
+Combidado o combidada. conuiua.ae.
+Combidado. conuictor.oris.
+Combite. conuiuium.ii.conuictus.us.
+Combite. inuitatio.onis.inuitamentum.i.
+Combite en griego. symposium.ii.
+Combleza de casada. pellex.icis.
+Comblezadgo. pellicatus.us.
+Comblezo. riualis riualis.
+Comblezadgo assi. riualitas.atis.
+Comedir. praemeditor.aris.
+Comedido. praemeditatus.a.um.
+Comedimiento. praemeditatio.onis.
+Comedor comilon. manducus.i.comedo.onis
+Comedor. manduco.onis.epulo.onis.
+Comedor. barathro.onis.edax.acis.
+Comedor de ombres. anthropophagus.i.
+Comedera cosa. uescus.a.um.
+Comer. edo.is.edi.comedo.is.comedi.
+Comer. uescor.eris.conuescor.eris.
+Comer en derredor. ambedo.is.
+Comer hasta el cabo. peredo.is.exedo.is.
+Comer delicado. ligurio.is.iui.
+Comer en cofradia. comessator.oris.
+Comer papas. papo.as.papaui.
+Comer en mortuorio. exequior.aris.
+Comer a menudo. esito.as.aui.
+Comensal. commensalis.contubernio.onis.
+Comensal cosa. contubernalis.e.
+Comensalia. contubernium.ii.
+Comenzar. incipio.is.coepi.coepisti.
+Comenzar. inchoo.as.ineo.is.
+Comenzar oracion. exordior.iris.
+Comendar o encomendar. comendo.as.
+Comendador de orden. commendatarius.
+Comento. glossemma.atis.commentum.i.
+Comentar. commentor.aris.expono.is.
+Comentador. commentator.expositor.
+Cometa. cometes.ae.cometa.ae.
+Cometa en latin. stella crinita.
+Cometer en mal. adorior.iris.inuado.is.
+Cometimiento assi. adorsus.us.inuasio.
+Cometedor assi. inuasor.oris.
+Cometer pecando. comitto.is.
+Cometimiento assi. commissum.i.
+Cometedor assi. commissor.oris.
+Cometer como quiera. aggredior.eris.
+Cometedor assi. aggressor.oris.
+Cometimiento assi. aggressio.onis.
+Comezon. prurigo pruriginis.
+Comienzo principal. inicium.ii.
+Comienzo de oracion. exordium.ii.
+Comienzo de oracion en griego. proemium.
+Comienzo como quiera. principium.ii.
+Comienzo de materia. elementum.i.
+Comigo adverbio. mecum.
+Comilon. lo mesmo es que comedor.
+Comitre de galea. comes magistri.
+Comida. cibus.i.esca.ae.
+Como comparando. ut.quemadmodum.
+Como assi. cen.uelut.ueluti.tanquam.
+Como coniuncion. cum.quando.
+Compadecerse. compatior.eris.
+Compadre padre con otro. compater.no.
+Compadradgo assi. compaternitas.atis.no.
+Compañero en trabajos. socius.ii.
+Compañera assi en trabajos. socia.ae.
+Compañera cosa assi. socius socii.
+Compañia assi. societas.atis.
+Compañero en los plazeres. sodalis.is.
+Compañera en los plazeres. sodalis.is.
+Compañia assi. sodalitas.sodalicium.ii.
+Compañero que acompaña a otro. comes.
+Compañera que acompaña a otra. comes.
+Compañia en esta manera. comitatus.us.
+Compañero en la guerra. commilito.onis.
+Compañia en la guerra. commilitium.ii.
+Compañero de una mesma suerte. consors.
+Compañia en esta manera. consortium.ii.
+Comparar. comparo.as.confero.rs.
+Comparacion. comparatio.collatio.
+Compas instrumento de hierro. circinus.i.
+Compassar medir por compas. circino.as.
+Compassion de la passion de otro. compassio.
+Compassion en griego. sympathia.ae.
+Competer pertenecer. competit imp.
+Competir con otro de igualdad. competo.is.
+Competidor con otro. competitor.oris.
+Competicion con otro. competitio.onis.
+Complision. complexio elementorum.
+Complisionado. compactus.a.um.
+Complazer. complaceo.es.complacui.
+Complir. compleo.es.suppleo.es.
+Complimiento. complementum.i.supplementum
+Componer obra. compono.i.condo.is.
+Componedor. compositor.conditor.
+Composicion assi. compositio.onis
+Componer poner en orden. dispono.is.
+Composicion en esta manera. dispositio.
+Comprar. emo.is.comparo.as.
+Comprador. empertor.oris.comparator.oris.
+Compra. empetio.onis.comparatio.onis.
+Comprar a menudo. empetito.as.
+Compradiza cosa. empeticius.a.um.
+Comprar con mucha gana. empeturio.is.
+Comprador en esta manera. emax.acis.
+Compra en esta manera. emacitas.atis.
+Comprar de comer. obsonor.aris.
+Comprar de comer a menudo. obsonito.as.
+Comprador assi. obsonator.oris.
+Comprometer. compromitto.is.si
+Compromisso. compromissio.onis.
+Compuerta de fortaleza. cataracta.ae.
+Comulgar. communico.as.aui.
+Comunjon. communio.onis.
+Comun cosa. communis.e.publicus.a.um.
+Comun o comunidad. commune.is.
+Comunidad en esta manera. communitas.
+Comunmente. communiter.
+Comunal por comun. communis.e.
+Comunal por mediano. mediano.
+Comunalia mediania. mediocritas.atis.
+Con preposicion de ablativo. cum.
+Con por instrumento. septimus casus.
+Con preposicion que no se aparta. con.
+Concejo. concio.onis.concilium.ii.
+Concegil cosa de concejo. publicus.a.um.
+Concebir la hembra. concipio.is.
+Concepcion assi. conceptio.conceptus.us.
+Concertarse. conuenio.is.conueni.
+Concertarse los pleiteantes. transigo.is.
+Concertarse estos mesmos. decido.is.
+Concertar uessos. dedolo.as.
+Concertador de uessos. dedolator.
+Concertar a los discordes. concilio.as.
+Concertador de discordes. conciliator.
+Concha de pescado. concha.ae.
+Concha el pescado mesmo. conchyle.is.
+Concierto como quiera. conuentio.onis.
+Concierto de pleiteantes. transactio.
+Concierto destos mesmos. decisio.onis.
+Concilio. concilium.ii. concio.onis.
+Concilio en griego. synodus.i.
+Conciliar nuevos amigos. concilio.as.
+Conciliador de nuevos amigos. conciliator.
+Concluir. concludo.is.colligo.is.
+Conclusion. summa.ae.conclusio.onis.
+Conclusion pequeña. conclusiuncula.ae.
+Conclusion de oracion. peroratio.onis.
+Conclusion esta mesma en griego. epilogus
+Concordar uno con otro. concordo.as.
+Concorde cosa assi. concors.dis.
+Concordemente assi. concorditer.
+Concordia assi. concordia.ae.
+Concordar en sentencia. consentio.is.
+Concordia en esta manera. consensus.us.
+Concordar en son. consono.as.
+Concorde cosa en son. consonus.a.um.
+Concordia en son. consonantia.ae.
+Concordia en son en griego. harmonia.
+Concorde cosa en amor. unanimis.e.
+Concordemente en amor. unanimiter.
+Concordia en amor. unanimiter.
+Conde o condessa. comes comius.
+Condado señorio destos. comitatus.us.
+Condestable. primipilus.i.primipilaris.
+Condestablia. primipilatus.us.
+Condenar. condemno.as.damno.as.
+Condenacion. condemnatio.damnatio.
+Condenado a muerte. capitalis.e.
+Condicion natural. ingenium.ii.
+Condicion por estado. conditio.onis.
+Condicion por leio partido. conditio.onis.
+Condicional cosa. conditionalis.e.
+Condicionalmente. conditionaliter.
+Conducho. consuetus.a.um.
+Conejo. cuuiculus.i.lepusculus.i.
+Conegero. cunicularius uenator.
+Confederar. foedero.as.confoedero.as.
+Confederado. foederatus.a.um.
+Coufederacion. confoederatio.foedus.eris.
+Confessar por su voluntad. fateor.eris.
+Confession desta manera. fassio.onis.
+Confessar por fuerza. confiteor.eris.
+Confession desta manera. confessio.onis.
+Confessor que oie. auditor poenitentiarius.
+Confesso. conuersus.a.um.ad christum.
+Confesso en griego. neophytus.i.
+Confesso en latin este mesmo. infiticius.
+Confiar de otra cosa. fido.is.confido.is.
+Confianza assi. fidentia.ae.confisio.fiducia.
+Confiando adverbio. fidenter.
+Confiar prestando. credo.is.credidi.
+Confiador assi. creditor.oris.
+Confiar deposito. depono.is.
+Confiador assi. depositor.oris.
+Confiar en sequestro. sequestro.as.
+Confiador que confia assi. sequestrator.
+Confirmar en bien. confirmo.obfirmo.
+Confirmacion assi. confirmatio.obfirmatio.
+Confirmar en mal. obstino.as.aui.
+Confirmacion en mal. obstinatio.onis.
+Confiscar. confisco.as.publico.as.
+Confiscacion. confiscatio.publicatio.
+Confites. confecta ex saccaro.
+Confitero que los haze. pistor dulciarius.
+Conforme cosa. conformis.e.
+Conformemente. conformiter.
+Conformidad. conformitas.atis.
+Conformar. conformo.as.aui.
+Confundir. confundo.is.misceo.es.
+Confusion. confusio.onis.mistio.onis.
+Confusamente. confuse.
+Confusa cosa. confusaneus.a.um.
+Confusion de elementos. chaos.
+Congoxa. angor.anxietas.anxitudo.
+Congoxosa cosa con congoxa. anxius.a.um.
+Congoxosamente. anxie.
+Congoxara otro. ango.is.anxi.
+Congorarse. angor.eris.
+Congrio pescado conocido. conger.gri.
+Congrio este mesmo. congrus.gri.
+Conjecturar. conijcio.is.coniecto.as.
+Conjecturar. coniector.aris.coniecturo.
+Conjectura. coniectio.coniectura.
+Conjugacion de verbo. coniugatio.onis.
+Conjugacion en griego. syzigia.ae.
+Conjurar en mala parte. conspiro.as.
+Conjuracion en esta manera. conspiratio.
+Conjurar con palabras. adiuro.as.coniuro.
+Conjuracion assi. adiuratio.coniuratio.
+Conjuracion en griego. exorzismus.i.
+Conjurar en griego. exorzizo.as.
+Conjurador en griego. exorzista.e.
+Conjuncion de la luna con el sol. coitus lunae.
+Conjuncion assi. interlunium.luna silens.
+Connusco adverbio. nobiscum.
+Conocer. nosco.is.noui.isti.cognosco.is.
+Conocimiento. noticia.ae.cognitio.onis.
+Conocerlo primero conocido. agnosco.is.
+Conocimiento desta manera. agnitio.onis.
+Conocible cosa. notilis.e.cognobilis.e.
+Conocido ser. notesco.is.pernotesco.is.
+Conocer a menudo. noscito.as.aui.
+Conocer entre diversos. internosco.is.
+Conocer entre diversos. dignosco.is.
+Conocer confessando. confiteor.eris.
+Conocer el bien hecho. sum gratus.
+Conocimiento agradecimiento. gratitudo
+Conocido por agradecido. gratus.a.um.
+Conocimiento de paga. apocha.ae.
+Coño miembro de muger. cunnus.i.
+Conquistar. debello.as.aui.
+Conquista. debellatio.onis
+Consagrar. sacro.as.confecro.as.
+Consagrar. dico.as.dedico.as.
+Consagracion. sacratio.consecratio.
+Consagracion. dicatio.dicatura.ae.
+Conseja fingida. fabula.ae.
+Conseja en griego. apologus.acroama.atis.
+Consejar a otro. consulo illi.
+Consejo tomar de otro. consulo illum.
+Consejero. consiliarius.consiliosus.
+Consejo. consilium.ii.consultatio.
+Consejo real. senatus regius.
+Conseguir. consequor.eris.assequor.
+Conseguimiento. assecutio.consecutio.
+Conseguimiento assi. consequentia.ae.
+Conseguiente cosa. consequens.consectarius.a.um
+Conseguientemente. consequenter.
+Consequencia. consequentia.ae.sequella.ae.
+Consentir con otro. consentio.is.si.
+Consentir a otro. assentio.is.assentior.iris.
+Consentimiento. consensio.consensus.us.
+Consentimiento. assensio.assensus.us.
+Consentir en lo prometido. stipulor.aris.
+Consentir en esta manera. astipulor.aris.
+Consentimiento assi. stipulatio.stipulatus.
+Consentimiento assi. astipulatio.onis.
+Consentir abaxando la cabeza. annuo.is.
+Consentimiento en esta manera. nutus.us.
+Consentir cerrando los ojos. conniueo.es.
+Conservar. conseruo.as.aui.
+Conservacion. conseruatio.onis.
+Couservador. conseruator.oris.
+Conservadora cosa. conseruatorius.a.um
+Conserva cosa en conserva. conditaneus.a.um.
+Considerar. considero.as.aui.
+Considerar. animaduerto.is.ti.
+Consideracion. consideratio.aiaduersio.
+Considerado lo que considera. consideratus.a.um.
+Consideradamente. considerate.
+Consigo adverbio. secum.
+Consignar. consigno.as.aui.
+Consignacion. consignatio.onis.
+Consistorio. consistorium.ii.
+Consistorio en griego. synhedrion.
+Consolar con obras. solor.aris.
+Consolacion por obras. solatium.ii.
+Consolacion assi pequeña. solatiolum.i.
+Consolar por palabras. consolor.aris.
+Consolacion por palabras. consolatio.onis.
+Consolador por palabras. consolator.
+Consoladora cosa assi. consolatorius.a.um
+Consolador en griego. paracletus.i.
+Consolacion en griego. paraclesis.is.
+Consolable cosa assi. consolabilis.e.
+Consolablemente. consolabiliter.
+Consonancia de bozes. consanantia.ae
+Consonancia en griego. harmonia.ae.
+Consonante cosa. consonus.a.um.
+Consonante letra. consonans.antis.
+Consonar una cosa con otra. consono.as.
+Constante cosa. constans.antis.
+Constancia por firmeza. constantia.ae.
+Constantemente. constanter.
+Constante ser. consto.as.constiti.
+Constanzia ciudad de alemaña. constantia.
+Constanza nombre de muger. constantia.
+Constantino emperador. constantinus.
+Constantinopla ciudad de tracia. bizantium.
+Constantinopolitano cosa de alli. bizantius.
+Constantinopolitano assi. bizantinus.a.um
+Constantinopla esta mesma. constantinopolis
+Constantinopolitano. constantinopolitanus.
+Constituir hazer statuto. constituo.is.
+Constitucion. estatuto.constitutio.onis.
+Constellacion del cielo. constellatio.onis.
+Constellacion en griego. apotelesma.atis.
+Construir. construo.is.construxi.
+Construcion. constructio.onis.
+Consuegro. consocer.consoceri.
+Consuegra. consocrus.consocrus.
+Consul romano. consul consulis.
+Consulado en roma. consulatus.
+Consular cosa deste consul. consularis.e.
+Consular el que fue consul. consularis.is.
+Consul en cartago. suffecis.is.
+Consul en grecia. hypatos.
+Consuno. simul.una.pariter.
+Contador que cuenta. calculator.oris.
+Contador assi. computator.supputator.
+Contador maior. quaestor regius.
+Contador por este. proquestor.oris.
+Contadoria dignidad. questura.
+Contagion dolencia que se pega. contagio.
+Contagion aquesta mesma. contagium.ii.
+Contal de cuentas. sinea calculorum.
+Contante para contar. calculus.i.
+Contar razones. narro.as.enatro.as.
+Contar assi mucho. denarro.as.
+Contar declarando lo escuro. enarro.as.
+Contar gente en alarde. censeo.es.
+Contar gente otra vez. recenseo.es.
+Contar por numero. calculo.as.
+Contar assi. computo.as.supputo.as.
+Contender porfiando. contendo.is.
+Contender assi. certo.as.decerto.as.
+Contendedor assi. certator.oris.
+Contencion. certamen.inis.contentio.
+Contencioso con porfia. contentiosus.a.um.
+Contento. contentus.a.um.
+Contentarse. contineo me.
+Contentarse de si mesmo. placeo mibi.
+Contentar a otro. satisfacio.is.
+Contentamiento assi. satisfactio.onis.
+Contienda. lo mesmo es que contencion.
+Contigo adverbio. tecum.
+Continuar. continuo.asperpetuo.as.
+Continua cosa en cantidad. continuus.a.um
+Continuamente assi. continue.continenter.
+Continuacion assi. continuitas.atis.
+Continuo en duracion. iugis.e.perpetuo.a.um
+Continuo assi. perpesetisassiduus.a.um.
+Continuamente assi. iugiter.assidue.
+Continuamente assi. perpetim perpetue.
+Contra preposicion. contra.aduersus.in.
+Contra adverbio. contra.
+Contradezir. contradico.is.xi.
+Contradicion. contradictio.onis.
+Contradezidor. contradictor.oris.
+Contradezidora cosa. contradictorius.a.um.
+Contradezir con voto. refragor.aris.
+Contradezidor con voto. refragator.oris.
+Contradicion assi. refragatio.onis.
+Contradicion de lei. antinomia.ae.
+Contrahazer a otro. imitor.aris.ago.is.
+Contrahazer a otro. assimulo.as.represento.
+Contrahazedor assi. imitator.actor.mimus.
+Contrahazedor assi. assimulator.repraesentator.
+Contrahazimiento. imitatio.repraesentatio
+Contrahazer falsando. adultero.as.
+Contrahecho falsado. adulterinus.a.um
+Contrahazedor falsario. adulterator.oris.
+Contramina. cuniculus aduersus.
+Contraminar. cuniculos oppono.
+Contrapesar. rependo.is.rependi.
+Contrapeso. repensum.i.
+Contrapeso para saltar. halteris.is.
+Contraponer. oppono.is.obijcio.is.
+Contraposicion. oppositio.obiecto.
+Contraponedor. oppositor.obiector.
+Contraposicion figura. antithesis.is.
+Contraposicion figura. antithetum.i.
+Contraria cosa. contrarius.a.um.oppositus.
+Contrariedad. contrarietas.oppositio.
+Contrariar a otro. aduersor.aris.
+Contrario assi. aduersarius.a.um.
+Contrariedad assi. aduersatio.onis.
+Contrariedad de calidades. antiparistasis.
+Contrariedad de passiones. antipathia.ae.
+Contrariedad de habla. antiphrasis.is.
+Contratar. contrecto.as.communico.as.
+Contratacion. contrectatio.communicatio.
+Contrato. contractus.us.conventio.onis.
+Contrato recaudo. rei cautio.
+Contrecho doliente. debilis.e.
+Contribuir. contribuo.is.contribui.
+Contribucion. contributio.onis.
+Contribuidor. contributor.oris.
+Contumace porfiado. contumax.acis.
+Contumacemente. contumaciter.
+Contumacia porfia. contumacia.ae.
+Convalecer de dolencia. conualesco.is.
+Convalecer assi. conualeo.es.melius habeo
+Convalecimiento. conualescentia.ae.
+Convalecimiento assi. bona ualitudo.
+Convencion. conuentio.onis.condictum.i.
+Convencion. pactum.i.pactio.onis.
+Convenir con otro. conuenio.is.
+Convenir ser provechoso. expedit imper.
+Convenir ser possibile. licet imper.
+Convenir ser conveniente. conuenit imper
+Convenir ser oportuno. oportet imper.
+Convenir ser cosa onesta. decet imper.
+Conveniencia en griego. homologia.
+Conveniente cosa. conueniens.congruus.a.um
+Conveniente cosa. competens.tis.
+Conveniencia. congruitas.competentia.
+Convenientemente. congrue.competenter.
+Convento lugar. conuentus.us.
+Convento las mesmas personas. conuentus.us
+Conventual cosa. conuenticius.a.um.
+Convento pequeño. conuenticulum.i.
+Convertir en bien. conuerto.is.ti.
+Conversion en bien. conuersio.onis.
+Convertir en mal. peruerto.is.ti.
+Conversion en mal. peruersio.onis.
+Converso. lo mesmo es que confesso.
+Conversar. conuiuo.is.conuersor.aris.
+Conversacion. conuersotio. onuictus.us.
+Cunvusco adverbio. uobiscum.
+Copa para bever. cuppa.ae.patera.ae.
+Copa grande. crater.eris.carchesium.ii.
+Copano barco pequeño. corbula.ae.
+Copada o cogujada. requiere cugujada.
+Copero el ministro de la copa. pincerna.ae.
+Copete de cabellos delanteros. antiae.arum
+Copia por abundancia. copia.ae.
+Copioso por cosa abundante. copiosus.a.um
+Copia por facultad. copia.ae.facultas.atis.
+Copo de lino o de lana. pensum.i.
+Corazon del animal. cor.cordis.
+Corazon pequeño. corculum.i.
+Corazoncillo ierva. hypericon.i.
+Corazon de la madera. aegis.idis.
+Corazon en griego. cardia.ae.
+Corazas armadura del cuerpo. thorax.acis.
+Corade la por assadura. praecordia.orum.
+Coradela esta mesma. exta.orum.
+Corage. animi desponsio.coragium.ii.
+Coral. coralum.i.coralium.ii.
+Corcoba. gibbus.i.gibber.i.gibba.ae.
+Corcobado. gibbosus.a.um.gibberosus.a.um
+Corcobado. gibber.eri.incuruus.a.um.
+Corcobo de cavallo o bestia. tortus.us.
+Corzo o corza.
+Corcha de alcornoque. suber.eris.
+Corcha de alcornoque. subernus cortex.
+Corchete de vestidura. ansa.ae.uncinus.i.
+Corcho de colmena. alueus.i.
+Cordel o cordon. funis.is.chorda.ae.
+Cordon de sirgo. funiculus sericus.
+Cordon pequeño o cordel. funiculus.i.
+Cordero o cordera. agnus.i.agna.ae.
+Cordero pequeño. agniculus.i.
+Cordero que nace tardio. cordus.i.
+Cordojo por dolor de corazon. cordolium.ii.
+Cordova ciudad del andaluzia. corduba.ae.
+Cordoves cosa desta ciudad. cordubensis.e.
+Coria ciudad de castilla. caurium.
+Coriano cosa desta ciudad. cauriensis.e.
+Cornado dinero. numnmus coronatus.
+Cornado tercio de la blanca. triens.tis.
+Cornear herir con cuernos. cornupeto.is.
+Corneador o corneadora. cornipeta.ae.
+Corneja ave conocida. cornix.icis.
+Corneja pequeña. cornicula.ae.
+Cornejo nombre de varon. cornelius.ii.
+Cornuda cosa con cuernos. cornutus.a.um.
+Cornuda cosa en su genero. corniger.a.um.
+Cornudo en denuesto. curuca.ae.
+Coro por orden de iguales. chorus.i.
+Coroza. mitra scelerata.no.
+Corona como quiera. corona.ae.
+Corona en griego. anadema.atis
+Corona del papa. thiaras.ae.thiara.ae.
+Corona de rey. diadema.atis.thiara.ae.
+Corona de rey ierva. sertula campana.
+Corona de rey esta mesma. melilothos.i.
+Corona de angel o santo. nymbus.i.
+Corona pequeña. corolla.ae.
+Corona de laurel. laurea.ae.
+Corona de laurel pequeña. laureola.ae.
+Corona de flores. serta.orum.
+Corona de clerigo. tonsura.ae.
+Corona costelacion del cielo. corona.
+Corona del que triunfo. corona aurea.
+Corona de aqueste antiguamente. laurea.
+Corona del descercador. corona graminea.
+Corona del que libro a su ciudadano. ciuica.
+Corona del que subio primero. muralis.
+Corona del que entro primero y c. castrensis.
+Corona del que primero salto y cn. naualis.
+Coronar. corono.as.aui.
+Coronacion. coronatio.onis.
+Coronica por chronica. chronica.orum.
+Coronista por chronista. chronistes.ae.
+Coronica de año en año. annales.ium.
+Coronica de dia en dia. diarium.ii.
+Coronica esta mesma en griego. ephemeris.
+Coronica como quiera. historia.ae.
+Coronista escriptor de istoria. istoricus.i.
+Coronista aqueste mesmo. istorio graphus.i.
+Corporal cosa de cuerpo. corporeus.a.um
+Corporal cosa en cuerpo. corporalis.e.
+Corral de gallinas. cohors.tis.cors.tis.
+Corral como patio de casa. impluuium.ii.
+Corral lugar no tejado. area subdialis.
+Corral estrecho entre paredes. andronium.
+Correa de cuero. corrigia.ae.cestus.us.
+Corredera de cavallos. hippodromus.i.
+Corredera de ombres. stadium.ii.
+Corredor de mercaderia. proxeneta.ae.
+Corretage salario de aqueste. proxeneticum.
+Corredor de cama. cortina.ae.
+Corredor de casa. solarium.ii.tabulatum.i.
+Corredor del campo. antecursor.oris.
+Corredor que roba el campo. excursor.oris.
+Corredor que corre. cursor.oris.
+Corredora cosa. cursorius.a.um.
+Corregir. corrigo.is.castigo.as.
+Correcion. correctio.castigatio.
+Corregidor corector. castigator.
+Corregidor justicia. praetor.oris.
+Corregimiento de aqueste. praetura.ae.
+Corregidor por otro. propraetor.oris.
+Corregimiento de aqueste. propraetura.
+Corregir por afeitar. orno.as.
+Corregidera de afeites. cosmeta.ae.
+Correo que lleva letras. tabellarius.ii.
+Correo este mesmo. cursor.oris.
+Correo este mesmo en griego. grammatophorus
+Correo de dineros. follis.is.
+Correr ir mas que de passo. curro.is.
+Correr assi a menudo. curso.as.cursito.as.
+Correr hazia otra cosa assi. accurro.is.
+Correr ante otra cosa. antecurro.is.precurro.
+Correr a fuera. excurro.is.
+Correr hasta el cabo. percurro.is.
+Correr al encuentro de otro. occurro.is.
+Correr contra otro. incurro.is.
+Correr de arriba abaxo. decurro.is.
+Correr con otro. concurro.is.
+Correr allende. transcurro.is.
+Correr por diversas partes. discurro.is.
+Correr assi a menudo. discurso.as.
+Correr otra vez o atras. recurro.is.
+Correr assi a menudo. recurso.as.
+Correr lo liquido. fluo.is.labor.eris.
+Correr assi a diversas partes. diffluo.is.
+Correr en esta manera. dilabor.eris.
+Correr assi adefuera. effluo.elabor.
+Correr assi hazia otra cosa. affluo.allabor.
+Correr assi de arriba. defluo.delabor.
+Correr assi en otra cosa. influo.illabor.
+Correr assi con otra cosa. confluo.collabor.
+Correr assi atras. refluo.is.relabor.
+Correr assi por otra cosa. perfluo.
+Correr a otro. suspendo.is.confundo.is.
+Corrimiento assi. suspensio.confusio.
+Corrido assi. suspensus.a.um.confusus.a.um.
+Corriente como agua. torrens.tis.
+Corriente venage de agua. profluens.tis.
+Corrillo de gente. corona.ae.circulus.i.
+Corrida o carrera. cursus.us.
+Corrida pequeña. curriculum.i.
+Corrida en diversas partes. discursus.
+Corrida a otra parte. accursus.us.
+Corrida delante. praecursus.us.
+Corrida por defuera. excursus.us.excursio.
+Corrida al encuentro. occursus.us.
+Corrida en contrario. incursus.us.
+Corrida de arriba abaxo. decursus.us.
+Corrida con otro. concursus.us.
+Corrida atras o otra vez. recursus.us.
+Corriente cosa. currens.tis.
+Corriente cosa liquida. fluidus.a.um.
+Corriente assi en diversas partes. difluus.
+Corriente assi afuera. efluus.a.um.
+Corriente assi a otra cosa. affluus.a.um.
+Corriente assi con otra cosa. confluus.a.um.
+Corriente assi atras. refluus.a.um.
+Corriente assi por otra cosa. perfluus.a.um.
+Corriente assi en otra cosa. influus.a.um.
+Corrimiento de lo liquido. fluor.oris.
+Corrimiento assi. fluxio.onis.flurus.us.et c.
+Corro de mozos. chorus.i.chorea.restis.
+Corro del toro. barena.ae.theatrum.i.
+Corromper. corrumpo.is.uiolo.as.
+Corromper. uitio.as.temero.as.
+Corrompimiento. corruptio.uiolatio.
+Corrompible. corruptibilis.e.uiolabilis.e.
+Corromperse derretiendo. tabeo.tabesco.
+Corromperse assi mucho. intabeo.per.con.
+Corrompido assi. tabidus.a.um.
+Corrompido assi un poco. tabidulus.a.um.
+Cortar. scindo.is.scidi.seco.as.secui.caedo.
+Cortadura. scissura.ae.scissio.oins.sectio.cesura
+Cortar de alguna cosa. abscindo.is.
+Cortadura en esta forma. abscissio.onis.
+Cortar en diversas partes. discindo.disseco.
+Cortadura assi. discissio.dissectio.
+Cortar en derredor. circuncido.amputo.
+Corcadura assi. circuncisio.amputatio.
+Cortar juntamente. concido.is.di.
+Cortadura assi. concisio.onis.
+Cortar por debaxo. succido.is.di.
+Cortadura en esta manera. succisio.
+Cortar otra vez. rescindo.is.recido.is.
+Cortadura assi. rescissio.recisio.onis.
+Cortadora cosa. incisiuus.a.um.
+Cortando adverbio. incisim.
+Cortapisa de saia. limbus talaris.
+Cortapisa da saia. instita subsuta.
+Corte de rey o papa o emperador. curia.ae.
+Cortesano. curialis.e.ciuilis.e.politicus.
+Cortes. urbanus.a.um.festiuus.a.um.
+Cortes. comis.e.assabilis.e.
+Cortesia. urbanitas.atis.festiuitas.atis.
+Cortesia. comitas.atis.assabilitas.atis.
+Cortesmente. urbane.festiue.
+Cortesmente. comiter.affabiliter.
+Corteza de arbol. cortex.icis.codex.icis.
+Corteza esta mesma. liber libri.
+Corteza de comer. crustum.i.
+Corteza pequeña de comer. crustulum.i.
+Corta cosa. breuis.e.curtus.a.um.
+Cortedad. breuitas.atis.curtatio.onis.
+Corto de corazon. pusillanimis.e.
+Cortedad de corazon. pusillanimitas.atis.
+Cortina o corredor. cortina.ae.
+Corva de la pierna. genu curuatura.
+Corva cosa. curuus.a.um.uncus.a.um.adumcus
+Corva cosa atras. recuruus.a.um.
+Corvadura. curuitas.curuatura.curuamen.
+Cosa y cosa. aenigma.atis.
+Cosa generalmente. res rei.
+Cosa pequeña. recula.e.
+Coscoja mata en que nace la grana. ilex.icis.
+Coscojal lugar de coscojas. ilicetum.i.
+Cosecha. prouentus.us.fructus perceptio.
+Cosecha de pan y legumbres. messis.is.
+Cosecha de vino. uindemia.ae.
+Cosecha de azeite. oleitas.atis.oliuitas.atis.
+Cosecha de higos. ficitas.atis.
+Cosecha de miel. mellatio.onis.
+Coser. suo.is.sarcio.is.si.insuo.is.assuo.is.
+Coser uno con otro. consuo.is.
+Cosedura. sutura.ae.sartura.ae.
+Cosible cosa. sutilis.e.consutilis.e.
+Cosmografia. cosmographia.geographia.
+Cosmografo. cosmographus.i.geographus.
+Cosma nombre de varon. cosmus.i.cosma.ae.
+Cossario de la mar. pirata.ae.
+Cossario principal. archipirata.ae.
+Cosso do corren el toro. harena.ae.
+Costa. sumptus.us.impensa.ae.
+Costado. latus lateris.
+Costal. saccus.sacci.
+Costal pequeño. sacculus.i.
+Costar por precio. consto.as.
+Costilla de espinazo. costa.ae.
+Costo. lo mesmo que costa es.
+Costoso cosa de costa. sumptuosus.a.um.
+Costosa cena. coena opipara.adiicialis.
+Costra como corteza. crusta.ae.
+Costra pequeña assi. crustula.ae.
+Costreñir. cogo.is.impello.is.
+Costreñimiento. coactio.impulsio.
+Costribar recalcando. constipo.as.
+Costribar estribando. innitor.eris.
+Costumbre. mos.oris.consuetudo.
+Costumbre de muger. mestruum.i.
+Costura. sutura.ae.sartura.ae.
+Costurera. sarcinatrix.icis.
+Cota de malla. lorica.ae.
+Cota de malla pequeña. loricula.ae.
+Cotejar. comparo.as.confero.rs.
+Cotejamiento. comparatio.collatio.
+Coto. locus prohibitus.a.um.
+Cotral buei. bos reijculus.
+Cotral vaca. bos reijcula.
+Cotral otra cosa. reijculus.a.um.
+Coxin de silla. stragulum.i.
+Coxin de silla en griego. ephipium.ii.
+Coxo de pie o pierna. claudus.a.um.
+Coxedad desta manera. clauditas.atis.
+Coxquear assi. claudico.as.aui.
+Coxquear nombre. claudicatio.onis.
+Corquillas. titillatio.onis.titillatus.us.
+Corquillas hazer. titillo.as.aui.
+Cozer. coquo.is.xi.decoquo.is.
+Cozedura. coctio.onis.coctura.ae.
+Cozediza cosa. coctilis.e.
+Cozido en agua. elyxus.a.um.
+Cozina lugar. coquina.culina.
+Cozina caldo. ius.iuris.
+Cornero . coquus.i.cocus.i.
+Cra boz del cuervo.cra.
+Cras adverbio o mañana. cras.
+Crecer. cresco.is.adoleo.es.adolesco.is.
+Crecer. augeo.es.augesco.glisco.is.
+Crecer mucho. excresco.is.incresco.is.
+Creceruna cosa con otra. concresco inolesco.
+Crecer otra vez. recresco.is.recreui.
+Crecer a escondidas. succresco.is.
+Crecimiento. incrementum.augmentum
+Crecimiento assi. excrementum.i.
+Crecida cosa. excretus.a.um.adultus.a.um.
+Creer alguna cosa. credo.is.credidi.
+Creible cosa. credibilis.e.
+Creiblemente. credibiliter.
+Creencia de ligero. credulitas.atis.
+Creencia de fe. relligio.onis.
+Creencia por carta. litterae cum mandatis.
+Creencia por querencia. amor.
+Cremona ciudad de italia. cremona.ae.
+Cremonesa cosa de alli. cremonensis.e.
+Crespa cosa en cabellos. crispus.a.um.
+Crespa cosa un poco. crispulus.a.um.
+Crespa cosa un poco. subcrispus.a.um.
+Crespa de cabellos. crispitudo.inis.
+Cresta de ave. crista.ae.
+Criar hazer de nuevo. creo.as.aui.
+Crianza desta manera. creatio.onis.
+Criador desta manera. creator.oris.
+Criar niño. educo.as.nutrio.is.alo.is.
+Crianza assi. educatio.nutritio.
+Criador assi. educator.nutritor.altor.
+Criado que criamos. alumnus.i.
+Criada que criamos. alumna.ae.
+Criado que sirve. famulus.i.
+Criada que sirve. famula.ae.
+Crianza de aio. pedagogium.pedia.
+Criado en ciudad. ciuilis.e.urbanus.a.um.
+Crianza de ciudad. ciuilitas.urbanitas.
+Criado en el campo. rusticus.a.um.
+Crianza del campo. rusticitas.atis.
+Crica de la muger. crista.ae.
+Crimen gran pecado. crimen.inis.
+Criminal cosa de crimen. criminalis.e.
+Criminalmente. criminaliter.
+Criminoso lleno de crimines. criminosus.
+Criminosamente. criminose.
+Crines por cabellos. crinis.is.coma.
+Crinado. crinitus.a.um.comatus.a.um.
+Crisma o uncion. unctio.onis.
+Crisma en griego. chrisma.atis.
+Crismaro ungir. ungo.is.unxi.
+Crismar en griego. chrio.
+Crisol de plateros para fundir. catinus.i.
+Crisol de plateros pequeño. catillus.i.
+Cristal piedra preciosa. crystallus.i.
+Cristalina cosa de cristal. crystallinus.a.um.
+Cristo o ungido. christus.christi.
+Cristiano dicho de cristo. christianus.a.um.
+Cristiandad. christianismus.i.
+Cristiano verdadero. ortbodoxus.a.um.
+Cristiandad verdadera. orthodoxia.
+Cristo val nombre de varon. christophorus.i.
+Crivo para crivar. cribrum.uannus.i.
+Crivar o alimpiar con crivo. cribro.as.
+Crivar en esta manera. uanno.as.
+Crudo cosa no cozida. crudus.a.um.
+Crudeza no cozedura. cruditas.atis.
+Cruel o cruda cosa. crudus.a.um.crudelis.e.
+Crueldad assi. cruditas.crudelitas.
+Cruelmente assi. crudeliter.
+Cruel cosa sin misericordia. seuus.atrox.
+Crueldad assi. seuicia.seuitudo.atrocitas.
+Cruelmente assi. seuiter.atrocitar.
+Crucificar poner en cruz. crucifigo.
+Crucifixo. cruci affixus.a.um.
+Cruz genero de pena. crux.cis.
+Cruzado moneda. aureus crucifer.
+Cruzero. structura quadriuialis.
+Cuaderna de cuatro. quaternarium.ii.
+Cuaderno de hojas. quaternio.onis.
+Cuadra de casa. quadrata coenatio.
+Cuadrar poner en cuadra. quadro.as.
+Cuadrada cosa. quadratus.a.um.
+Cuadrado en macizo. cubus.i.
+Cuadrado en luengo. quadrangulus.a.um.
+Cuadrada cosa assi. cubicus.a.um.
+Cuadrante de astrologia. umbilicus.i.
+Cuadrante en griego. gnomon.onis.
+Cuajo para cuajar. coagulum.i.
+Cuajar con cuajo. coagulo.as.aui.
+Cuajar del animal. uentriculus.i.
+Cuajarse alguna cosa. concresco.is.
+Cuajamiento. concretio.onis.
+Cual con articulo. qui.quae.quod.
+Cual sin articulo. qualis.quale.
+Cual de dos: uter.utra.utrum.
+Cualquiera de dos. uterlibet.utral.utruml.
+Cualquiera de dos. uteruis.utrau.utrumu.
+Cualquiera de muchos. quicumque.
+Cualquiera de muchos. quiuis.queu.quodu.
+Cualquiera de muchos. quilibet.
+Cuamaño. quantus.a.um.
+Cuamaño quiera que. quantuscumque.
+Cuamañico. quantulus.a.um.
+Cuamañico que. quantulus.a.um.
+Cuando. cum.quum.quando.
+Cuandoquiera que. quandocumque.
+Cuando quiera que. quotienscumque.
+Cuantos en numero. quot indeclinabile.
+Cuantosquiera que. quotquot quotcumque.
+Cuantas vezes. quotiens aduerbium.
+Cuanto. quantus.quanta.quantum.
+Cuanto en poco. quantulus.a.um.
+Cuantoquiera que. quantuscumque.a.um.
+Cuantoquiera que poco. quantuluscumque.a.um
+Cuaresma tiempo de aiuno. quadragesima.
+Cuaresma en griego. tetracoste.es.
+Cuarenta numero. numerus quadragenarius
+Cuarenta en numero. quadraginta.inde.
+Cuarenta y ocho. octo et quadraginta.
+Cuerenta y ocho. quadraginta octo.
+Cuarenta y ocho. duo de quinquaginta.
+Cuarenta y nueve. nouem et quadraginta.
+Cuarenta y nueve. quadraginta nouem.
+Cuarenta y nueve. undequinquaginta.
+Cuarenta mil. quadraginta mille.
+Cuarenta millares. quadraginta milia.
+Cuarenta cuentos. quadringenties.c.m.
+Cuarenta mil cuentos. quadrigenties milies.c.m.
+Cuarenteno en orden. quadragesimus.a.um
+Cuarentena parte. quadragesima.
+Cuarenta mil en orden. quadragies millesimus
+Cuarenta cada uno. quadrageni.ae.a.
+Cuarenta mil cada uno. quadrageni milleni.
+Cuarenta cuentos cada uno. quadringenties.c.m
+Cuarenta vezes adverbio. quadragies.
+Cuarenta y una vez. semel et quadragies.
+Cuarenta y una vez. quadragies semel.et c.
+Cuarenta y ocho vezes. duode quinquagies.
+Cuarenta y nueve vezes. undequinquagies.
+Cuarenta mil vezes. quadragies milies.
+Cuarentena. quadragenarium.ii.
+Cuarentañal cosa. quadragenarius.a.um.
+Cuarenta tanto. quater decuplus.a.um.
+Cuarto de doze. quadrans.tis.
+Cuarta parte de cualquier cosa. quarta.quadra
+Cuarto de moneda. quadrans argentei.
+Cuarto en orden. quartus.a.um.
+Cuartal medida. quadrantal.alis.
+Cuatro numero. numerus quaternaruis.
+Cuatro en numero. quattuor.inde
+Cuatrocientos numero. quadringenarius.
+Cuatrocientos. quadringenti.ae.a.
+Cuatrocientos. quater centum.
+Cuatro mil. quattuor mille.
+Cuatro millares. quattuor millia.
+Cuatro cuentos. quadragies centum.m.
+Cuatro mil cuentos. quadragies milies.c.m.
+Cuatro cada uno. quaterni.ae.a.
+Cuatrocientos cada uno. quadringeni.ae.a.
+Cuatrocientos cada uno. quadringenteni.
+Cuatro mil cada uno. quater milleni.ae.a.
+Cuatro cuentos cada uno. quadragies.c.m.
+Cuatro tanto. quadruplus.a.um.
+Cuatro vezes adverbio. quater.
+Cuatrocientas vezes. quadringenties.
+Cuatrocientas mil vezes. quadringenties milies
+Cuatro vezes cuatro cuatro vezes. quaternio.
+Cuatro años. lustrum lustri.
+Cuatro años en griego. olympias.adis.
+Cuatro años espacio. quadriennium.ii.
+Cuatro dias tiempo. quatriduun.i.quadrimatus.us
+Cuatro meses tiempo. tempus quadrimestre.
+Cuatrañal cosa. quadriennis.e.quadrimus.a.um.
+Cuatrodial cosa. quatriduus.a.um.
+Cuatro mesma cosa. quadrimestris.e.
+Cuatro varones en collegio. quattuor uiri.
+Cuatro varonadgo destos. quattuor uiratus.
+Cuatro dias a adverbio. nudius quartus.
+Cuba para vino. cuppa.ae.dolium ligneum.
+Cuba pequeña o cubeto. cuppula.ae.
+Cubero que las haze. cupparius.ii.
+Cubrir. lo mesmo es que cobrir.
+Cuclillo ave conocida. cuculus.i.
+Cuclillo en griego. coccyx.igis.
+Cuchillo. gladius.ii.culter.tri.sica.ae.
+Cuchillo pequeño. cultellus.i.
+Cuchillo grande. ensis.is.machera.ae.
+Cuchillo barbaro. rhomphea.ae.
+Cuchillada. caesa.caesae.
+Cuchilladas adverbio. caesim.
+Cuchara. cochlear.cochleare.cochlearium.
+Cuchara grande de hierro. concha ferrea
+Cucharada cuanto cabe. ciathus.i.
+Cuello miembro de animal. collum.i.
+Cuenta. numerus.i.numeratio.onis.
+Cuenta. ratio.onis.calculus.i.
+Cuenta. computatio.onis.supputatio.onis.
+Cuenta pequeña. ratiuncula.ae.
+Cuenta de rezar. calculus.i.
+Cuenca pila. concha.ae.crater.eris.
+Cuenca ciudad de castilla. concha.ae.
+Cuenca del ojo. oculi recessus.gena.ae.
+Cuenda para atar. loramentum.i.fidicula.
+Cuento como de dineros. decies.
+Cuento desta manera. decies centum.m.
+Cuento de lanza o vara. contus.i.
+Cuento para sostener pared. tibijcen.inis.
+Cuento como fabula. narratio.onis.
+Cuento pequeño assi. narratiuncula.ae.
+Cuento. lo mesmo es que cuenta numero.
+Cuerdo prudente. corculum.i.
+Cuerda cosa. cordatus.a.um.
+Cuerda. funis.is.lorum.i.fides.is.
+Cuerda en griego. chorda.ae.
+Cuerda de nave. rudens.tis.
+Cuerda que atraviessa. trasenna.ae.
+Cuerda de laud primera. nete.es.
+Cuerda cerca de aquesta. paranete.es.
+Cuerda de arriba o bordon. hypate.es.
+Cuerda cerca de aquesta. parhypate.es.
+Cuerda de medio. mese chorda.
+Cuerda de nervio en la musica. neruus.i.
+Cuerda aquesta mesma. neruia.ae.
+Cuerno de ciertos animales. cornus.us.
+Cuerno en esta manera. cornu inde.
+Cuerno pequeño. corniculum.i.
+Cuerno de altar. cornu altaris.
+Cuerno de batalla. cornu aciei.
+Cuero de pelleja de animal. corium.ii.
+Cuero aqueste mesmo. tergus.oris.
+Cuero pelleja sin pelos. cutis.is.
+Cuero pequeño assi. cuticula.ae.
+Cuero para zapatos delicado. aluta.ae.
+Cuero o odre de vino. uterutris.
+Cuero de vino pequeño. utriculus.i.
+Cuero de vino en esta manera. uterculus.i.
+Cuero de vino o agua en griego. ascopa.ae.
+Cuerpo generalmente. corpus.oris.
+Cuerpo pequeño. corpusculum.i.
+Cuerpo sin cabeza. truncus.i.
+Cuerpo muerto de animal. cadauer.eris.
+Cuervo ave conocida. coruus.i.
+Cuervo este mesmo en griego. corax.
+Cuervo calvo. caluus coruus.
+Cuatro numero. numerus quaternaruis.
+Cuatro en numero. quattuor.inde
+Cuatrocientos numero. quadringenarius.
+Cuatrocientos. quadringenti.ae.a.
+Cuatrocientos. quater centum.
+Cuatro mil. quattuor mille.
+Cuatro millares. quattuor millia.
+Cuatro cuentos. quadragies centum.m.
+Cuatro mil cuentos. quadragies milies.c.m.
+Cuatro cada uno. quaterni.ae.a.
+Cuatrocientos cada uno. quadringeni.ae.a.
+Cuatrocientos cada uno. quadringenteni.
+Cuatro mil cada uno. quater milleni.ae.a.
+Cuatro cuentos cada uno. quadragies.c.m.
+Cuatro tanto. quadruplus.a.um.
+Cuatro vezes adverbio. quater.
+Cuatrocientas vezes. quadringenties.
+Cuatrocientas mil vezes. quadringenties milies
+Cuatro vezes cuatro cuatro vezes. quaternio.
+Cuatro años. lustrum lustri.
+Cuatro años en griego. olympias.adis.
+Cuatro años espacio. quadriennium.ii.
+Cuatro dias tiempo. quatriduun.i.quadrimatus.us
+Cuatro meses tiempo. tempus quadrimestre.
+Cuatrañal cosa. quadriennis.e.quadrimus.a.um.
+Cuatrodial cosa. quatriduus.a.um.
+Cuatro mesma cosa. quadrimestris.e.
+Cuatro varones en collegio. quattuor uiri.
+Cuatro varonadgo destos. quattuor uiratus.
+Cuatro dias a adverbio. nudius quartus.
+Cuba para vino. cuppa.ae.dolium ligneum.
+Cuba pequeña o cubeto. cuppula.ae.
+Cubero que las haze. cupparius.ii.
+Cubrir. lo mesmo es que cobrir.
+Cuclillo ave conocida. cuculus.i.
+Cuclillo en griego. coccyx.igis.
+Cuchillo. gladius.ii.culter.tri.sica.ae.
+Cuchillo pequeño. cultellus.i.
+Cuchillo grande. ensis.is.machera.ae.
+Cuchillo barbaro. rhomphea.ae.
+Cuchillada. caesa.caesae.
+Cuchilladas adverbio. caesim.
+Cuchara. cochlear.cochleare.cochlearium.
+Cuchara grande de hierro. concha ferrea
+Cucharada cuanto cabe. ciathus.i.
+Cuello miembro de animal. collum.i.
+Cuenta. numerus.i.numeratio.onis.
+Cuenta. ratio.onis.calculus.i.
+Cuenta. computatio.onis.supputatio.onis.
+Cuenta pequeña. ratiuncula.ae.
+Cuenta de rezar. calculus.i.
+Cuenca pila. concha.ae.crater.eris.
+Cuenca ciudad de castilla. concha.ae.
+Cuenca del ojo. oculi recessus.gena.ae.
+Cuenda para atar. loramentum.i.fidicula.
+Cuento como de dineros. decies.
+Cuento desta manera. decies centum.m.
+Cuento de lanza o vara. contus.i.
+Cuento para sostener pared. tibijcen.inis.
+Cuento como fabula. narratio.onis.
+Cuento pequeño assi. narratiuncula.ae.
+Cuento. lo mesmo es que cuenta numero.
+Cuerdo prudente. corculum.i.
+Cuerda cosa. cordatus.a.um.
+Cuerda. funis.is.lorum.i.fides.is.
+Cuerda en griego. chorda.ae.
+Cuerda de nave. rudens.tis.
+Cuerda que atraviessa. trasenna.ae.
+Cuerda de laud primera. nete.es.
+Cuerda cerca de aquesta. paranete.es.
+Cuerda de arriba o bordon. hypate.es.
+Cuerda cerca de aquesta. parhypate.es.
+Cuerda de medio. mese chorda.
+Cuerda de nervio en la musica. neruus.i.
+Cuerda aquesta mesma. neruia.ae.
+Cuerno de ciertos animales. cornus.us.
+Cuerno en esta manera. cornu inde.
+Cuerno pequeño. corniculum.i.
+Cuerno de altar. cornu altaris.
+Cuerno de batalla. cornu aciei.
+Cuero de pelleja de animal. corium.ii.
+Cuero aqueste mesmo. tergus.oris.
+Cuero pelleja sin pelos. cutis.is.
+Cuero pequeño assi. cuticula.ae.
+Cuero para zapatos delicado. aluta.ae.
+Cuero o odre de vino. uterutris.
+Cuero de vino pequeño. utriculus.i.
+Cuero de vino en esta manera. uterculus.i.
+Cuero de vino o agua en griego. ascopa.ae.
+Cuerpo generalmente. corpus.oris.
+Cuerpo pequeño. corpusculum.i.
+Cuerpo sin cabeza. truncus.i.
+Cuerpo muerto de animal. cadauer.eris.
+Cuervo ave conocida. coruus.i.
+Cuervo este mesmo en griego. corax.
+Cuervo calvo. caluus coruus.
+Cuervo marino. mergus.i.
+Cuesta arriba cosa. aecliuis.e.accliuus.
+Cuesta arriba enriscada. arduus.a.um.
+Cuesta abaxo cosa. decliuis.e.decliuus.
+Cuesta abaxo cosa. pronus.a.um.
+Cuestas por encima. dorsum.i.
+Cueva. antrum.i.cauerna.ae.
+Cueva. specus.us.specus.ci.specu.
+Cueva. spelunca.ae.spelaeum.i.
+Cueva como grupta. crypta.ae.
+Cuevano de vimbres. cophinus.i.
+Cugujada. galericus.i.cassita.ae.
+Cugujada en griego. cirris.is.corydalis.is.
+Cugujada en frances. alauda.ae.
+Cugulla de abito de fraile. cuculla.ae.
+Cugulla como capilla. cucullus.i.
+Cugujon de cosa cuadrada. cucullio.onis.
+Cuio cosa de quien. cuius.a.um.
+Cuidado. cura.ae.solicitudo.inis.
+Cuidadoso. curiosus.a.um.curaculus.a.um.
+Cuita. solicitudo anxietas.atis.
+Cuitado. solicitus.a.um.anxius.a.um.
+Culantro ierva y simiente. coriandrum.i.
+Culantrillo de pozo. hysopus.i.
+Culantrillo este mesmo. capillus ueneris.
+Culebra. coluber.bri.colubra.ae.
+Culebra de agua. anguis.anguis.
+Culebra pequeña de agua. angiculus.i.
+Culebra de agua en griego. hydrus.i.
+Culebra de tierra en griego. chelydrus.i.
+Culebra de tierra en griego. chersydrus.i.
+Culebra como quiera. serpens.tis.
+Culeros pañales. crepundia.orum.
+Culebrilla. lychen.enis.impetix.igis.
+Culo. anus.i.podex.icis.sedes.
+Culo en griego. dactylion.hedra.
+Culpa en el pecado. culpa.ae.culpatio.onis.
+Culpar. culpo.as.aui.deculpo.as.
+Cumbre de monte. ingum montis.
+Cumbre como quiera. cacumen.culmen.
+Cumple. lo mesmo es que conviene.
+Cundir crecer poco a poco. serpo.is.
+Cuna de niño. cunae.cunarum.
+Cuña para hender. cuneus.i.
+Cuñado. leuir.i.affinis.is.
+Cuñada. glos.oris.affinis.is.
+Cuño de moneda. marculus.i.
+Cura por cuidado. cura.ae.solicitudo.
+Cura de enfermo. curatio.onis.
+Cura de iglesia. curator animarum.
+Curar tener cuidado. curo.as.
+Curador dado al furioso. curator.oris.
+Curador dado al menor de edad. curator.
+Curadoria de aquestos. curatio.onis.
+Curador con otro. concurator.oris.
+Curadoria de aquestos. concuratio.onis.
+Curar otra vez. recuro.as.aui.
+Curar al enfermo. curo.as.medico.as.
+Curioso. curiosus.a.um.curaculus.a.um.
+Curiosidad. curiositas.atis.
+Curtir cueros. macero corium.
+Curtidor de cueros. cortarius.ii.
+Curtir echar en curtido. macero.as.
+Curtidura assi. maceratio.onis.
+Curuxa especie de lechuza. noctua.
+Curuxa en griego. nycticorax.acis.
+Cutir herir. quatio.is.quasso.as.
+Cutir uno con otro. concutio.is.si.
+Çabullir debaxo de agua. mergo.is.
+Çabullir a menudo. merso.as.aui.
+Çabuilidura assi. imersio.onis.
+Çabullir en alguna cosa. imergo.is.
+Çafari granada. apirinum.i.
+Çafio en lengua. idiomaticus.a.um.
+Çafio especie de anguilla. anguilla.ae.
+Çafir piedra preciosa. sapphyrus.i.
+Çaga por el cabo. extremitas.atis.
+Çaguera cosa. extremus.a.um.
+Çaherir. exprobro.as.imputo.as.
+Çaherimiento. exprobratio.imputatio.
+Çahinas de levadura. cremor ex fermento.
+Çahon. caliga cortea.no.
+Çahurda o pocilga de puerco. bara.ae.
+Çalamea villa de la serena. iulipense municipium
+Çamarra o zamarron. rheno.onis.
+Çamarra esta mesma. pellis inuersa.
+Çamora ciudad de castilla. ocelum.i.
+Çamorano cosa de alli. ocelensis.e.
+Çampoña. quasi symphonia.ae.
+Çanahoria ierva y raiz. pastinaca.ae.
+Çanahoria silvestre. staphilinus.i.
+Çanca de pierna. tibia exilis.
+Çancadilla armar. supplanto.as.aui.
+Çancadilla. supplantatio.onis.
+Çancajoso. uacia.ae.uacienus.a.um.
+Çancaioso varon. uacia.ae.
+Çanquear. diuaricor.aris.
+Çanqueamiento. diuaricatio.onis.
+Çanqueadora cosa. uaricus.a.um.
+Çapato. calcens.calcei.
+Çapatero. sutor sutoris.
+Çapateria tienda deste. sutrina.ae.
+Çapateria arte deste. sutrina.ae.
+Çapatero de alcorques. crepidarius sutor.
+Çaquizami. laquear.aris.lacus.us.
+Çaquizami. lacunar.lacunaris.
+Çaquizami hazer. laqueo.as.lacuno.as.
+Çaragoza ciudad de aragon. cesarea agusta.
+Çaragoza esta antiguamente.
+Çaragozano cosa de alli. cesaraugustanus.
+Çaragoza ciudad de sicilia. syracusae.arum
+Çaragozano cosa de alli. syracusanus.a.um.
+Çaragozano cosa de alli. syracusius.a.um
+Çaranda. incerniculum.i.uannus.i.
+Çaranda. cribrum.capisterium.ii.
+Çarandar. secerno.is.incerno.is.
+Çarandar. uanno.as.cribro.as.
+Çaratan enfermedad. carcinoma.atis.
+Çarza mata espinosa. rubus.i.
+Çarzal lugar de zarzas. rube tum.i.
+Çarzamora. morum rubeum.
+Çarzo de vergas. crates.is.
+Çarzo pequeño assi. craticula.ae.
+Çatico de pan. quadra panis.
+Çavila ierva del acibar. aloe.es.
+Cebolla albarrana. scylla.ae.
+Cebolla domestica. cepa.e.cepe inde.
+Cebolla ascalonia. ascalonia.ae.
+Cebolla pequeña. cepula.ae.
+Cebollino simiente de cebolla. cepina.ae.
+Cecear. balbutio.is.
+Ceceoso. balbus.a.um.blesus.a.um.
+Cedazo de sedas. setacenm.i.
+Cedazo cualquiera. cribrum.incerniculum.
+Cedicio cosa lacia. flaccidus.a.um.
+Cedro arbolo alerze. cetrum.i.cedrus.
+Cedula hoja o carta. sceda.ae.
+Cedula pequeña. scedula.ae.
+Cegar a otro. ceco.as.odceco.as.
+Cegar ser ciego. caecutio.is.caligo.as.
+Cegajoso de ojos. lippus.a.um.
+Cegagez dolencia dellos. lippitudo.inis.
+Cegagear dellos. lippio.is.
+Cequedad. caecitas.atis.caligo.inis.
+Ceguera. oculorum hebetudo.inis.
+Ceguta ierva conocida. cicuta.ae.
+Ceja sobre los ojos. supercilium.ii.
+Ceja la cuenca mesma del ojo. cilium.ii.
+Cejunto. superciliosus.a.um.toruus.a.um.
+Celada engaño de guerra. insidiae.arum.
+Celada echar o poner. insidior.aris.
+Celada armadura de cabeza. galea.ae.
+Celada encubierta. latebrae.arum.
+Celar encubrir. celo.as.aui.
+Celar aver celos. zelo.as.zelor.aris.
+Celda camara. cella.ae.
+Celda pequeña. cellula.ae.
+Celebre cosa famosa. celebris.e.
+Celebridad fama. celebritas.atis.
+Celebrar missa. celebro.as.dregpenio.is.
+Celebrar missa. rem diuinam facio.
+Celebracion de missa. res diuina.
+Celebro meollo de la cabeza. cerebrum.i.
+Celestial cosa. caelestis.e.diuinus.a.um.
+Celestialmente. celitus.diuinitus.
+Celemin. modius.ii.medimnum.i.
+Celemin y medio. sesquimodius.ii.
+Celoso. zelotypus.i.zelotes.ae.
+Celosa muger  zelotypa.ae.
+Celoso al reves. cacozelos.i.
+Celos. zelus.i.zelotypia.ae.
+Cementar echar cimiento. cemento.as.
+Cementar. fundo.as.fuudamentum iacio.
+Cementador. cementator.cementarius.ii.
+Cementerio de muertos. coemiterium.ii.
+Cementerio en latin. dormitorium.ii.
+Cena comida a la tarde. coena.ae.
+Cena pequeña. coenula.ae.
+Cena en su casa propria. domicoenium.ii.
+Cena copiosa. tripatinum.i.coena adiicialis.
+Cena costosa. coena opipara.
+Cena con otros. concoenatio.onis.
+Cenar con otros. concoeno.as.aui.
+Cenar como quiera. ceno.as.
+Cenar a menudo. coenito.as.
+Cenadero lugar. coenatorium.ii.
+Cenadero en soberado. coenaculum.i.
+Cenadero en lugar baxo. coenatio.onis.
+Cenceño sin levadura. azimus.a.um.
+Cenceño sin dobladura. syncerus.a.um.
+Cencerro. tintinnabulum.i.
+Cendrar plata. pustulo.as.aui.
+Cendrada plata. pustulatum argentum.
+Cendrar otro metal. excoquo.is.xi.
+Ceniza. ciner uel cinis.cineris.
+Ceniziento. cinericius.a.um.
+Censal como en aragon. census.us.
+Censo sobre possession. emphytheosis.
+Censor juez extraordinario. censor.
+Censura el juizio de aqueste. censura.ae.
+Centauro medio cavallo. centaurus.i.
+Centella de huego. scintilla.ae.
+Centellear echar centellas. scintillo.as.
+Centella pequeña. scintillula.ae.
+Centeno miesse conocida. typha.ae.
+Centenario numero de ciento. centenariun.ii.
+Centesimo ciento en orden. centesimus.
+Centesma parte. centesima pars.
+Centolla pescado. testudo celtina.
+Centurion capitan de ciento. centurio.
+Centuria capitania de ciento. centuria.
+Centurionado de aqueste. centurionatus.us.
+Centro punto en medio. centrum.i.
+Ceñir. cingo.is.xi.incingo.is.xi.
+Ceñidura. cinctura.ae.cinctus.us.
+Ceñidero. cingulum.i.semicinctium.ii.
+Cepa o vid. uitis uitis.
+Cepa pequeña. uiticula.ae.
+Cepillar con cepillo. leuigo.as.
+Cepillo instrumento para esto. leuigatorium.
+Cepilladuras. fomes.itis.assulae.arum.
+Cepo prision. cippus.i.neruus.i.
+Cepo para caer en el. decipula.excipula.
+Cepo desta manera. pedica.ae.
+Cera que labran las abejas. cera.ae.
+Cera de la oreja. sordes aurium.
+Cerapez unguento. ceramentum.i.
+Cerapez en griego. pissoceros.i.
+Cerca preposicion. ad.apud.iuxta.
+Cerca preposicion. secus.prope.
+Cerca mas preposicion. propius.
+Cerca mas mucho. proxime.
+Cerca en señorio. penes.
+Cerca en amor. erga.in.
+Cerca en derredor. circum circa.
+Cerca adverbio. prope.cominus.
+Cerca de lo ultimo. penultimus.a.um.
+Cercano en sangre. propinquus.a.um.
+Cercanidad assi. propinquitas.atis.
+Cercano como quiera. proximus.a.um.
+Cercanamente. proxime prope.
+Cercanidad en esta manera. proximitas.atis.
+Cercano a la muerte. capularis.e.
+Cerca de ciudad o villa. murus.i.
+Cerca de real. uallum et fossa.
+Cercar de muro. cingere muro.
+Cercar de vallado. uallo.as.
+Cercar assi en derredor. circumuallo.as.
+Cercar poniendo cerco. obsideo.es.
+Cercar como quiera. ambio.is.
+Cercarse. accedo.is.accessi.
+Cercenar. circuncido.is.circuncidi.
+Cercenadura. circuncisio.onis.
+Cercen adverbio. circum.
+Cerceta ave de lagunas. fulica.ae.fulix.icis.
+Cercillo de vid. capreolus.clauicula.ae.
+Cercillo de oreja. mauris.is.
+Cerco. circus.i.circulus.i.
+Cerco sitio de cercadores. obsidio.onis.
+Cerdas de bestia. iuba.e.
+Cerdeña isla de nuestro mar. sardinia.ae.
+Cerimonia. cerimoniae.arum.
+Cernada. cinis lexiuius.
+Cernejas de bestia. crinis.is.
+Cernicalo ave conocido. tinnunculus.i.
+Cernir. cribro.as.purgo.as.mundo.as.
+Cernir. incerno.is.secerno.is.succerno.is.
+Cernidura. secretio.onis.purgatio.
+Cerniduras. purgamenta.orum.
+Cerote. ceratum.i.cerotum.i.
+Cerraja ierva conocida. seris.is.
+Cerraja cerradura. sera.ae.
+Cerradura. claustrum.i.clostrum.i.
+Cerradura de llave. sera.ae.
+Cerradura de pestillo. patibulum.i.
+Cerrar. claudo.is.obthuro.as.
+Cerrar en derredor. obstruo.is.scircumcludo.is.
+Cerrar con llave. sero.as.conclauo.as.
+Cerrar dentro de raia. circumscribo.is.
+Cerrar de seto. sepio.is.consepio.is.
+Cerradura assi. sepes.is.sepimentum.i.
+Cerrarse la herida. cicatrico.as.
+Cerrarse la herida. coit uulnus.
+Cerrera cosa de cerro. collinus.a.um.
+Cerrion de carambano. stiria.ae.
+Cerro. collis.is.grumus.i.tumulus.i.
+Cerro pequeño. monticulus.i.grumulus.i.
+Cerro enriscado. uernuca.ae.
+Cerro de lana o lino. pensum.i.
+Cerro entre las espaldas. interscapilium.ii.
+Cerrojo cerradura. sera.ae.
+Certidumbre. certitudo.inis.
+Certificar. certiorem facio.
+Certificar. certioro.as.aui.no.
+Certificacion. certificatio.onis.
+Cervatillo. binnulus.i.
+Cerviz lo detras del cuello. ceruix.icis.
+Cervigudo de gruessa cerviz. ceruicosus.
+Cervuno cosa de ciervo. ceruinus.a.um.
+Cesar emperador. caesar.
+Cesariano cosa de cesar. caesarianus.a.um.
+Cesariano del vando deste. cesarianus.a.um.
+Cesarea ciudad de iudea. caesarea.
+Cesena ciudad de italia. cesena.ae.
+Cesenes cosa desta ciudad. cesenas.atis.
+Cesped terron con raizes. cespes.itis.
+Cessar de hazer algo. cesso.as.aui.
+Cessacion de trabajo. remissio.cessatio.
+Cessacion de juego. diludium.ii.
+Cesta. cista.ae.fiscina.ae.
+Cesta pequeña. cistella.ae.fiscella.ae.
+Cestero que las haze. cistellarius.ii.
+Cestero que las trae. cistifer.ri.
+Cesto de vendimiar. corbis.is.
+Cesto como quiera. textum nimineum.
+Cetro insignias reales. sceptrum.i.
+Cevada miesse conocida. ordeum.
+Cevadaza cosa. ordeaceus.a.um.
+Cevadera. mantica ordearia.
+Cevaderia lugar do se vende. ordearium.ii.
+Cevar. cibo.as.alo.is.sagino.as.
+Cevado con cevo. altilis.e.
+Cevar para engañar. inesco.as.
+Cevadero para esto. inescarium.ii.
+Cevo. cibus.i.esca.ae.
+Cevon cosa cevada. obesus.a.um.
+Cexar. lo mesmo es que cessar.
+ia por el anca. coxendix.icis.
+Cia esta mesma en griego. ischia.ae.
+Ciatica enfermedad. ischia.ae.
+Ciatico doliente della. ischiacus.a.um.
+Ciatico aqueste mesmo. ischiadicus.a.um.
+Ciar mover atras. retro cieo.es.
+Cicatriz señal de herida. cicatrix.icis.
+Cicatriz pequeña. cicatricula.ae.
+Cicatricar es cerrarse la herida. cicatrico.as.
+Cicion de calentura. accessio.onios.
+Cicorea ierva o almiron. cicorium.ii.
+Cicorea esta mesma. cicoreum.i.
+Cidral arbol. malus citrea.citrus.i.
+Cidra esta mesma fruta. malum citreum.
+Ciego del todo punto. caecus.a.um.
+Ciego un poco. caeculus.a.um.
+Cielo todo lo que parece. caelum.i.
+Cielo estrellado. mundus.i.
+Cielo este mesmo en griego. cosmus.i.
+Cielo soberano. aether.eris.
+Cielo de cama. peripetasma.atis.
+Cieno. coenum.i.limus.i.
+Ciento numero. centenarius numerus.
+Ciento adiectiuo. centum.
+Ciento substantivo. centenarium.ii.
+Cien mil en numero. centum mille.
+Cien millares. centum milia.
+Cien mil cuentos. misies centum.m.
+Ciento en orden. centesimus.a.um.
+Ciento en parte. centesima pars.
+Cien mil en orden. centies milessimus.
+Ciento cada uno. centeni.ae.a.
+Cien mil cada uno. centeni milleni.
+Cien cuentos cada uno. centeni milleni.
+Cien vezes adverbio. centies.
+Cien mil vezes. centies milies.
+Ciento tanto. centuplus.a.um.
+Cien mil vezes tanto. milies centuplus.a.um
+Cientañal cosa de cien años. centennis.e.
+Cien varones en colegio. centum uiri.
+Cien varonadgo destos. centum uiratus.
+Ciento pies serpiente. oniscus.i.seps.
+Ciento pies esta mesma. scolopendra.ae.
+Ciento pies. centipeda.ae.multipeda.ae.
+Cien cabezas ierva. centum capita.
+Cien uebras de tierra. centuria.ae.
+Cierzo que corre del norte. septentrio.onis.
+Cierzo este mesmo en griego. aparctias.ae.
+Cierzo un poco hazia oriente. aquilo.onis.
+Cierzo este mesmo en griego. boreas.ae.
+Cierzo proprio en francia. circius.ii.
+Cierta cosa. certus.a.um.
+Ciertamente. certe.profecto.
+Ciervo animal conocido. ceruus.i.
+Cierva hembra deste genero. cerua.ae.
+Ciervo cabron. hircoceruus.i.
+Ciervo cabron en griego. tragoelaphus.i.
+Cifra en la cuenta. cifra.ae.b.
+Cigarra. cicada.cicadae.
+Ciguenza ciudad de castilla. secontia.ae.
+Ciguenzano cosa de alli. secontinus.a.um.
+Cigueña ave conocida. ciconia.ae.
+Cigueña instrumento para medir. ciconia
+Cigoñino. pullus ciconinus.
+Cigoñal para sacar agua. pertica putealis.
+Cilicia region de asia. cilicia.ae.
+Cilicio de barvas de cabrones. cilicium.ii.
+Cilla donde encierran pan. horreum.i.
+Cillero donde algo guardan. cellarium.i.
+Cillero el que lo guarda. cellarius.ii.
+Cillero de fruta. oporotheca.ae.
+Cillero de tablas. pinacotheca.ae.
+Cillero para despensa. promptuarium.
+Cillero de vino. cella uinaria.
+Cimera sobre el ielmo. chimera.ae.
+Cimiento de edificio. cementum.i.
+Cimiento de cualquier cosa. fundamentum.
+Cimitarra cuchillo de turcos. acinacis.
+Cinco numero. numerus quinquenarius.
+Cinco en numero. quinque.pente.
+Cinco mil en numero. quinque mille
+Cinco millares. quinque milia.
+Cinco cuentos. quinquagies centum.m.
+Cinco mil cuentos. quinquagies milies.c.m.
+Cinco en orden quinto. quintus.a.um.
+Cinco en parte quinta. quinta.ae.
+Cinco mil en orden. quinquies millesimus.
+Cinco cada uno. quinqueni.ae.a.quini.ae.a.
+Cinco mil cada uno. quinqueni milleni.ae.a.
+Cinco cuentos cada uno. quinquagies.c.m.
+Cico mil cuentos cada uno. quinquagies.m.c.m
+Cinco vezes adverbio. quinquies.
+Cinco mil vezes. quinquies milies.
+Cinco tanto. quincuplus.a.um.
+Cinco mil vezes tanto.
+Cinco añal cosa de cinco años. quinquenis.
+Cinco dias a.adverbio. nudius quintus.
+Cinco partes de doze. quincuns.cis.
+Cinco meses. tempus quinquemestre.
+Cinco mesino cosa deste tiempo. quinque mestris.e.
+Cinco vezes cinco cinco vezes. quinio.onis.
+Cinco palmos medida. pentadorus.
+Cinco medidas. pentametros.i.
+Cinco libros de moisen. pentatheucus.i.
+Cincuenta numero. numerus quinquagenarius
+Cincuenta en numero. quinquaginta.
+Cincuenta mil. quinquaginta mille.
+Cincuenta millares. quinquaginta milia.
+Cincuenta cuentos. quingenties.c.m.
+Cincuenta mil cuentos. quingenties milies.c.m.
+Cincuenta en orden. quinquagesimus.a.um.
+Cincuenta mil en orden. quinquagies milesimo
+Cincuenta en parte. quinquagesima
+Cincuenta cada uno. quinquageni.ae.a.
+Cincuenta mil cada uno. quinquagies milleni
+Cincuenta cuentos cada uno.
+Cincuenta vezes. quinquagies.
+Cincuenta mil vezes. quinquagies milies
+Cincuenta vezes tanto. quinquies decuplus
+Cincuentañal de edad. quinquagenarius.
+Cincuentena. quinquagenarium.ii.
+Cincuesma. quinquagesima.ae.
+Cincuesma en griego. pentecoste.es.
+Cincha de silla o albarda. cingula.ae.
+Cincho como ceñidura. cinctus.us.
+Cincho para espremir queso. fiscina.ae.
+Cincho desta manera pequeño. fiscella.ae.
+Cincho de rueda de carreta. cantus.i.
+Cinchar silla o albarda. cingo.is.xi.
+Cinchadura desta manera. cinctura.ae.
+Cinta o cinto. cinculum.i.semicinctium.ii.
+Cinta o cinto en griego. zona.ae.
+Cinta o cinto pequeño. zonula.ae.
+Cintura. cinctura.ae.cinctus.us.
+Cipres arbol conocido. cupressus.i.
+Cipres en griego. cypressus.cyparissus
+Cipresal lugar de cipreses. cupressetum.i.
+Cipresino cosa de cipres. cupressinus.a.um.
+Circulo linea redonda. circus.i.
+Circulo pequeño. circulus.i.circlus.i.
+Circulo en griego. cyclus.i.
+Circulo del planeta. epicyclus.i.
+Circulo de gente. corona.ae.circulus.i.
+Circular cosa de circulo. circularis.e.
+Circularmente. circulariter.
+Circo donde hazian juegos. circus.i.
+Circuncidar. circuncido.is.circuncidi.
+Circuncidado. circuncisus.a.um.recutitus.a.um
+Circuncidado judio. uerpus.i.apella.ae.
+Circuncision. circuncisio.onis.
+Ciridueña ierva de golondrina. chelidonis.
+Ciruelo arbol conocido. prunus.i.
+Ciruela fruta deste arbol. prunum.i.
+Ciruela passa. prunum damascenum.
+Cirugiano medico de llagas. chirurgus.i.
+Cirugica cosa desta arte. chirurgicus.a.um.
+Cirugia arte. chirurgia.ae.
+Cisco de bogar. fauillae.arum.
+Cisma en la iglesia. schisma.atis.
+Cismatico el que la haze. schismaticus.a.um.
+Cisne ave conocida. cignus.i.olor.oris.
+Cisne costelacion del cielo. olor.oris.
+Cisterno de libro. senio.onis.
+Citar para juizio. cito.as.conuenio.is.
+Citacion assi. citatio.onis.conuentio.onis.
+Citara tercero dia. comperendino.as.
+Citacion a tercero dia. comperendinatio.
+Citola instrumento en musica. cythara.ae.no.
+Citolero el que lo tañe. cytharoedus.i.
+Citolera la que la tañe. cytharistria.ae.
+Citra dixo mena por aquende. cis.citra.
+Ciudad por ecelencia roma. urbs.bis.
+Ciudad salvo roma. oppidum.i.
+Ciudad pequeña. oppidulum.i.
+Ciudad madriz y principal. metropolis.
+Ciudad poblada de estrangeros. colonia.ae.
+Ciudad que tiene juridicion. municipium.
+Ciudad los mesmos edificios. urbs urbis.
+Ciudad el aiuntamiento de ciudadanos. ciuitas
+Ciudadano desta ciudad. ciuis.oppidanus.
+Ciudadano de ciudad madriz. metropolitanus
+Ciudadano de ciudad con juridicion. municeps
+Ciudadano de alguna colonia. colonus.i.
+Ciudadana cosa. ciuilis.e.municipalis.e.
+Ciudadana cosa. urbicus.a.um.urbanus.a.um
+Ciudadanos ombres buenos. optimates.um
+Civera. quasi cibaria.frumentum.i.
+Civil cosa de ciudad y polida. ciuilis.e.
+Civil cosa en griego. politicus.a.um.
+Civilidad o policia. ciuilitas.atis.
+Civilidad en griego. politia.ae.
+Civilmente. ciuiliter.politice.
+Cizercha como garvanzos. cicercula.ae.
+Çozobra. fortune inuersio.onis.
+Cozobra. tesserae inuersio.onis.
+Çopo. truncus pedibus aut manibus.
+Çorita paloma. columba cicur.
+Çueco calzado de cierta forma. soccus.i.
+Çueco pequeño. socculus.i.
+Çumaque para curtir. nautea.ae.
+Çumo. succus.succi.
+Çumoso cosa con zumo. succosus.a.um.
+Çumaia pastor ave. cicuma.ae.
+Çurrar cueros. macero corium.
+Çurrador de cueros. coriarius.ii.
+Çurron. pera.ae.folliculus.i.
+Çurana paloma. columba fera.
+Çurriaga genero de azote. scutica.ae.
+Chanbrana de puerta. antepagmentum.i.
+Chamuscar. amburo.is.ustulo.as.
+Chamusquina. ambustio.ustulatio.
+Chanciller. cancellarius.ii.
+Chancilleris. cancellariatus.us.
+Chanciller real. acommentariis.
+Chancilleria real. forum regium.
+Chantre de iglesia. mesochorus.i.
+Chantria deste. mesochori dignitas.
+Chapa de metal. bractea.ae.
+Chapa de metal pequeña. bracteola.ae.
+Chapado de chapas. bracteatus.a.um.
+Chapar cobrir de chapas. bracteo.as.
+Chapas tarreñas para tañer. crotalum.i.
+Chapear como con chapas. crepito.as.
+Chapido como de chapas. crotalium.ii.
+Chapin de muger. solea.ae.sandalium.ii.
+Chapinero que los haze. sandaliarius.ii.
+Chapineria do se venden. sandaliarium.
+Chapitel. tolus.i.pyramis.idis.
+Chapitel desta manera. pinnaculum.i.
+Chibo o cabrito. haedus.i.haedulus.i.
+Chibo maior. hircus.i.caper.i.
+Chibital de cabritos. haedile.is.
+Chibital de cabrones. caprile.is.
+Chico cosa pequeña. paruus.a.um.
+Chico aun mas pequevo. paruulus.a.um
+Chicarro cigarra que canta. acheta.ae.
+Chillar o rechinar. strideo.strido.is.
+Chillido. stridor.stridoris.
+China pedrezica. scrupulus.i.lapillus.i.
+China para contar. calculus.i.
+Chine la calzado. crepida.ae.
+Chine la pequeña. crepidula.ae.
+Chipre. isla es la mesma que cipro.
+Chirivia raiz conocida. daucus.i.
+Chirivia avezica. motacilla.ae.
+Chisme o chinche. cimex cimicis.
+Chisme o chismeria. nugae.arum.
+Chismero que las dize. nugigerulus.a.um.
+Chisme en griego. schisma.atis.
+Chismero en griego. schismaticus.a.um.
+Chorro. torrens.tis.fluxus.us.fluentum.i.
+Chorrear. fluo.is.fluito.as.
+Choza. gurgustium.tugurium.teges.casa.
+Choza pequeña. gurgustioluz.tuguriolum.i.
+Choza pequeña. tegeticula.casula.ae.
+Chotacabras ave. caprimulgus.i.
+Chotar casi chupar. suggo.is.xi.
+Chueca donde juegan los uessos. uertebra.ae.
+Chueca donde juega el anca. coxendix.icis.
+Chupar sacando umor. suggo.is.exuggo.
+Chupadura. suctus.us.exuctus.us.
