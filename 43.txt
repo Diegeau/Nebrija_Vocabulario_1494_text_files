@@ -1,0 +1,96 @@
+Calentura con fiebre. febris.is.
+Calentura fiebre pequeña. febricula.ae.
+Calentura cuando crece. accessio.onis.
+Calentura cuando afloxa. remissio.onis.
+Calentura rezia. causode.es.
+Calentura continua. febris perpetua.
+Calentura cotidiana. febris quotidiana.
+Calentura terciana. febris tertiana.
+Calentura terciana doble. hemitriteus.i.
+Calentura cuartana. febris quartana.
+Calentura de solo un dia. ephemeris.idis.
+Calenturoso el que las tiene. febriculosus.a.um
+Calenturoso ser. febrio.is.febricito.as.
+Calera dose haze la cal. calcaria.ae.
+Calero el que la haze. calcarius.ii.
+Calez isla de españa. gades gadium.
+Calez esta mesma isla. erythrea.ae.
+Calezano cosa de calez. gaditanus.a.um.
+Calez ciudad desta isla. gaddir.iris.
+Calidad o acidente. qualitas.atis.
+Caliente cosa. calidus.a.um.caldus.a.um.
+Caliente lo que haze calor. calorificus.a.um.
+Calma de viento. tranquillitas.atis.
+Calma en la mar. malachia.ae.
+Calostro leche nueva. colostrum.i.
+Calongia dignidad eclesiastica. canonicatus.us.
+Calor natural. calor caloris.
+Calor o calura del sol. solis aestus.
+Calurosa cosa assi. aestuosus.a.um.
+Caluroso lo que lo haze. aestifer.a.rum.
+Calunia o caloña. calumnia.ae.
+Caluniador acusador assi. calumniator.
+Caluniar acusar assi. calumnior.aris.
+Calva de la cabeza. calua.ae.
+Calvez de cabellos. caluicium.caluicies.ei.
+Calvez assi en griego. ophiasis.
+Calvo de cabellos. caluus.a.um.
+Calvo un poco. caluaster.tri.
+Calvo atras o hazia tras. recaluus.a.um.
+Calvo hazia tras un poco. recaluaster.tri.
+Callar. taceo.es.sileo.es.silesco.is.
+Callar juntamente. conticeo.conticesco.is.
+Callar en esta manera. consileo.consilesco.
+Callar mucho. reticeo.es.reticui.
+Callar un poco. subticeo.es.subticui.
+Callada cosa que se calla. tacitus.a.um.
+Callada cosa que calla. tacitus.a.um.
+Callado que mucho calla. taciturnus.a.um.
+Calamiento assi. taciturnitas.atis.
+Callamiento como quiera. reticentia.silentium.
+Callar ciudad de cerdeña. caralis.is.
+Callares cosa desta ciudad. caralitanus.a.um
+Calle en lugar poblado.uia.ae.
+Calle sin salida. fundula.ae.
+Calle angosta o calleja. angiportus.i.
+Callo de la mano o de tal manera. callum.i.
+Calloso cosa con callos. callosus.a.um.
+Callecer hazer callos. calleo.es.caliesco.is.
+Callecer desta manera. obcalleo.obcallesco.
+Callo de herradura. callum soleae ferreae.
+Cama lecho donde dormimos. lectus.i.torus.i.
+Cama pequeña. lectulus.i.torulus.i.
+Cama de madera. fulcrum.i.
+Cama rica. sponda. spondae.
+Cama de pobres. grabattum.i.
+Camara donde dormimos. cubiculum.i.
+Camara como quiera. cella.ae.
+Camara pequeña assi. cellula.ae.
+Camarero de gran señor. cubicularius.ii.
+Camarera desta forma. cubicularia.ae.
+Camaras con llagas de tripas. dissenteria.ae.
+Camaras con gomito. choleres.rum.
+Camaras livianas. tenasmus.i.
+Camaras como quiera. uentris profluuium.
+Camara sin dolencia. alui citatio.
+Camara lo que assi se haze. alui excrementum
+Camafeo. calcitis bicolor.
+Camaron pescado. gammarus.i.
+Cambiar. commuto.as.permuto.as.
+Cambio. commutatio.permutatio.onis.
+Cambiador. mensarius.ii.argentarius.ii.
+Cambiador en griego. trapezita.ae.
+Cambiador pequeño. mensusarius.ii.
+Cambiador assi. nummularius.ii.
+Cambio de lugar a lugar. uectura.ae.
+Camello de una corcoba. camellus bactrianus
+Camello de dos corcobas. camellus arabicus
+Camellero que los cura. camellarius.ii.
+Camelleria oficio de aqueste. camellasia.ae.
+Cameleon animal como lagarto. chamelro.tis
+Camez punto o apice en las letras ebraicas.
+Caminar andar camino. facio.iter.
+Caminar querer. habeo.iter.
+Caminador o caminante. uiator.oris.
+Camino real. uia consularis.uel regia.
+Camino publico. uia publica.

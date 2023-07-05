@@ -1,0 +1,96 @@
+Amparo. protectio.tutela.tutamen.po.
+Ampolla para bever. ampulla potoria.
+Ampolla binchazon. ampula.ae.
+Ampolla burbuja del agua. bulla.ae.
+Ampollar se binchandose. ampullor.aris
+Ana. peso de partes iguales. barbarum.
+Ana nombre de muger. anna.ae.
+Anade ave conocida. anas.atis.
+Anadeja pequeña anade. anaticula.ae.
+Anadino pollo de anade. anaticulus.i.
+Anadear. in anatis morem nato
+Anapelo ierva. lupi strangulator.
+Anatomia de muertos. insectio.onis.
+Anatomia en griego. anatomia.ae.
+Anca donde juegan los uessos. coxendix.
+Anca la nalga. nates.is.clunis.is.
+Anca esta mesma en griego. pyga.ae.
+Ancla de nave. anchora.ae.
+Ancona ciudad de italia. ancon.onis.
+Anciano en edad viejo. senex.senior.
+Anciana cosa. antiquus.a.um.
+Anciania assi. antiquitas.atis.
+Anciano en la guerra. ueteranus.i.
+Ancho. latus.a.um.amplus.a.um.
+Aucbura. latitudo.amplitudo.inis.
+Anchamente. late.ampliter.
+Anchoua pececico. balecula.ae.
+Andado o antenado. priuignus.i.
+Andada o antenada. priuigna.ae.
+Andaluzia region de españa. bethica.ae.
+Andaluza cosa de alli. bethicus.a.um.
+Andar. ambulo.as.pergo.is.gradior.eris.
+Andadura. ambulatio.onis.gradus.us.
+Andadura pequeña. ambulatiuncula.ae.
+Andar con pompa y aparato. incedo.is.
+Andadura assi. incessus.us.
+Andar con otro. congredior.eris.
+Andadura con otro. congressio.congressus.us
+Andar delante de otro. anteambulo.as.
+Andador assi para acompañar. anteabulo.is.
+Andador que se passea. ambulator.oris.
+Andadora cosa atras. retrogradus.a.um.
+Andadora cosa con otra. congradus.a.um.
+Andar en derredor. obambulo.as.
+Andadura assi. obambulatio.onis.
+Andar por diversas tierras. peragro.as.
+Andadura assi. peragratio.onis.
+Andar perdido. erro.as.deerro.as.
+Andador en esta manera. erro.onis.
+Andar vagando. uagor.aris.
+Andadora cosa assi. uagabundus.a.um.
+Andar culebreando. uarico.as.
+Andadora cosa assi. uaricus.a.um.
+Andar de andadura. gradatim.eo.is.
+Andar de dos en dos. pedatim.eo.is.
+Andar trotando. subsultim incedo.is.
+Andadora cosa assi. desultorius.a.um.
+Andador pregonero. uiator.oris.
+Andador que llama. nomenclator.oris.
+Andamio por donde andan. ambulacrum.i.
+Andas de muerto. capulus.i.sandapila.ae.
+Andas de muerto en griego. pheretrum.i.
+Andas para bivo. sella.ae.lectica.ae.
+Andas desta manera. carpentum.i.
+Andas pequeñas. lecticula.ae.arcera.ae.
+Andas que lle van cuatro. tetraphorum.
+Andas que llevan seis. bexaphorum.
+Andas que llevan ocho. octaphorum.
+Andarraia. calculorum ludus.no
+Anden para andar. ambulacrum.i.
+Andres nombre de varon. andrias.ae.
+Anegarse la nave. naufragium facere.
+Anegado en esta manera. naufragus.a.um.
+Anegamiento assi. naufragium.ii.
+Anegar a otra cosa. mergo.is.submergo.
+Angarillas. craticium uectabulum.
+Anguilla pescado conocido. anguilla.ae.
+Angosto cosa estrecha. angustus.a.um.
+Angostura o estrecbura. angustia.ae.
+Angostar o estrechar. angusto.as.
+Angustia encogimiento de animo. angor.
+Angustiar en esta manera. ango.is.xi.
+Angustiado en esta manera. anxius.a.um.
+Angel mensagero de dios. angelus.i.
+Angel bueno. calodaemon.onis.
+Angel malo. cacodaemon.onis.
+Angelical cosa. angelicus.a.um.
+Anidar hazer nido. nidifico.as.nidulor.aris.
+Anillo. annulus.i.gre.dactylus.i.
+Anillo pequeño. anellus.i.
+Anillo para sellar. annulus signatorius.
+Anillo este mesmo. gemma.ae.
+Animal. animans.antis.animal.is.
+Anima con que bivimos. anima.ae.
+Anima con que entendemos. animus.i.
+Anima con que recordamos. mens.tis.

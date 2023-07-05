@@ -1,0 +1,96 @@
+Diaquilon medicina. tetrapharmacum.i.
+Diapason consonancia. diapason.
+Diapente consonancia. diapente.
+Diatessaron consonancia. diatessaron.
+Dicion o palabra. dictio.onis.
+Dicionario de vocablos. dictionarium.ii.
+Dicionario en griego. lexicon.i.
+Dicipulo o diciplo. discipulus.i.
+Diciplina o dotrina. disciplina.ae.
+Dicipulo con otro. condicipulus.i.
+Diciplina con otro. condisciplinatus.us.
+Dicipulo mientras oie. acusticus.i.
+Diciplinar o enseñar. doceo.es.instituo.is.
+Diciplinado o enseñado. disciplinosus.
+Dicha buena. foelicitas.faustitas.atis.
+Dicha para otro. prosperitas.atis.
+Dichoso. foelix.faustus.fortunatus.
+Dichoso a otro. prosper.a.um.
+Dichosamente. foeliciter.fortunate.
+Dicho. dictum.i.dictus.a.um.
+Dicho agudamente. dicterium.ii.
+Dicho este en griego. apophthema.atis.
+Dicho con malicia. scomma.atis.
+Diego nombre de varon. jacobus.i.
+Diente de ajos. spicum alii.
+Diente colmillo. dens columellaris.
+Dientes delanteros. dentes primores.
+Diente como quiera. dens.tis.
+Diestra cosa a la mano derecha. dexter.a.um.
+Diestra la mano derecha. dextera.dextra.
+Diestra cosa que tiene destreza. strenuus.a.um.
+Dieta de comer. diarium.diaeta.
+Dieta jornada. iter unius diei.
+Dieta esta mesma. itineris mansio.
+Diez numero. numerus denarius.
+Diez y seis numero. sedenarius numerus.
+Diez y siete numero. septem denarius numerus
+Diez y ocho numero. decemoctonarius nu.
+Diez y nueve numero. decemnouenarius.
+Diez en numero. decem.indecli.
+Diez y seis en numero. sedecim.
+Diez y siete en numero. septemdecim.
+Diez y siete en numero. decem et septem.
+Diez y ocho en numero. decem et octo.
+Diez y ocho en numero. duodeuiginti.
+Diez y nueve en numero. decem et nouem.
+Diez y nueve en numero. undeuiginti.
+Diez mil en numero. decem mille.
+Diez millares en numero. decem milia.
+Diez y seis mil. sedecim mille.
+Diez y seis mil. decem et sex mille.
+Diez y seis millares. sedecim milia.
+Diez y seis millares. decem et sex milia.
+Diez y siete mil. septemdecim mille.
+Diez y siete mil. decem et septem mille.
+Diez y siete millares. decem et septem milia.
+Diez y siete millares. septemdecim milia.
+Diez y ocho mil. decem et octo mille.
+Diez y ocho mil. duodeuiginti mille.
+Diez y ocho millares. decem et octo milia.
+Diez y ocho millares. duodeuiginti milia.
+Diez y nueve mil. decem et nouem mille.
+Diez y nueve mill. undeniginti mille.
+Diez y nueve millares. decem et nouen milia.
+Diez y nueve millares. undeuiginti milia.
+Diez cuentos. centies centum mille.
+Diez y seis cuentos. cencies et sexagies.c.m.
+Diez y siete cuentos. cencies septuagies.c.m.
+Diez y ocho cuentos. centies octogies.c.m.
+Diez y ocho cuentos. centies nonagies.c.m.
+Diez mil cuentos. decies mille milies.
+Diez en orden. decimus.a.um.
+Diez y seis en orden. sedecimus.a.um.
+Diez y seis en orden. decimus et sextus.
+Diez y siete en orden. septemdecimus.a.um.
+Diez y siete en orden. decimus et septimus.
+Diez y ocho en orden. decimus et octauus.
+Diez y ocho en orden. duodeuicesimus.
+Diez y nueve en orden. decimus et nonus.
+Diez y nueve en orden. undeuicesimus.
+Diez mil en orden. decies millesimus.
+Diez y seis mil en orden. decies et sexies.m.
+Diez y seis mil en orden. sedecies.m.
+Diez y siete mil en orden. decies et septies.m.
+Diez y siete mil en orden. septemdecies.m.
+Diez y ocho mil en orden. decies et octies.m.
+Diez y nueve mil en orden. decies et nouies.m
+Diez y ocho mil en orden. duodeuicies.m.
+Diez y nueve mil en orden. undeuicies.m.
+Diez cada uno o de diez en diez. deni.ae.a.
+Diez y seis cada uno. sen deni.ae.a.
+Diez y seis cada uno. deni et seni.ae.a.
+Diez y siete cada uno. septeni deni.ae.a.
+Diez y siete cada uno. deni et septeni.ae.a.
+Diez y ocho cada uno. deni et octoni.ae.a.
+Diez y ocho cada uno. duodeuiceni.ae.a.

@@ -1,0 +1,96 @@
+Doliente del estomago. stomachicus.i.
+Dolencia del estomago. stomachice.es.
+Doliente del corazon. cardiacus.
+Dolencia del corazon. cardia.ae.
+Dolencia de los ojos. ophthalmia.ae.
+Doliente de los ojos. ophthalmicus.
+Doliente de las orejas. paroticus.
+Dolencia de las orejas. parotis.idis.
+Doliente de camaras. celiacus
+Dolencia de camaras. celiaca.ae.
+Doliente de tripas. torminosus.a.um.
+Dolencia de tripas. tormina.num.
+Doliente del costado. pleureticus.a.um.
+Dolencia o dolor de costado. pleuresis
+Domar cosa fiera. domo.as.domui.
+Domar a menudo. domito.as.aui.
+Domarso el iugo. subiugo.as.aui
+Domable. domabilis.e.subiugabilis.e.
+Domadura. domitura.ae.domatio.onis
+Domador. domitor.oris.domator.oris
+Domador de cavallos. hippodamus
+Domingo dia. dominicus dies
+Domingo nombre de varon. dominicus.i.
+Do por adonde. quo aduerbium
+Do por endonde. ubi aduerbium
+Don prenombre castellano. dominus.i.
+Don por dadiva. donum.i.munus.eris
+Donar dar gracioso. dono.as.aui
+Donacion en esta manera. donatio.onis
+Donador el que da assi. donator.oris
+Don pequeño. munusculum.i.
+Don que se promete en la guerra. donatiuum
+Donaire. facetiae.arum.sales.salium
+Donaire. festiuitas.atis.comitas.atis
+Donoso. facetus.a.um.salsus.a.um.
+Donoso. festiuus.a.um.comis.e.
+Donosamente. festiue.festiuiter
+Donosamente. facete.comiter
+Donairoso de muchos donaires. facetoso.a.um
+Donde a lugar adverbio. quo
+Donde en lugar adverbio. ubi
+Donzella. uirgo.uirguncula
+Donzel. domicellus.i.nunc page
+Donde quiera adverbio. ubique
+Donde quieraque. ubicunque.ubilibet
+Doña prenombre castellano. domina.ae.
+Donzella. domicella.ae.uirguncula.ae.
+Dorada pescado. aurata.ae.
+Dorada cosa. aureus.a.um.auratus.a.um
+Dorada cosa pequeña. aureolus.a.um
+Doradura. inauratio.onis.auramentum.i.
+Dorador. aurarius.ii.aurator.oris.
+Dorar. auro.as.aui.inauro.as.aui.
+Dormidera. papauer.eris.
+Dormir. dormio.is.dormiui
+Dormira menudo. dormito.as.aui
+Dormidor. dormitor.oris.
+Dormir mucho. edormio.is.iui.
+Dormitorio lugar. dormitorium.ii.
+Dormitorio en griego. coemiterium.ii.
+Dos numero. numerus binarius
+Dos en numero. duo duae duo.
+Dos mil en numero. duo mille
+Dos millares. duo milia
+Dos cuentos. uicies centum mille
+Dos mil cuentos. bis mille milies
+Dos en orden o segundo. secundus.a.um
+Dos mil en orden. bis millesimus
+Dos cada uno o de dos en dos. bini.ae.a.
+Dos mil cada uno. bis milleni.ae.a.
+Dos cuentos cada uno. uicies centeni milleni
+Dos mil cuentos cada uno. bis mileni milies
+Dos vezes adverbio. bis.
+Dos mil vezes adverbio. bis milies
+Dos mil cuentos de vezes. bis milies milies.
+Dos tanto o el doblo. duplus.a.um
+Dos años. biennium.ii.bimatus.us.
+Dos añal cosa. biennis.e.bimus.a.um.
+Dos meses tiempo. bimestre tempus
+Dos meses cosa. bimestris.e.
+Dos dias tiempo. biduum.i.
+Dos dias cosa. bidualis.e.
+Dos caminos dose parten. biuium.ii.
+Dos varones dignidad. duum uir
+Dos varonado. duum uiratus.us.
+Dos noches tiempo. binoctium.ii.
+Dos noches cosa. binoctialis.e.
+De dos colores cosa. bicolor.oris
+De dos cabezas cosa. biceps.cipitis
+De dos frentes cosa. bifrons.ontis
+De dos cuernos cosa. bicornis.e.
+De dos cuerpos cosa. bicorpor.oris
+De dos dientes cosa. bidens.tis
+De dos miembros cosa. bimembris.e.
+De dos lenguas cosa. bilinguis.e.
+De dos pies cosa. bipes bipedis
